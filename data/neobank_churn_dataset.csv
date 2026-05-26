@@ -1,0 +1,1501 @@
+customer_id,signup_date,tenure_months,age,region,plan_tier,monthly_fee_cad,num_products,avg_monthly_balance_cad,balance_trend,monthly_txn_count,app_logins_monthly,days_since_last_login,support_contacts_6mo,has_external_bank_link,referral_source,churned
+CUST00001,2020-02-23,52,31,British Columbia,Premium,19.99,4,17205.33,stable,24,21,4,1,1,App Store,0
+CUST00002,2023-06-07,12,26,Ontario,Free,0.0,2,375.18,growing,11,4,26,1,1,Paid Ad,0
+CUST00003,2023-12-04,6,36,Ontario,Free,0.0,2,4068.76,stable,13,3,5,1,0,Paid Ad,0
+CUST00004,2021-10-15,32,27,Ontario,Standard,9.99,3,912.97,growing,15,9,3,1,1,Social Media,0
+CUST00005,2019-01-29,65,35,British Columbia,Free,0.0,1,224.53,declining,8,2,0,1,0,Social Media,0
+CUST00006,2024-05-02,1,41,British Columbia,Standard,9.99,3,2190.29,growing,24,8,20,1,1,Social Media,1
+CUST00007,2021-12-14,30,28,Alberta,Premium,19.99,2,6981.16,stable,29,30,10,1,1,App Store,0
+CUST00008,2021-04-18,38,36,Quebec,Premium,19.99,2,13830.12,stable,28,22,1,3,0,Organic,0
+CUST00009,2019-10-26,56,34,Ontario,Free,0.0,1,526.06,stable,11,2,3,1,1,Social Media,1
+CUST00010,2021-10-15,32,46,Quebec,Free,0.0,1,1718.86,growing,8,9,99,1,1,Organic,0
+CUST00011,2023-02-07,16,27,British Columbia,Premium,19.99,4,1464.35,stable,24,23,24,1,1,Friend Referral,0
+CUST00012,2018-10-01,69,36,Quebec,Premium,19.99,3,748.65,declining,33,20,6,0,0,Friend Referral,0
+CUST00013,2021-08-16,34,19,British Columbia,Standard,9.99,1,2925.9,declining,22,9,11,2,1,Social Media,0
+CUST00014,2024-05-02,1,27,Ontario,Standard,9.99,3,459.51,stable,10,10,8,0,1,Friend Referral,0
+CUST00015,2022-07-12,23,33,Quebec,Free,0.0,2,584.37,stable,9,6,0,0,1,Social Media,1
+CUST00016,2023-11-04,7,40,British Columbia,Premium,19.99,2,2847.74,growing,38,28,22,2,1,Social Media,0
+CUST00017,2023-06-07,12,22,Other,Standard,9.99,2,377.14,growing,19,14,18,3,1,Paid Ad,0
+CUST00018,2019-04-29,62,36,Ontario,Free,0.0,2,316.33,declining,4,4,7,1,1,Friend Referral,1
+CUST00019,2024-02-02,4,30,Quebec,Free,0.0,1,173.9,declining,7,6,28,1,0,Social Media,1
+CUST00020,2021-08-16,34,20,British Columbia,Premium,19.99,3,10726.86,stable,26,19,11,2,1,Paid Ad,0
+CUST00021,2021-04-18,38,32,Ontario,Free,0.0,1,346.81,stable,9,3,1,2,1,Social Media,1
+CUST00022,2018-09-01,70,42,Alberta,Free,0.0,1,87.54,stable,6,3,4,0,1,Friend Referral,0
+CUST00023,2022-02-12,28,23,Alberta,Standard,9.99,2,1709.33,growing,10,11,9,0,0,Friend Referral,0
+CUST00024,2023-03-09,15,30,Quebec,Free,0.0,1,195.77,stable,7,3,1,3,0,Social Media,1
+CUST00025,2022-06-12,24,24,Ontario,Free,0.0,1,442.31,declining,7,7,12,1,0,Friend Referral,1
+CUST00026,2019-01-29,65,27,Ontario,Premium,19.99,3,93.61,stable,33,16,1,1,1,Social Media,0
+CUST00027,2021-11-14,31,41,Ontario,Premium,19.99,4,6449.55,stable,37,29,3,1,0,Social Media,0
+CUST00028,2020-02-23,52,29,Ontario,Premium,19.99,4,2152.16,growing,26,23,33,1,0,Social Media,0
+CUST00029,2018-10-01,69,40,Quebec,Premium,19.99,2,1879.46,growing,36,17,120,0,1,Friend Referral,0
+CUST00030,2024-03-03,3,38,British Columbia,Standard,9.99,1,654.14,stable,23,10,11,2,0,Friend Referral,0
+CUST00031,2022-12-09,18,28,Quebec,Premium,19.99,4,2865.72,declining,28,26,14,2,1,Friend Referral,0
+CUST00032,2018-09-01,70,27,British Columbia,Standard,9.99,2,1608.17,declining,19,14,23,0,1,App Store,0
+CUST00033,2018-11-30,67,24,British Columbia,Standard,9.99,1,485.34,declining,21,22,17,0,1,Organic,0
+CUST00034,2022-09-10,21,24,British Columbia,Premium,19.99,4,4758.24,stable,34,16,3,4,0,Organic,0
+CUST00035,2019-08-27,58,33,Ontario,Free,0.0,2,1745.95,stable,7,5,7,0,0,Social Media,1
+CUST00036,2022-02-12,28,30,British Columbia,Standard,9.99,3,3236.43,declining,16,9,11,0,0,Paid Ad,0
+CUST00037,2023-02-07,16,26,Ontario,Standard,9.99,2,2758.85,stable,21,14,6,2,1,App Store,0
+CUST00038,2024-05-02,1,20,Alberta,Free,0.0,1,33.36,declining,10,1,2,0,0,Paid Ad,1
+CUST00039,2023-12-04,6,31,Alberta,Free,0.0,1,430.97,declining,8,6,19,3,0,Social Media,1
+CUST00040,2023-02-07,16,27,Quebec,Premium,19.99,3,6602.99,stable,27,20,3,1,1,Friend Referral,0
+CUST00041,2023-10-05,8,29,British Columbia,Premium,19.99,2,1568.15,stable,31,24,4,0,0,Friend Referral,1
+CUST00042,2024-03-03,3,33,British Columbia,Standard,9.99,2,3964.04,stable,13,19,5,0,1,Friend Referral,0
+CUST00043,2022-02-12,28,18,British Columbia,Free,0.0,2,228.64,growing,10,6,2,0,1,Friend Referral,0
+CUST00044,2021-10-15,32,20,Ontario,Free,0.0,2,190.63,stable,9,4,28,2,0,Social Media,1
+CUST00045,2019-03-30,63,47,Ontario,Premium,19.99,4,2763.21,declining,38,19,14,2,1,Friend Referral,0
+CUST00046,2023-12-04,6,27,Other,Standard,9.99,3,1059.52,declining,19,15,27,1,1,App Store,1
+CUST00047,2021-02-17,40,18,Ontario,Free,0.0,2,220.31,growing,8,3,10,0,0,Social Media,0
+CUST00048,2021-07-17,35,20,British Columbia,Standard,9.99,3,841.76,stable,16,15,10,3,0,Paid Ad,1
+CUST00049,2022-11-09,19,48,Alberta,Free,0.0,2,951.16,stable,8,4,14,3,1,Friend Referral,1
+CUST00050,2022-09-10,21,26,British Columbia,Standard,9.99,1,4821.94,stable,8,11,6,3,0,Friend Referral,0
+CUST00051,2019-05-29,61,39,Quebec,Premium,19.99,3,11034.73,stable,23,20,10,1,1,Friend Referral,0
+CUST00052,2023-06-07,12,31,Alberta,Standard,9.99,2,1734.15,stable,21,17,11,0,1,Friend Referral,0
+CUST00053,2020-06-22,48,27,British Columbia,Standard,9.99,3,924.35,stable,14,13,46,1,0,Social Media,1
+CUST00054,2024-05-02,1,36,Quebec,Standard,9.99,2,37.02,growing,13,15,32,1,1,Friend Referral,0
+CUST00055,2021-06-17,36,18,Ontario,Standard,9.99,2,273.07,stable,25,9,2,1,0,Organic,0
+CUST00056,2021-09-15,33,20,Quebec,Standard,9.99,3,2806.73,stable,16,8,0,2,0,Paid Ad,1
+CUST00057,2022-06-12,24,27,Ontario,Free,0.0,2,716.22,growing,8,3,17,1,1,Organic,0
+CUST00058,2021-02-17,40,21,Ontario,Standard,9.99,2,324.66,stable,20,9,0,2,0,Social Media,0
+CUST00059,2024-02-02,4,26,Quebec,Free,0.0,1,1093.4,stable,10,6,0,2,1,Paid Ad,0
+CUST00060,2023-08-06,10,36,British Columbia,Premium,19.99,4,4343.69,declining,38,25,2,0,1,Organic,0
+CUST00061,2020-05-23,49,31,Alberta,Standard,9.99,1,914.99,stable,17,10,6,2,0,Organic,0
+CUST00062,2023-01-08,17,40,Ontario,Premium,19.99,3,1718.54,stable,23,25,8,0,0,App Store,1
+CUST00063,2018-10-31,68,32,Quebec,Free,0.0,2,237.63,stable,11,2,10,0,0,Social Media,0
+CUST00064,2021-10-15,32,37,Ontario,Standard,9.99,2,1567.11,growing,19,11,72,2,1,Organic,0
+CUST00065,2023-10-05,8,30,Other,Standard,9.99,1,41.38,stable,20,14,7,0,0,Social Media,0
+CUST00066,2019-07-28,59,26,British Columbia,Standard,9.99,2,1475.77,declining,21,14,4,1,0,App Store,1
+CUST00067,2022-04-13,26,41,Ontario,Free,0.0,1,271.58,stable,11,3,12,0,1,Social Media,1
+CUST00068,2023-07-07,11,26,Alberta,Standard,9.99,2,533.94,stable,17,7,3,1,1,Friend Referral,0
+CUST00069,2023-02-07,16,33,Other,Standard,9.99,3,1729.95,growing,15,10,42,5,0,Social Media,0
+CUST00070,2023-12-04,6,36,Alberta,Free,0.0,2,598.62,declining,7,5,4,3,1,Social Media,1
+CUST00071,2023-11-04,7,36,Ontario,Free,0.0,2,0.79,declining,6,7,68,0,0,Organic,1
+CUST00072,2023-02-07,16,22,Quebec,Standard,9.99,1,2995.82,growing,11,8,8,1,1,Paid Ad,0
+CUST00073,2022-10-10,20,38,British Columbia,Standard,9.99,1,746.01,stable,23,5,25,0,0,Friend Referral,0
+CUST00074,2022-02-12,28,24,Quebec,Free,0.0,2,623.71,growing,7,2,15,2,1,Organic,0
+CUST00075,2024-05-02,1,36,British Columbia,Free,0.0,2,23.68,stable,3,2,40,2,0,Organic,1
+CUST00076,2023-02-07,16,34,British Columbia,Free,0.0,1,154.79,growing,8,9,14,2,0,Social Media,1
+CUST00077,2021-12-14,30,36,Alberta,Standard,9.99,3,6101.03,growing,17,12,13,1,0,Friend Referral,0
+CUST00078,2020-06-22,48,22,Alberta,Standard,9.99,1,975.97,growing,15,14,15,0,1,Organic,0
+CUST00079,2022-05-13,25,35,Alberta,Premium,19.99,3,10897.71,declining,32,19,23,1,0,Social Media,0
+CUST00080,2018-10-01,69,38,Quebec,Premium,19.99,4,2777.65,declining,29,17,34,0,0,App Store,0
+CUST00081,2020-10-20,44,32,Quebec,Standard,9.99,1,172.72,growing,16,6,4,0,1,Social Media,0
+CUST00082,2023-02-07,16,25,Ontario,Free,0.0,1,553.21,stable,10,2,3,2,0,Organic,0
+CUST00083,2023-10-05,8,37,Quebec,Free,0.0,1,37.26,growing,5,6,0,0,1,Organic,1
+CUST00084,2021-08-16,34,31,Quebec,Free,0.0,1,687.81,growing,9,6,6,1,1,Social Media,1
+CUST00085,2022-03-14,27,19,Ontario,Premium,19.99,2,1778.71,declining,31,27,28,1,0,Organic,0
+CUST00086,2023-10-05,8,24,Alberta,Standard,9.99,3,3628.28,growing,26,15,1,2,1,Organic,0
+CUST00087,2023-09-05,9,27,Alberta,Free,0.0,1,150.59,stable,9,5,11,0,0,Friend Referral,1
+CUST00088,2023-08-06,10,41,Other,Standard,9.99,3,191.6,stable,19,17,17,3,1,Social Media,0
+CUST00089,2022-11-09,19,40,British Columbia,Standard,9.99,1,1115.16,growing,17,11,27,1,1,Social Media,0
+CUST00090,2024-01-03,5,40,British Columbia,Standard,9.99,2,289.58,stable,23,10,13,3,1,Friend Referral,0
+CUST00091,2023-04-08,14,32,Alberta,Free,0.0,1,185.33,declining,10,6,3,0,0,App Store,1
+CUST00092,2023-01-08,17,37,Ontario,Premium,19.99,4,2498.03,declining,28,33,50,1,0,Organic,0
+CUST00093,2022-11-09,19,23,Alberta,Standard,9.99,2,1684.0,growing,13,15,1,0,1,Organic,0
+CUST00094,2024-05-02,1,31,Other,Free,0.0,2,1133.96,declining,4,6,21,0,1,Organic,0
+CUST00095,2024-05-02,1,34,Quebec,Premium,19.99,4,1625.51,declining,27,19,1,0,0,Paid Ad,0
+CUST00096,2024-05-02,1,23,Other,Free,0.0,1,655.94,growing,9,4,2,1,0,Friend Referral,1
+CUST00097,2023-11-04,7,32,British Columbia,Premium,19.99,3,2817.28,stable,33,26,34,0,1,Organic,0
+CUST00098,2024-04-02,2,42,Ontario,Premium,19.99,4,5222.27,growing,35,30,20,3,1,Social Media,0
+CUST00099,2024-05-02,1,34,Ontario,Standard,9.99,2,766.83,stable,17,14,6,1,1,Friend Referral,0
+CUST00100,2024-03-03,3,37,Quebec,Standard,9.99,3,2569.13,stable,20,14,15,2,1,Organic,0
+CUST00101,2024-03-03,3,18,Ontario,Free,0.0,1,926.95,growing,8,6,9,1,0,Friend Referral,0
+CUST00102,2024-04-02,2,41,Quebec,Premium,19.99,4,4115.78,growing,38,23,1,3,1,Paid Ad,0
+CUST00103,2020-10-20,44,29,Ontario,Standard,9.99,2,7604.04,stable,15,18,19,0,1,Organic,0
+CUST00104,2020-02-23,52,25,Other,Standard,9.99,2,3089.8,stable,16,17,21,1,0,Organic,1
+CUST00105,2021-09-15,33,29,Ontario,Premium,19.99,2,1922.85,stable,31,20,32,1,1,Organic,0
+CUST00106,2023-04-08,14,20,British Columbia,Premium,19.99,2,2491.62,stable,39,18,11,1,1,Organic,0
+CUST00107,2023-02-07,16,38,Quebec,Premium,19.99,2,1637.79,growing,25,22,16,1,1,Friend Referral,1
+CUST00108,2021-02-17,40,28,Alberta,Free,0.0,1,1532.22,stable,7,5,8,3,0,Organic,1
+CUST00109,2022-09-10,21,25,British Columbia,Premium,19.99,2,5749.57,growing,40,30,5,2,1,Social Media,0
+CUST00110,2022-12-09,18,29,Other,Standard,9.99,1,1831.18,declining,21,12,7,1,0,Friend Referral,1
+CUST00111,2024-03-03,3,38,British Columbia,Premium,19.99,3,5178.63,stable,34,15,36,0,1,Paid Ad,0
+CUST00112,2024-04-02,2,31,Ontario,Standard,9.99,3,724.04,growing,18,12,2,1,0,Social Media,0
+CUST00113,2023-11-04,7,21,British Columbia,Free,0.0,2,50.23,growing,10,5,4,1,1,Organic,1
+CUST00114,2024-04-02,2,34,Quebec,Standard,9.99,2,1677.86,growing,18,10,13,2,0,Social Media,1
+CUST00115,2023-06-07,12,24,British Columbia,Standard,9.99,1,3562.81,growing,21,8,1,1,1,Friend Referral,0
+CUST00116,2019-09-26,57,18,Quebec,Standard,9.99,2,5391.01,stable,21,13,33,3,1,Organic,1
+CUST00117,2019-04-29,62,41,British Columbia,Free,0.0,1,1191.98,declining,13,4,0,0,1,Social Media,0
+CUST00118,2024-05-02,1,34,Ontario,Standard,9.99,3,3702.39,stable,20,9,21,1,0,Paid Ad,1
+CUST00119,2020-10-20,44,30,Ontario,Free,0.0,1,565.22,stable,11,5,7,0,0,Organic,0
+CUST00120,2021-08-16,34,28,Other,Premium,19.99,2,22111.32,stable,29,21,0,3,1,Organic,0
+CUST00121,2019-05-29,61,40,Quebec,Standard,9.99,2,997.49,stable,21,7,27,3,1,App Store,0
+CUST00122,2022-09-10,21,52,Ontario,Free,0.0,1,84.59,growing,9,3,15,2,0,Organic,0
+CUST00123,2023-09-05,9,34,Ontario,Free,0.0,2,248.74,growing,8,2,0,3,1,Organic,0
+CUST00124,2022-04-13,26,23,Ontario,Free,0.0,1,336.68,declining,7,5,4,2,0,Organic,1
+CUST00125,2021-06-17,36,29,Alberta,Standard,9.99,2,2188.04,declining,18,8,6,2,1,Friend Referral,0
+CUST00126,2021-07-17,35,34,Ontario,Free,0.0,1,271.94,growing,6,6,5,1,0,Paid Ad,0
+CUST00127,2023-12-04,6,18,British Columbia,Free,0.0,2,190.27,growing,6,2,10,1,0,Friend Referral,0
+CUST00128,2019-05-29,61,33,Ontario,Premium,19.99,3,10999.5,declining,28,25,11,2,1,Organic,0
+CUST00129,2020-10-20,44,34,Quebec,Premium,19.99,2,5628.89,stable,30,19,7,1,1,Organic,0
+CUST00130,2024-04-02,2,40,Ontario,Standard,9.99,2,1304.84,declining,18,9,6,2,1,Friend Referral,0
+CUST00131,2019-06-28,60,39,Ontario,Premium,19.99,4,4261.71,growing,40,25,10,0,0,Friend Referral,1
+CUST00132,2023-08-06,10,31,Quebec,Free,0.0,1,1360.97,declining,6,2,0,0,0,Friend Referral,1
+CUST00133,2024-04-02,2,41,British Columbia,Standard,9.99,2,165.98,declining,14,13,15,3,1,Friend Referral,0
+CUST00134,2020-04-23,50,45,Quebec,Standard,9.99,3,1751.43,growing,14,11,13,2,0,Paid Ad,0
+CUST00135,2018-10-31,68,31,Ontario,Standard,9.99,1,5908.04,stable,27,9,4,3,0,Organic,1
+CUST00136,2024-01-03,5,33,British Columbia,Standard,9.99,2,1327.46,growing,20,8,2,1,0,Organic,0
+CUST00137,2023-03-09,15,18,Ontario,Standard,9.99,3,4731.24,stable,24,8,1,3,0,App Store,0
+CUST00138,2022-06-12,24,20,Quebec,Standard,9.99,2,3603.91,stable,17,11,13,1,0,Social Media,0
+CUST00139,2021-06-17,36,25,Ontario,Standard,9.99,1,318.96,stable,21,10,12,1,1,Social Media,0
+CUST00140,2023-06-07,12,27,Ontario,Free,0.0,2,278.04,stable,8,6,11,1,1,Friend Referral,1
+CUST00141,2023-05-08,13,23,Ontario,Free,0.0,2,75.0,growing,6,11,63,0,1,Social Media,0
+CUST00142,2022-04-13,26,30,British Columbia,Free,0.0,1,11.26,stable,10,7,11,3,0,Social Media,1
+CUST00143,2023-02-07,16,28,British Columbia,Free,0.0,1,1016.74,stable,10,5,19,1,1,Paid Ad,1
+CUST00144,2024-01-03,5,38,British Columbia,Standard,9.99,3,2714.72,declining,8,11,1,2,0,Organic,0
+CUST00145,2022-10-10,20,27,British Columbia,Free,0.0,1,469.17,growing,9,4,5,2,0,Social Media,0
+CUST00146,2019-12-25,54,18,Ontario,Premium,19.99,3,3608.63,stable,35,24,4,1,0,Organic,0
+CUST00147,2023-10-05,8,31,Ontario,Free,0.0,2,546.99,stable,5,1,12,1,1,App Store,0
+CUST00148,2019-06-28,60,30,Ontario,Free,0.0,1,586.97,stable,11,2,6,1,1,Organic,0
+CUST00149,2023-09-05,9,24,Ontario,Standard,9.99,3,762.74,stable,19,17,15,2,0,App Store,1
+CUST00150,2023-11-04,7,31,Ontario,Free,0.0,2,61.85,stable,12,3,17,3,1,Organic,1
+CUST00151,2023-07-07,11,23,Ontario,Standard,9.99,2,919.37,declining,25,15,0,3,1,Social Media,1
+CUST00152,2022-11-09,19,33,Alberta,Standard,9.99,3,110.96,growing,9,11,15,0,0,Friend Referral,0
+CUST00153,2022-02-12,28,49,Quebec,Free,0.0,2,1281.52,declining,6,5,1,3,0,Social Media,0
+CUST00154,2021-10-15,32,18,British Columbia,Free,0.0,1,1077.41,stable,9,3,9,0,1,Social Media,0
+CUST00155,2018-10-31,68,27,Quebec,Standard,9.99,1,1822.16,stable,16,12,19,0,0,Friend Referral,0
+CUST00156,2023-04-08,14,26,Other,Free,0.0,1,973.13,stable,8,4,18,1,1,Organic,1
+CUST00157,2022-04-13,26,27,British Columbia,Free,0.0,1,24.8,declining,9,6,5,0,1,Paid Ad,0
+CUST00158,2020-08-21,46,38,Ontario,Free,0.0,1,80.39,stable,6,5,4,1,1,Organic,1
+CUST00159,2023-08-06,10,34,Other,Free,0.0,2,267.19,declining,10,8,8,0,1,Friend Referral,0
+CUST00160,2023-10-05,8,36,Quebec,Standard,9.99,3,1642.91,growing,21,11,3,0,1,App Store,0
+CUST00161,2022-01-13,29,31,Quebec,Standard,9.99,1,1121.86,stable,16,14,55,1,1,Social Media,0
+CUST00162,2024-05-02,1,21,British Columbia,Standard,9.99,1,6766.09,stable,14,12,6,1,1,Organic,0
+CUST00163,2023-03-09,15,23,British Columbia,Free,0.0,1,88.83,stable,4,7,38,2,0,Organic,1
+CUST00164,2019-10-26,56,36,British Columbia,Free,0.0,2,335.82,stable,10,6,35,0,1,Paid Ad,1
+CUST00165,2018-10-01,69,32,Quebec,Premium,19.99,4,3538.64,stable,40,19,6,2,1,Friend Referral,1
+CUST00166,2022-10-10,20,39,Ontario,Standard,9.99,1,1791.01,stable,21,8,4,0,1,Social Media,0
+CUST00167,2020-07-22,47,33,Alberta,Premium,19.99,3,6233.39,stable,32,25,22,1,1,Social Media,0
+CUST00168,2023-12-04,6,22,Alberta,Standard,9.99,3,69.79,stable,15,8,3,1,1,Organic,1
+CUST00169,2023-05-08,13,27,British Columbia,Standard,9.99,2,2423.6,stable,18,11,11,1,1,Friend Referral,0
+CUST00170,2018-11-30,67,34,Ontario,Standard,9.99,1,654.47,stable,17,6,1,3,0,Paid Ad,0
+CUST00171,2024-02-02,4,35,Quebec,Free,0.0,1,248.52,growing,10,7,7,1,1,Organic,1
+CUST00172,2018-11-30,67,36,Ontario,Standard,9.99,2,451.99,declining,19,14,1,0,1,App Store,0
+CUST00173,2024-03-03,3,23,Other,Standard,9.99,3,630.1,declining,15,14,4,0,0,Organic,0
+CUST00174,2022-12-09,18,22,Quebec,Free,0.0,2,49.86,growing,5,1,16,0,1,App Store,0
+CUST00175,2019-01-29,65,29,Ontario,Free,0.0,2,247.16,growing,7,8,71,0,1,Social Media,0
+CUST00176,2021-11-14,31,41,British Columbia,Standard,9.99,2,1915.63,growing,23,15,4,2,1,Friend Referral,0
+CUST00177,2024-01-03,5,26,Quebec,Premium,19.99,3,2154.72,declining,26,19,9,0,1,Paid Ad,0
+CUST00178,2022-09-10,21,34,Ontario,Standard,9.99,1,6406.98,declining,17,4,8,1,0,Friend Referral,0
+CUST00179,2023-12-04,6,34,Ontario,Free,0.0,2,97.18,growing,7,2,3,0,1,Paid Ad,1
+CUST00180,2020-10-20,44,36,British Columbia,Free,0.0,2,167.99,declining,10,6,14,2,0,Social Media,0
+CUST00181,2023-09-05,9,42,Alberta,Standard,9.99,1,2939.28,growing,17,21,19,2,0,Paid Ad,1
+CUST00182,2023-04-08,14,41,Ontario,Free,0.0,1,662.33,growing,8,4,2,0,1,App Store,1
+CUST00183,2021-07-17,35,26,Quebec,Premium,19.99,2,2070.57,declining,23,25,21,2,1,Organic,0
+CUST00184,2021-12-14,30,18,British Columbia,Free,0.0,2,849.02,declining,8,3,18,0,0,Social Media,1
+CUST00185,2021-12-14,30,26,Ontario,Standard,9.99,2,23.28,declining,21,10,3,2,0,Paid Ad,0
+CUST00186,2022-02-12,28,31,Ontario,Standard,9.99,1,712.19,stable,18,18,15,2,1,Organic,0
+CUST00187,2024-01-03,5,28,Ontario,Premium,19.99,2,3101.86,stable,28,28,7,2,1,Social Media,0
+CUST00188,2023-10-05,8,44,Alberta,Standard,9.99,1,1267.08,declining,15,10,17,1,1,Friend Referral,1
+CUST00189,2020-09-20,45,31,Other,Standard,9.99,2,247.96,stable,12,18,10,2,0,Organic,1
+CUST00190,2022-12-09,18,35,Ontario,Premium,19.99,4,219.77,growing,27,20,0,0,1,App Store,0
+CUST00191,2019-11-25,55,32,British Columbia,Free,0.0,1,934.46,stable,9,7,23,1,0,Social Media,0
+CUST00192,2020-08-21,46,28,Other,Premium,19.99,3,10019.47,declining,34,26,12,0,0,Social Media,1
+CUST00193,2021-06-17,36,18,British Columbia,Free,0.0,2,1742.74,declining,6,8,19,0,1,Friend Referral,0
+CUST00194,2023-08-06,10,30,Ontario,Standard,9.99,2,4323.46,stable,19,10,2,1,1,Friend Referral,1
+CUST00195,2024-05-02,1,53,Ontario,Standard,9.99,1,2404.91,stable,24,20,19,2,1,App Store,0
+CUST00196,2018-10-01,69,22,Quebec,Free,0.0,2,34.08,growing,9,8,8,0,1,Friend Referral,0
+CUST00197,2024-05-02,1,18,British Columbia,Premium,19.99,3,7157.72,stable,39,25,24,2,1,Social Media,0
+CUST00198,2024-05-02,1,44,Quebec,Free,0.0,1,2468.98,stable,6,4,13,1,1,Friend Referral,0
+CUST00199,2019-08-27,58,36,British Columbia,Free,0.0,2,413.93,growing,7,7,6,3,1,App Store,1
+CUST00200,2021-02-17,40,32,Ontario,Standard,9.99,1,415.84,declining,12,10,3,1,1,Paid Ad,1
+CUST00201,2021-05-18,37,40,Ontario,Standard,9.99,3,3442.98,declining,14,16,25,1,0,Friend Referral,1
+CUST00202,2023-11-04,7,25,Other,Standard,9.99,2,4924.43,growing,16,12,12,1,1,Friend Referral,0
+CUST00203,2023-01-08,17,30,Alberta,Free,0.0,2,545.55,declining,9,7,65,0,1,Social Media,0
+CUST00204,2022-04-13,26,37,Quebec,Free,0.0,2,271.84,stable,9,2,7,2,0,App Store,0
+CUST00205,2021-03-19,39,45,Ontario,Free,0.0,2,1682.11,stable,4,7,17,0,1,App Store,1
+CUST00206,2022-12-09,18,22,British Columbia,Free,0.0,1,575.76,declining,9,9,14,1,0,Organic,0
+CUST00207,2021-10-15,32,39,British Columbia,Standard,9.99,1,2426.64,growing,17,11,15,1,0,Friend Referral,0
+CUST00208,2023-08-06,10,33,British Columbia,Standard,9.99,3,1205.77,declining,18,16,20,2,1,Friend Referral,0
+CUST00209,2024-01-03,5,32,Alberta,Premium,19.99,2,2105.74,stable,37,22,2,2,0,Organic,0
+CUST00210,2021-03-19,39,30,Ontario,Premium,19.99,3,4505.43,declining,25,13,11,2,0,Friend Referral,1
+CUST00211,2023-09-05,9,21,Quebec,Free,0.0,1,188.86,stable,2,7,10,0,1,Organic,1
+CUST00212,2022-08-11,22,37,Ontario,Standard,9.99,1,4602.32,growing,15,3,6,0,1,Friend Referral,0
+CUST00213,2024-02-02,4,25,British Columbia,Free,0.0,1,1525.01,stable,7,7,8,1,1,Social Media,0
+CUST00214,2021-12-14,30,23,Quebec,Free,0.0,2,293.48,growing,8,5,10,3,1,Organic,0
+CUST00215,2020-04-23,50,37,British Columbia,Standard,9.99,2,426.81,growing,21,16,5,2,1,Organic,0
+CUST00216,2019-01-29,65,36,Ontario,Free,0.0,1,110.73,growing,5,2,5,2,1,Social Media,1
+CUST00217,2023-03-09,15,31,British Columbia,Free,0.0,1,164.75,declining,10,6,20,1,1,Organic,1
+CUST00218,2018-09-01,70,38,Other,Premium,19.99,2,11734.4,declining,36,21,1,2,1,App Store,0
+CUST00219,2022-10-10,20,40,British Columbia,Standard,9.99,1,1481.02,declining,20,10,5,0,0,Organic,0
+CUST00220,2019-05-29,61,40,Ontario,Standard,9.99,2,2004.94,declining,21,12,15,1,0,App Store,1
+CUST00221,2019-04-29,62,27,Alberta,Free,0.0,1,538.42,declining,11,6,3,0,1,Friend Referral,1
+CUST00222,2022-09-10,21,38,Ontario,Free,0.0,1,174.04,growing,7,3,12,1,0,Paid Ad,1
+CUST00223,2021-07-17,35,32,Ontario,Premium,19.99,4,3421.18,declining,36,22,5,2,0,Social Media,0
+CUST00224,2024-01-03,5,43,British Columbia,Free,0.0,2,86.37,declining,11,5,27,2,1,Organic,1
+CUST00225,2024-02-02,4,30,Ontario,Standard,9.99,3,855.46,growing,24,11,6,3,1,Friend Referral,0
+CUST00226,2021-06-17,36,28,British Columbia,Free,0.0,1,55.98,stable,7,11,3,3,0,Friend Referral,1
+CUST00227,2023-03-09,15,26,Alberta,Standard,9.99,3,2912.82,stable,17,12,11,1,1,Social Media,0
+CUST00228,2022-11-09,19,32,Ontario,Free,0.0,2,816.46,declining,8,7,2,0,0,Organic,0
+CUST00229,2024-04-02,2,34,British Columbia,Premium,19.99,3,1400.09,stable,26,24,23,4,1,Social Media,0
+CUST00230,2024-01-03,5,34,Ontario,Premium,19.99,2,2040.67,declining,22,24,17,1,1,Social Media,1
+CUST00231,2024-02-02,4,33,British Columbia,Standard,9.99,1,130.35,growing,14,11,22,2,0,Social Media,0
+CUST00232,2020-02-23,52,35,Ontario,Free,0.0,1,386.01,growing,6,3,7,2,1,Friend Referral,0
+CUST00233,2023-06-07,12,29,Ontario,Premium,19.99,4,3757.61,declining,43,23,27,0,1,Friend Referral,0
+CUST00234,2024-02-02,4,24,Ontario,Standard,9.99,2,749.35,growing,20,7,10,0,0,Paid Ad,0
+CUST00235,2023-08-06,10,24,Ontario,Standard,9.99,3,855.51,stable,12,14,1,3,0,Organic,0
+CUST00236,2019-09-26,57,37,Ontario,Standard,9.99,2,1334.21,stable,17,17,3,2,0,Friend Referral,0
+CUST00237,2023-10-05,8,34,British Columbia,Free,0.0,2,532.76,declining,9,2,18,2,1,Social Media,0
+CUST00238,2020-09-20,45,18,British Columbia,Free,0.0,1,4.35,growing,7,7,34,1,0,Social Media,0
+CUST00239,2024-03-03,3,38,Ontario,Standard,9.99,1,1076.6,growing,17,14,1,1,0,Friend Referral,0
+CUST00240,2022-05-13,25,44,Ontario,Free,0.0,2,34.29,stable,9,6,29,2,1,App Store,0
+CUST00241,2020-03-24,51,25,Quebec,Standard,9.99,1,720.77,stable,19,12,24,2,0,Paid Ad,0
+CUST00242,2024-04-02,2,33,Quebec,Standard,9.99,2,626.09,stable,17,15,6,2,0,App Store,0
+CUST00243,2023-09-05,9,27,British Columbia,Premium,19.99,3,12798.74,declining,25,25,17,1,1,Organic,1
+CUST00244,2021-09-15,33,35,Other,Premium,19.99,2,691.99,stable,31,25,3,1,0,Social Media,0
+CUST00245,2023-07-07,11,22,Other,Premium,19.99,3,1915.94,declining,40,25,25,1,1,App Store,0
+CUST00246,2021-08-16,34,30,Ontario,Free,0.0,1,866.56,growing,7,10,16,0,1,Friend Referral,1
+CUST00247,2019-11-25,55,37,Ontario,Free,0.0,2,1057.63,stable,10,6,8,2,1,Social Media,0
+CUST00248,2020-01-24,53,39,Alberta,Standard,9.99,1,1317.51,declining,21,11,29,0,1,Social Media,1
+CUST00249,2023-10-05,8,33,Ontario,Free,0.0,2,497.99,stable,5,4,2,1,1,Paid Ad,0
+CUST00250,2022-04-13,26,28,British Columbia,Free,0.0,2,41.43,growing,9,3,28,1,1,App Store,0
+CUST00251,2023-08-06,10,19,Other,Standard,9.99,2,2249.03,declining,16,13,0,1,0,Social Media,0
+CUST00252,2024-02-02,4,25,Quebec,Standard,9.99,2,2006.49,stable,20,16,20,2,0,Paid Ad,1
+CUST00253,2022-07-12,23,27,Ontario,Premium,19.99,2,9113.55,declining,29,29,12,1,1,App Store,0
+CUST00254,2020-06-22,48,26,Quebec,Free,0.0,1,199.72,growing,5,7,17,1,0,Organic,0
+CUST00255,2019-06-28,60,31,Ontario,Free,0.0,2,275.43,stable,6,1,7,1,1,Organic,0
+CUST00256,2021-08-16,34,28,Alberta,Free,0.0,1,423.89,declining,9,4,29,0,1,Friend Referral,0
+CUST00257,2023-06-07,12,32,Ontario,Premium,19.99,2,2248.87,stable,24,25,5,1,0,Social Media,0
+CUST00258,2024-03-03,3,39,British Columbia,Standard,9.99,1,582.23,growing,13,10,4,1,1,App Store,0
+CUST00259,2022-02-12,28,28,Quebec,Premium,19.99,4,13211.59,growing,36,21,5,1,1,App Store,0
+CUST00260,2018-10-01,69,21,Ontario,Premium,19.99,3,1833.63,growing,27,30,22,0,0,Social Media,0
+CUST00261,2023-06-07,12,26,Ontario,Standard,9.99,1,4952.16,stable,18,11,10,2,1,App Store,0
+CUST00262,2024-01-03,5,35,Ontario,Standard,9.99,2,6346.03,stable,17,10,11,1,0,Friend Referral,0
+CUST00263,2022-03-14,27,35,British Columbia,Free,0.0,1,53.92,growing,2,5,26,1,1,Social Media,1
+CUST00264,2022-01-13,29,33,Alberta,Standard,9.99,3,9286.62,growing,22,15,26,1,1,App Store,0
+CUST00265,2021-01-18,41,40,Ontario,Standard,9.99,1,2297.82,stable,20,12,2,2,1,Friend Referral,0
+CUST00266,2024-05-02,1,29,Ontario,Standard,9.99,3,2062.98,stable,21,8,11,1,0,Friend Referral,0
+CUST00267,2021-11-14,31,45,Quebec,Premium,19.99,4,4604.65,stable,30,24,2,0,0,Organic,0
+CUST00268,2023-10-05,8,36,Ontario,Premium,19.99,3,4254.78,stable,40,20,30,1,1,Friend Referral,0
+CUST00269,2023-02-07,16,18,British Columbia,Standard,9.99,1,314.46,declining,27,11,27,1,1,Social Media,1
+CUST00270,2023-02-07,16,43,Ontario,Standard,9.99,2,3632.07,growing,16,7,28,1,1,Social Media,0
+CUST00271,2021-09-15,33,25,British Columbia,Standard,9.99,1,31.37,stable,25,11,18,0,1,Social Media,0
+CUST00272,2019-11-25,55,23,Ontario,Free,0.0,2,281.49,stable,7,7,9,0,1,Friend Referral,0
+CUST00273,2018-10-01,69,34,Ontario,Free,0.0,2,314.84,growing,8,3,7,0,0,Organic,0
+CUST00274,2020-10-20,44,18,Quebec,Standard,9.99,1,448.2,stable,12,8,7,0,1,Organic,0
+CUST00275,2024-05-02,1,26,Ontario,Standard,9.99,1,227.6,declining,17,9,1,1,1,Organic,0
+CUST00276,2023-08-06,10,41,Alberta,Free,0.0,1,391.04,growing,6,7,44,2,0,App Store,0
+CUST00277,2021-07-17,35,34,Quebec,Premium,19.99,3,6006.17,growing,27,20,8,0,1,Organic,0
+CUST00278,2023-01-08,17,36,Ontario,Free,0.0,1,830.41,stable,6,2,39,1,1,Friend Referral,0
+CUST00279,2024-01-03,5,26,Alberta,Free,0.0,2,405.63,stable,17,9,31,3,0,Organic,1
+CUST00280,2024-05-02,1,20,Ontario,Standard,9.99,2,3513.37,stable,19,9,26,0,0,Friend Referral,0
+CUST00281,2019-02-28,64,35,Alberta,Free,0.0,1,351.47,stable,11,6,13,2,1,App Store,0
+CUST00282,2023-05-08,13,37,British Columbia,Free,0.0,1,1090.66,declining,8,5,1,1,0,Social Media,1
+CUST00283,2021-11-14,31,37,Ontario,Free,0.0,2,221.7,growing,7,3,5,2,1,Organic,0
+CUST00284,2023-08-06,10,32,Other,Standard,9.99,1,679.29,growing,24,13,13,0,1,Social Media,1
+CUST00285,2023-02-07,16,24,Other,Standard,9.99,3,4930.97,growing,21,14,0,0,0,Friend Referral,0
+CUST00286,2022-08-11,22,48,British Columbia,Standard,9.99,1,4046.61,stable,16,10,0,0,1,Social Media,0
+CUST00287,2020-02-23,52,34,British Columbia,Standard,9.99,2,924.54,stable,21,11,16,0,0,Friend Referral,1
+CUST00288,2019-05-29,61,29,Alberta,Free,0.0,1,342.99,declining,6,13,32,0,0,Organic,1
+CUST00289,2023-11-04,7,29,British Columbia,Premium,19.99,4,2413.34,stable,25,16,28,0,0,Social Media,0
+CUST00290,2022-08-11,22,32,Ontario,Free,0.0,2,1310.06,stable,8,7,2,3,1,Friend Referral,0
+CUST00291,2019-06-28,60,38,British Columbia,Premium,19.99,3,5671.61,growing,26,20,36,0,0,Organic,1
+CUST00292,2023-06-07,12,32,Alberta,Standard,9.99,1,3729.71,stable,14,6,17,3,0,App Store,1
+CUST00293,2020-11-19,43,37,Alberta,Premium,19.99,3,1452.71,growing,35,31,18,3,1,Paid Ad,0
+CUST00294,2020-01-24,53,32,Other,Free,0.0,2,730.44,declining,5,3,5,1,1,Organic,1
+CUST00295,2023-04-08,14,30,Ontario,Standard,9.99,2,1298.21,stable,24,15,18,1,0,App Store,0
+CUST00296,2021-10-15,32,35,Quebec,Free,0.0,2,346.12,growing,11,8,18,0,0,Social Media,0
+CUST00297,2023-11-04,7,35,Ontario,Free,0.0,1,59.45,stable,13,6,13,1,1,Friend Referral,0
+CUST00298,2019-01-29,65,29,Quebec,Standard,9.99,1,1547.73,growing,22,17,6,2,1,Social Media,0
+CUST00299,2022-04-13,26,25,British Columbia,Free,0.0,1,325.97,stable,10,3,24,4,1,App Store,1
+CUST00300,2023-09-05,9,33,Ontario,Standard,9.99,1,912.17,growing,23,10,41,1,0,Social Media,0
+CUST00301,2019-08-27,58,31,Quebec,Free,0.0,2,251.1,stable,7,4,30,1,0,App Store,0
+CUST00302,2022-06-12,24,27,Ontario,Free,0.0,2,1532.27,stable,4,2,4,1,1,App Store,0
+CUST00303,2023-11-04,7,25,Ontario,Standard,9.99,2,1215.28,stable,27,7,8,1,1,Organic,0
+CUST00304,2022-05-13,25,33,British Columbia,Standard,9.99,2,3326.41,stable,15,12,6,2,1,Organic,0
+CUST00305,2022-10-10,20,34,Quebec,Standard,9.99,2,3521.21,growing,22,14,18,2,1,App Store,0
+CUST00306,2023-11-04,7,28,Ontario,Standard,9.99,2,1060.57,stable,22,11,26,1,1,Social Media,0
+CUST00307,2020-05-23,49,26,Ontario,Premium,19.99,3,1215.3,stable,23,20,3,1,0,Paid Ad,1
+CUST00308,2024-04-02,2,25,Ontario,Free,0.0,2,1622.37,stable,10,9,44,1,1,Paid Ad,0
+CUST00309,2021-12-14,30,33,Quebec,Standard,9.99,3,2244.37,declining,21,12,16,1,0,Friend Referral,1
+CUST00310,2023-01-08,17,25,Ontario,Premium,19.99,3,5950.39,growing,38,22,3,2,1,Friend Referral,0
+CUST00311,2023-12-04,6,46,Alberta,Standard,9.99,1,1179.3,stable,12,16,6,1,1,Organic,0
+CUST00312,2021-08-16,34,28,Alberta,Standard,9.99,1,4137.76,stable,14,11,1,0,1,App Store,0
+CUST00313,2024-04-02,2,18,British Columbia,Standard,9.99,2,1239.18,stable,19,15,13,0,0,Organic,1
+CUST00314,2024-05-02,1,30,Quebec,Standard,9.99,1,42.84,declining,15,13,2,0,1,Social Media,0
+CUST00315,2022-02-12,28,30,British Columbia,Standard,9.99,3,516.22,growing,12,8,17,1,0,Social Media,0
+CUST00316,2019-09-26,57,38,Ontario,Free,0.0,2,394.72,declining,7,0,20,0,0,Paid Ad,0
+CUST00317,2020-04-23,50,33,Ontario,Free,0.0,1,17.43,growing,7,3,9,1,1,Organic,0
+CUST00318,2023-09-05,9,25,British Columbia,Premium,19.99,3,2689.71,stable,26,20,1,0,1,App Store,0
+CUST00319,2023-04-08,14,28,Alberta,Free,0.0,1,346.28,stable,8,3,14,2,1,Social Media,0
+CUST00320,2021-09-15,33,33,Alberta,Standard,9.99,3,2340.02,growing,13,14,6,0,1,Organic,0
+CUST00321,2021-09-15,33,18,Alberta,Standard,9.99,3,1267.2,declining,16,18,44,1,0,Friend Referral,0
+CUST00322,2022-06-12,24,40,Other,Standard,9.99,1,1158.41,growing,15,10,10,4,0,Organic,0
+CUST00323,2018-08-02,71,25,Ontario,Free,0.0,2,1173.8,declining,9,5,1,3,0,Social Media,0
+CUST00324,2022-11-09,19,40,Ontario,Free,0.0,1,3405.9,stable,8,6,15,1,1,App Store,0
+CUST00325,2023-07-07,11,33,British Columbia,Premium,19.99,2,1105.46,stable,34,25,22,4,1,Organic,1
+CUST00326,2023-06-07,12,35,Quebec,Premium,19.99,3,6903.24,declining,35,27,2,0,1,Social Media,0
+CUST00327,2020-10-20,44,39,British Columbia,Standard,9.99,1,4433.83,stable,18,14,8,2,1,Social Media,0
+CUST00328,2021-12-14,30,35,Alberta,Standard,9.99,3,810.19,growing,20,15,20,1,1,Friend Referral,0
+CUST00329,2023-10-05,8,35,Quebec,Standard,9.99,1,319.22,declining,22,11,0,2,0,App Store,0
+CUST00330,2023-08-06,10,29,Quebec,Standard,9.99,1,203.07,growing,17,9,0,1,0,Social Media,0
+CUST00331,2023-10-05,8,33,Ontario,Standard,9.99,1,27.03,stable,19,8,16,0,1,Social Media,0
+CUST00332,2024-03-03,3,26,Ontario,Free,0.0,1,465.96,declining,7,7,19,1,1,Social Media,0
+CUST00333,2019-03-30,63,28,British Columbia,Standard,9.99,3,415.55,stable,16,14,28,0,1,Social Media,0
+CUST00334,2021-11-14,31,44,Other,Standard,9.99,3,43.77,growing,14,15,7,2,1,Friend Referral,0
+CUST00335,2023-03-09,15,25,Ontario,Premium,19.99,4,1682.02,growing,29,21,7,1,1,Organic,0
+CUST00336,2023-05-08,13,32,Quebec,Free,0.0,2,5.98,growing,6,6,12,2,0,App Store,0
+CUST00337,2020-09-20,45,31,Other,Standard,9.99,2,179.3,stable,15,14,21,0,0,Paid Ad,0
+CUST00338,2021-10-15,32,28,Ontario,Standard,9.99,2,1235.79,growing,16,14,15,1,1,App Store,1
+CUST00339,2021-05-18,37,34,Ontario,Standard,9.99,2,2722.26,declining,13,11,5,1,0,Organic,0
+CUST00340,2020-12-19,42,35,British Columbia,Free,0.0,2,32.62,stable,6,4,6,0,1,Friend Referral,0
+CUST00341,2020-08-21,46,24,British Columbia,Standard,9.99,2,2200.37,declining,21,12,21,1,0,App Store,0
+CUST00342,2023-03-09,15,31,Alberta,Standard,9.99,3,561.65,declining,16,8,11,1,1,Social Media,0
+CUST00343,2019-07-28,59,23,Ontario,Free,0.0,1,307.63,declining,12,4,1,3,0,App Store,0
+CUST00344,2024-05-02,1,36,British Columbia,Standard,9.99,3,1822.26,growing,20,15,2,0,0,App Store,0
+CUST00345,2023-11-04,7,32,Ontario,Standard,9.99,3,476.01,stable,25,9,28,0,1,Organic,1
+CUST00346,2020-02-23,52,31,British Columbia,Standard,9.99,2,3809.11,stable,15,13,100,0,0,Social Media,0
+CUST00347,2022-08-11,22,35,Ontario,Premium,19.99,2,5410.52,growing,39,14,6,0,0,Organic,0
+CUST00348,2023-08-06,10,29,Quebec,Free,0.0,2,689.57,stable,12,1,7,2,1,Social Media,1
+CUST00349,2023-06-07,12,37,British Columbia,Free,0.0,1,1182.09,declining,9,8,2,1,1,App Store,1
+CUST00350,2020-03-24,51,24,Quebec,Standard,9.99,2,2068.82,growing,17,10,4,3,0,Paid Ad,0
+CUST00351,2023-09-05,9,40,British Columbia,Free,0.0,2,560.52,growing,7,2,8,2,0,Paid Ad,0
+CUST00352,2023-03-09,15,27,British Columbia,Free,0.0,2,120.81,growing,6,5,5,3,1,Organic,1
+CUST00353,2019-10-26,56,19,Alberta,Free,0.0,1,507.65,declining,10,7,18,2,1,Paid Ad,1
+CUST00354,2024-02-02,4,28,Ontario,Free,0.0,2,352.69,declining,4,3,11,2,1,App Store,0
+CUST00355,2022-01-13,29,27,Ontario,Premium,19.99,4,3849.08,growing,39,21,25,2,0,App Store,0
+CUST00356,2021-12-14,30,28,British Columbia,Free,0.0,1,894.68,stable,7,6,19,4,1,Paid Ad,0
+CUST00357,2019-05-29,61,32,Quebec,Standard,9.99,1,4429.64,declining,18,19,2,0,0,Social Media,0
+CUST00358,2021-07-17,35,38,Ontario,Free,0.0,1,937.23,stable,4,3,1,3,0,Social Media,1
+CUST00359,2023-10-05,8,29,British Columbia,Standard,9.99,2,2409.38,stable,24,14,33,0,0,Organic,0
+CUST00360,2021-07-17,35,26,Ontario,Free,0.0,2,16.07,growing,7,5,25,3,0,Organic,0
+CUST00361,2022-07-12,23,23,Ontario,Standard,9.99,2,363.79,stable,20,16,9,0,1,Friend Referral,0
+CUST00362,2023-01-08,17,27,Ontario,Standard,9.99,1,2444.14,stable,14,12,2,3,0,Social Media,1
+CUST00363,2024-02-02,4,18,Alberta,Free,0.0,1,867.67,declining,8,3,34,1,1,Social Media,1
+CUST00364,2023-12-04,6,25,Alberta,Standard,9.99,2,665.21,growing,15,20,3,5,1,Organic,0
+CUST00365,2020-06-22,48,39,Ontario,Free,0.0,2,603.25,growing,12,5,0,1,0,Paid Ad,1
+CUST00366,2024-01-03,5,25,Ontario,Standard,9.99,2,4160.84,stable,18,10,38,1,1,Organic,0
+CUST00367,2023-01-08,17,35,Ontario,Free,0.0,2,1428.88,stable,9,4,24,1,1,Social Media,0
+CUST00368,2021-12-14,30,22,Ontario,Premium,19.99,4,18235.89,declining,40,11,17,0,1,Social Media,0
+CUST00369,2021-11-14,31,43,Alberta,Free,0.0,2,488.27,declining,6,4,0,0,0,Organic,0
+CUST00370,2024-04-02,2,43,Ontario,Standard,9.99,2,2230.18,growing,17,11,11,2,0,Friend Referral,0
+CUST00371,2021-01-18,41,35,Ontario,Free,0.0,1,120.23,declining,9,4,15,0,0,Friend Referral,0
+CUST00372,2023-02-07,16,44,Ontario,Free,0.0,2,535.48,growing,8,9,21,2,1,Social Media,0
+CUST00373,2024-04-02,2,33,Ontario,Standard,9.99,2,954.88,stable,19,14,9,0,0,App Store,1
+CUST00374,2024-04-02,2,36,British Columbia,Premium,19.99,2,3432.62,declining,30,24,45,1,1,Social Media,1
+CUST00375,2023-01-08,17,39,Quebec,Free,0.0,2,820.99,growing,12,9,4,0,0,App Store,0
+CUST00376,2022-02-12,28,32,Ontario,Free,0.0,2,356.93,growing,10,5,1,1,1,App Store,1
+CUST00377,2021-06-17,36,20,Ontario,Free,0.0,1,1895.46,stable,9,4,6,1,1,App Store,0
+CUST00378,2021-08-16,34,36,British Columbia,Free,0.0,2,165.42,stable,12,1,16,1,0,Social Media,0
+CUST00379,2019-03-30,63,27,Quebec,Free,0.0,1,327.61,stable,8,6,20,1,1,Organic,1
+CUST00380,2023-06-07,12,28,Ontario,Standard,9.99,2,852.5,stable,20,20,20,0,1,Social Media,0
+CUST00381,2018-10-01,69,33,Ontario,Free,0.0,2,64.36,declining,15,9,1,0,1,Social Media,0
+CUST00382,2021-09-15,33,34,Ontario,Free,0.0,2,277.66,declining,13,6,32,2,1,Organic,1
+CUST00383,2023-06-07,12,32,British Columbia,Standard,9.99,1,908.13,declining,17,8,4,1,1,Social Media,0
+CUST00384,2019-08-27,58,35,Ontario,Standard,9.99,3,639.61,stable,18,13,3,2,1,Social Media,0
+CUST00385,2019-07-28,59,26,Ontario,Free,0.0,2,165.75,growing,9,9,14,2,1,Organic,0
+CUST00386,2023-04-08,14,30,Ontario,Free,0.0,1,132.8,growing,5,4,3,0,0,Paid Ad,1
+CUST00387,2020-11-19,43,36,British Columbia,Standard,9.99,1,2590.58,stable,16,6,10,0,0,Friend Referral,0
+CUST00388,2021-08-16,34,43,Ontario,Free,0.0,1,15.63,declining,12,7,7,1,0,Organic,0
+CUST00389,2022-06-12,24,45,Quebec,Standard,9.99,2,277.98,declining,26,13,3,1,0,App Store,0
+CUST00390,2020-12-19,42,34,British Columbia,Free,0.0,1,714.94,growing,13,8,5,0,1,Paid Ad,0
+CUST00391,2021-12-14,30,36,British Columbia,Standard,9.99,3,209.01,growing,24,14,8,0,1,Social Media,0
+CUST00392,2020-11-19,43,44,British Columbia,Free,0.0,1,1340.94,growing,9,1,6,0,1,Organic,0
+CUST00393,2022-01-13,29,26,Quebec,Standard,9.99,3,5359.57,growing,17,8,7,0,0,Social Media,0
+CUST00394,2019-05-29,61,35,Other,Premium,19.99,2,186.87,stable,27,19,19,2,1,App Store,0
+CUST00395,2023-04-08,14,36,Quebec,Standard,9.99,2,5211.24,declining,16,10,2,0,1,Organic,0
+CUST00396,2023-06-07,12,41,British Columbia,Free,0.0,1,750.95,stable,6,4,14,2,1,App Store,0
+CUST00397,2021-02-17,40,23,Quebec,Free,0.0,1,892.18,stable,7,2,17,1,0,Friend Referral,0
+CUST00398,2019-08-27,58,24,British Columbia,Free,0.0,1,224.13,stable,7,8,24,1,0,Friend Referral,1
+CUST00399,2022-04-13,26,31,Ontario,Free,0.0,1,119.99,growing,6,5,28,1,0,Social Media,1
+CUST00400,2023-03-09,15,33,Ontario,Free,0.0,2,243.11,declining,7,2,2,1,1,Social Media,1
+CUST00401,2023-10-05,8,38,Ontario,Standard,9.99,2,407.33,stable,16,10,2,2,0,Organic,0
+CUST00402,2024-05-02,1,34,Ontario,Standard,9.99,2,479.21,growing,20,13,14,3,1,Social Media,0
+CUST00403,2021-12-14,30,29,Ontario,Standard,9.99,3,632.34,stable,15,12,21,1,0,Friend Referral,1
+CUST00404,2021-09-15,33,33,Ontario,Standard,9.99,1,725.52,stable,15,16,4,1,0,App Store,0
+CUST00405,2023-05-08,13,33,Other,Standard,9.99,2,1445.07,growing,16,13,11,1,0,App Store,0
+CUST00406,2024-03-03,3,43,Ontario,Free,0.0,1,145.98,growing,8,5,22,0,1,Organic,0
+CUST00407,2019-02-28,64,32,British Columbia,Premium,19.99,2,5100.27,stable,33,19,21,0,1,Organic,0
+CUST00408,2022-01-13,29,28,Alberta,Free,0.0,2,446.26,growing,12,7,15,1,1,App Store,0
+CUST00409,2021-07-17,35,34,Quebec,Standard,9.99,2,6174.35,growing,14,4,1,3,0,Paid Ad,1
+CUST00410,2021-08-16,34,32,British Columbia,Standard,9.99,2,5084.81,stable,25,14,0,2,0,Organic,0
+CUST00411,2022-02-12,28,20,Quebec,Standard,9.99,1,111.02,stable,20,17,7,2,1,Friend Referral,1
+CUST00412,2022-06-12,24,30,Ontario,Standard,9.99,2,893.58,stable,17,12,0,0,0,Social Media,0
+CUST00413,2019-08-27,58,30,Ontario,Free,0.0,2,1190.9,declining,10,5,35,2,0,Social Media,1
+CUST00414,2021-12-14,30,27,Alberta,Standard,9.99,3,1891.32,stable,26,11,0,1,0,Friend Referral,0
+CUST00415,2024-02-02,4,38,Ontario,Standard,9.99,2,3020.04,stable,13,8,0,1,0,App Store,0
+CUST00416,2023-04-08,14,25,Alberta,Standard,9.99,3,2539.04,declining,23,6,2,1,0,Social Media,0
+CUST00417,2019-10-26,56,34,Ontario,Premium,19.99,2,92.18,stable,39,18,14,1,0,Friend Referral,0
+CUST00418,2022-07-12,23,29,Quebec,Free,0.0,2,610.04,growing,12,4,11,1,1,Friend Referral,0
+CUST00419,2021-11-14,31,31,British Columbia,Free,0.0,2,207.13,stable,10,12,16,2,1,Friend Referral,1
+CUST00420,2022-05-13,25,33,Other,Free,0.0,1,58.86,stable,7,6,33,2,1,Friend Referral,0
+CUST00421,2020-07-22,47,21,Ontario,Free,0.0,2,163.26,stable,11,4,9,1,0,Organic,0
+CUST00422,2020-09-20,45,32,Other,Standard,9.99,1,3222.99,declining,23,14,0,1,1,Organic,0
+CUST00423,2019-02-28,64,47,British Columbia,Standard,9.99,2,1758.91,stable,25,18,21,1,0,Friend Referral,0
+CUST00424,2022-08-11,22,20,Quebec,Standard,9.99,1,11632.88,declining,16,10,25,0,1,Friend Referral,0
+CUST00425,2022-05-13,25,30,Quebec,Premium,19.99,3,18503.56,growing,42,17,0,1,1,Organic,0
+CUST00426,2022-09-10,21,38,Ontario,Premium,19.99,3,6093.83,stable,33,25,4,1,1,Social Media,0
+CUST00427,2023-01-08,17,33,Quebec,Premium,19.99,2,6227.3,declining,28,30,22,2,1,App Store,1
+CUST00428,2023-10-05,8,35,Ontario,Free,0.0,1,300.99,growing,9,7,7,0,0,Friend Referral,0
+CUST00429,2023-08-06,10,18,Ontario,Standard,9.99,3,2498.07,growing,15,14,9,0,1,Friend Referral,1
+CUST00430,2021-04-18,38,35,Alberta,Free,0.0,2,62.24,stable,3,6,25,2,1,Friend Referral,0
+CUST00431,2022-10-10,20,25,Other,Free,0.0,1,102.24,declining,8,4,1,1,1,Organic,0
+CUST00432,2022-04-13,26,33,British Columbia,Standard,9.99,2,2203.9,growing,23,9,16,1,1,Social Media,1
+CUST00433,2018-08-02,71,30,British Columbia,Free,0.0,1,208.92,stable,3,4,3,1,0,Organic,0
+CUST00434,2024-05-02,1,46,British Columbia,Free,0.0,2,1670.84,growing,8,4,0,1,0,Friend Referral,0
+CUST00435,2024-01-03,5,34,Alberta,Free,0.0,2,355.88,stable,8,5,16,2,1,Friend Referral,1
+CUST00436,2022-03-14,27,30,Other,Free,0.0,2,493.83,declining,9,6,1,0,0,Organic,1
+CUST00437,2019-10-26,56,20,Quebec,Premium,19.99,4,4426.07,growing,22,27,20,0,0,Organic,0
+CUST00438,2024-01-03,5,31,Ontario,Free,0.0,1,195.4,growing,9,3,3,1,1,Organic,1
+CUST00439,2023-05-08,13,36,Ontario,Free,0.0,1,11.71,stable,7,5,0,1,0,Friend Referral,0
+CUST00440,2022-10-10,20,30,Ontario,Standard,9.99,3,1571.32,stable,18,12,1,2,1,Organic,1
+CUST00441,2020-11-19,43,27,Alberta,Standard,9.99,3,335.33,growing,15,16,27,1,1,Social Media,0
+CUST00442,2023-12-04,6,26,Other,Premium,19.99,4,29398.74,stable,31,24,6,2,0,Friend Referral,0
+CUST00443,2022-08-11,22,34,Quebec,Free,0.0,2,722.65,declining,4,7,5,0,1,Social Media,0
+CUST00444,2020-10-20,44,36,Other,Standard,9.99,1,3280.64,stable,17,12,10,4,0,Social Media,1
+CUST00445,2022-09-10,21,40,Ontario,Standard,9.99,2,654.97,stable,14,14,15,1,0,Paid Ad,0
+CUST00446,2022-03-14,27,24,Quebec,Premium,19.99,2,5501.35,stable,45,28,0,1,0,App Store,0
+CUST00447,2018-10-31,68,34,British Columbia,Standard,9.99,2,161.62,stable,21,11,34,0,1,Social Media,0
+CUST00448,2023-07-07,11,30,British Columbia,Premium,19.99,3,4313.15,growing,32,16,47,3,1,Friend Referral,0
+CUST00449,2022-02-12,28,30,Quebec,Free,0.0,2,165.64,stable,9,3,8,1,1,Friend Referral,1
+CUST00450,2019-12-25,54,33,Ontario,Standard,9.99,1,95.32,declining,25,18,7,2,1,Paid Ad,0
+CUST00451,2020-01-24,53,33,Quebec,Standard,9.99,1,8.71,growing,20,16,31,2,0,Friend Referral,0
+CUST00452,2022-11-09,19,34,Quebec,Premium,19.99,4,6058.32,stable,16,23,8,0,1,Friend Referral,0
+CUST00453,2024-03-03,3,23,Alberta,Free,0.0,1,549.23,growing,8,14,29,2,1,App Store,0
+CUST00454,2019-02-28,64,25,Quebec,Free,0.0,2,464.87,stable,10,2,0,2,0,Organic,0
+CUST00455,2023-05-08,13,41,Ontario,Free,0.0,2,45.55,stable,11,7,10,0,1,Friend Referral,0
+CUST00456,2022-06-12,24,29,British Columbia,Free,0.0,2,18.6,stable,5,5,45,3,1,Social Media,0
+CUST00457,2020-12-19,42,33,Ontario,Free,0.0,1,484.17,stable,6,4,4,0,1,Paid Ad,0
+CUST00458,2022-12-09,18,38,Ontario,Premium,19.99,2,8476.45,growing,38,16,4,2,0,Paid Ad,0
+CUST00459,2022-11-09,19,34,British Columbia,Standard,9.99,2,1114.11,declining,24,14,14,2,1,Organic,1
+CUST00460,2023-07-07,11,34,Ontario,Standard,9.99,2,1617.99,stable,16,8,39,0,0,Social Media,0
+CUST00461,2022-06-12,24,37,British Columbia,Standard,9.99,3,167.5,growing,11,6,3,2,1,Social Media,1
+CUST00462,2023-09-05,9,18,Ontario,Standard,9.99,2,3122.88,declining,14,11,38,1,0,Organic,0
+CUST00463,2024-04-02,2,27,Ontario,Free,0.0,1,135.13,growing,10,3,16,1,1,Social Media,1
+CUST00464,2023-11-04,7,34,British Columbia,Free,0.0,1,493.51,stable,9,8,74,1,0,Friend Referral,1
+CUST00465,2023-02-07,16,40,Ontario,Free,0.0,2,179.4,stable,6,8,20,0,1,Friend Referral,0
+CUST00466,2021-08-16,34,31,Ontario,Standard,9.99,2,1098.02,stable,24,11,16,0,0,Friend Referral,0
+CUST00467,2024-01-03,5,25,Ontario,Standard,9.99,3,3088.7,growing,21,9,25,2,1,Organic,0
+CUST00468,2020-07-22,47,25,Ontario,Free,0.0,1,73.51,stable,7,4,2,0,1,Friend Referral,1
+CUST00469,2023-05-08,13,37,Ontario,Standard,9.99,2,122.95,growing,20,12,43,2,1,Paid Ad,0
+CUST00470,2021-09-15,33,29,Ontario,Premium,19.99,2,1386.91,stable,43,23,2,0,0,Social Media,0
+CUST00471,2023-04-08,14,30,British Columbia,Premium,19.99,2,1394.23,stable,24,22,0,0,0,Organic,0
+CUST00472,2023-11-04,7,35,Ontario,Premium,19.99,2,10497.37,stable,35,19,17,3,0,Organic,0
+CUST00473,2024-04-02,2,18,Ontario,Standard,9.99,2,685.24,declining,26,11,3,2,1,Social Media,0
+CUST00474,2022-07-12,23,45,Quebec,Free,0.0,1,31.77,declining,8,5,21,1,1,App Store,0
+CUST00475,2023-11-04,7,25,Ontario,Standard,9.99,3,873.3,stable,22,10,23,1,1,Social Media,0
+CUST00476,2019-04-29,62,32,Quebec,Free,0.0,2,4.15,stable,6,7,4,0,0,App Store,0
+CUST00477,2019-10-26,56,19,Ontario,Standard,9.99,1,77.35,growing,18,15,1,3,0,App Store,0
+CUST00478,2019-09-26,57,28,Other,Standard,9.99,2,317.9,declining,21,9,10,1,1,Social Media,0
+CUST00479,2021-11-14,31,39,Ontario,Free,0.0,2,184.65,declining,10,7,33,1,0,Social Media,1
+CUST00480,2023-10-05,8,18,Quebec,Standard,9.99,2,12727.87,growing,16,8,28,0,0,Friend Referral,0
+CUST00481,2023-04-08,14,38,Ontario,Premium,19.99,3,9278.36,stable,29,22,1,1,0,App Store,1
+CUST00482,2019-06-28,60,29,British Columbia,Free,0.0,2,764.71,declining,9,4,50,1,0,Organic,1
+CUST00483,2022-06-12,24,34,British Columbia,Premium,19.99,3,514.06,growing,33,20,4,1,0,Paid Ad,0
+CUST00484,2023-12-04,6,35,Ontario,Free,0.0,1,177.59,stable,6,7,6,1,1,Friend Referral,1
+CUST00485,2022-03-14,27,34,Ontario,Standard,9.99,3,6916.4,stable,16,15,2,0,0,Social Media,0
+CUST00486,2022-01-13,29,24,Other,Standard,9.99,1,1215.67,stable,16,12,7,1,1,Friend Referral,0
+CUST00487,2019-05-29,61,28,Alberta,Standard,9.99,2,3538.3,growing,16,13,15,0,1,Social Media,0
+CUST00488,2023-01-08,17,20,Quebec,Premium,19.99,2,2242.25,growing,31,31,10,0,1,Social Media,0
+CUST00489,2019-10-26,56,34,Alberta,Premium,19.99,2,4918.29,growing,37,26,26,1,0,Friend Referral,1
+CUST00490,2022-06-12,24,42,Ontario,Standard,9.99,1,515.34,declining,17,14,15,1,0,Organic,1
+CUST00491,2019-08-27,58,18,Quebec,Free,0.0,2,2429.51,stable,4,4,4,0,0,Organic,1
+CUST00492,2021-08-16,34,25,Ontario,Premium,19.99,4,12931.97,stable,34,19,12,0,1,Social Media,0
+CUST00493,2022-01-13,29,29,British Columbia,Free,0.0,1,31.63,stable,8,8,0,1,1,Social Media,1
+CUST00494,2021-01-18,41,32,Quebec,Premium,19.99,4,2270.68,growing,32,26,13,0,1,Social Media,0
+CUST00495,2022-11-09,19,37,Ontario,Free,0.0,1,343.23,declining,11,3,7,2,0,Friend Referral,1
+CUST00496,2021-12-14,30,29,Quebec,Free,0.0,1,77.84,declining,14,7,1,1,1,Social Media,1
+CUST00497,2023-12-04,6,28,British Columbia,Standard,9.99,1,1271.07,stable,16,11,5,1,1,Organic,1
+CUST00498,2023-01-08,17,38,British Columbia,Free,0.0,2,290.59,stable,7,5,34,0,0,Organic,0
+CUST00499,2023-07-07,11,35,Alberta,Free,0.0,1,2606.91,stable,7,4,13,0,0,Organic,0
+CUST00500,2021-01-18,41,34,Alberta,Free,0.0,2,272.43,stable,5,8,35,1,1,Organic,0
+CUST00501,2023-04-08,14,31,Ontario,Free,0.0,2,468.19,growing,4,2,7,0,0,App Store,0
+CUST00502,2021-09-15,33,37,Quebec,Free,0.0,2,55.33,stable,7,4,57,0,1,Friend Referral,0
+CUST00503,2019-07-28,59,26,British Columbia,Free,0.0,1,302.78,declining,5,5,6,1,0,Paid Ad,1
+CUST00504,2024-03-03,3,25,Ontario,Standard,9.99,2,1829.73,growing,24,12,21,0,0,Organic,0
+CUST00505,2018-11-30,67,36,Alberta,Free,0.0,1,902.62,stable,11,7,5,0,1,App Store,0
+CUST00506,2019-08-27,58,19,Ontario,Standard,9.99,2,3005.17,growing,16,9,1,0,0,Friend Referral,0
+CUST00507,2024-02-02,4,31,Ontario,Free,0.0,2,869.15,growing,6,3,26,0,1,Friend Referral,0
+CUST00508,2018-11-30,67,28,Ontario,Premium,19.99,3,22403.95,stable,40,28,21,1,1,Social Media,0
+CUST00509,2024-03-03,3,21,Ontario,Premium,19.99,4,4606.36,growing,26,19,25,3,1,Social Media,1
+CUST00510,2022-09-10,21,24,Ontario,Free,0.0,2,112.09,declining,15,8,5,3,1,App Store,0
+CUST00511,2023-09-05,9,30,Quebec,Standard,9.99,3,825.84,stable,16,6,18,1,0,Friend Referral,0
+CUST00512,2023-09-05,9,38,British Columbia,Premium,19.99,4,6044.77,growing,35,33,3,1,1,Friend Referral,0
+CUST00513,2023-05-08,13,26,British Columbia,Premium,19.99,4,6300.41,stable,23,28,0,0,1,Organic,0
+CUST00514,2023-07-07,11,39,Ontario,Standard,9.99,3,7053.53,declining,11,17,30,1,1,Organic,1
+CUST00515,2022-09-10,21,31,British Columbia,Free,0.0,2,126.97,growing,3,5,11,2,0,Paid Ad,1
+CUST00516,2024-04-02,2,40,Ontario,Standard,9.99,1,404.05,stable,25,14,61,0,0,Social Media,1
+CUST00517,2022-09-10,21,26,Ontario,Standard,9.99,1,281.32,declining,21,11,7,3,1,App Store,0
+CUST00518,2023-01-08,17,30,Ontario,Standard,9.99,1,1790.57,growing,21,9,47,1,1,Social Media,1
+CUST00519,2022-07-12,23,33,Ontario,Free,0.0,2,83.52,declining,7,4,14,2,0,App Store,0
+CUST00520,2021-08-16,34,29,Ontario,Premium,19.99,2,10877.34,growing,33,27,10,4,1,Organic,1
+CUST00521,2021-04-18,38,37,Quebec,Premium,19.99,2,1607.71,growing,30,15,5,0,0,Organic,0
+CUST00522,2021-08-16,34,18,Ontario,Free,0.0,2,92.9,stable,7,4,26,3,1,Social Media,1
+CUST00523,2024-04-02,2,47,Ontario,Free,0.0,2,850.26,growing,11,6,26,0,1,Friend Referral,1
+CUST00524,2023-10-05,8,37,British Columbia,Free,0.0,2,1353.21,stable,9,3,8,0,1,Social Media,0
+CUST00525,2023-03-09,15,29,Other,Premium,19.99,3,30.51,stable,33,17,19,2,1,Friend Referral,0
+CUST00526,2023-04-08,14,27,Alberta,Standard,9.99,2,1139.82,growing,21,15,8,2,0,Social Media,0
+CUST00527,2023-09-05,9,24,Alberta,Standard,9.99,3,850.62,declining,18,6,20,1,0,Paid Ad,1
+CUST00528,2022-10-10,20,35,Alberta,Standard,9.99,2,38.87,stable,21,14,77,2,0,Organic,0
+CUST00529,2021-10-15,32,37,British Columbia,Standard,9.99,3,3488.4,stable,14,11,4,0,1,Organic,0
+CUST00530,2022-11-09,19,29,Alberta,Free,0.0,2,31.42,stable,11,5,15,0,0,Paid Ad,0
+CUST00531,2023-06-07,12,38,British Columbia,Standard,9.99,2,740.8,growing,19,22,7,0,0,Friend Referral,0
+CUST00532,2019-09-26,57,24,Ontario,Standard,9.99,1,1683.79,stable,21,11,11,0,1,Friend Referral,1
+CUST00533,2024-02-02,4,23,Ontario,Premium,19.99,3,4577.76,declining,22,16,31,1,1,Organic,0
+CUST00534,2024-05-02,1,43,British Columbia,Premium,19.99,3,2154.21,growing,31,22,6,1,1,Paid Ad,0
+CUST00535,2024-01-03,5,35,Alberta,Premium,19.99,2,2935.51,stable,46,14,1,0,1,App Store,0
+CUST00536,2023-09-05,9,40,Ontario,Standard,9.99,2,1271.79,stable,18,13,24,1,0,App Store,0
+CUST00537,2022-11-09,19,25,Ontario,Standard,9.99,1,5950.97,stable,18,10,12,0,0,Paid Ad,0
+CUST00538,2022-12-09,18,24,Alberta,Standard,9.99,3,3761.19,declining,25,12,8,1,1,Friend Referral,0
+CUST00539,2021-07-17,35,28,Quebec,Premium,19.99,3,3085.82,growing,34,19,3,1,0,Social Media,0
+CUST00540,2023-01-08,17,25,Alberta,Free,0.0,2,26.64,growing,4,5,1,2,0,Social Media,1
+CUST00541,2022-07-12,23,35,Other,Free,0.0,1,1425.68,growing,3,4,4,1,1,App Store,1
+CUST00542,2019-02-28,64,25,Ontario,Free,0.0,1,374.57,stable,8,5,19,1,1,App Store,1
+CUST00543,2024-02-02,4,22,Ontario,Standard,9.99,1,675.97,growing,11,8,7,1,0,Friend Referral,1
+CUST00544,2020-12-19,42,31,Ontario,Free,0.0,1,86.06,declining,14,4,12,2,0,Social Media,1
+CUST00545,2022-11-09,19,21,Alberta,Free,0.0,2,206.64,stable,12,10,1,1,1,App Store,0
+CUST00546,2023-09-05,9,18,Ontario,Free,0.0,2,10.36,growing,8,4,1,0,0,Friend Referral,1
+CUST00547,2022-10-10,20,31,Ontario,Free,0.0,1,225.93,stable,9,6,0,1,0,Social Media,1
+CUST00548,2020-01-24,53,18,Ontario,Premium,19.99,2,15769.76,stable,26,27,16,1,1,Social Media,0
+CUST00549,2024-01-03,5,36,Ontario,Free,0.0,1,1027.34,growing,8,3,4,1,0,Paid Ad,0
+CUST00550,2022-09-10,21,21,Ontario,Standard,9.99,2,1677.92,growing,24,11,51,0,0,Social Media,0
+CUST00551,2021-08-16,34,18,Alberta,Standard,9.99,1,85.75,growing,13,14,5,2,1,Organic,0
+CUST00552,2019-10-26,56,28,Quebec,Premium,19.99,3,537.32,growing,31,26,6,1,1,Organic,0
+CUST00553,2019-07-28,59,32,Alberta,Free,0.0,1,279.42,declining,9,6,9,0,1,Organic,1
+CUST00554,2022-05-13,25,34,Ontario,Premium,19.99,2,9709.61,stable,26,19,5,2,1,Organic,0
+CUST00555,2023-04-08,14,32,British Columbia,Standard,9.99,3,6005.25,declining,17,7,25,0,1,App Store,1
+CUST00556,2022-08-11,22,23,British Columbia,Premium,19.99,3,10766.18,declining,25,16,31,0,1,Organic,0
+CUST00557,2023-01-08,17,35,British Columbia,Premium,19.99,4,4782.65,growing,34,16,0,2,1,App Store,0
+CUST00558,2023-07-07,11,37,Ontario,Free,0.0,2,888.01,declining,8,11,15,1,1,Organic,0
+CUST00559,2023-03-09,15,22,Quebec,Free,0.0,1,77.8,growing,8,5,17,1,0,Paid Ad,1
+CUST00560,2022-05-13,25,29,British Columbia,Free,0.0,1,1838.05,growing,7,1,48,1,1,Social Media,0
+CUST00561,2023-01-08,17,29,Ontario,Standard,9.99,1,342.23,stable,20,15,6,1,1,Friend Referral,0
+CUST00562,2020-06-22,48,32,Ontario,Free,0.0,1,663.98,stable,10,1,3,2,1,Organic,0
+CUST00563,2019-11-25,55,29,Ontario,Free,0.0,2,58.54,stable,7,3,11,0,0,Social Media,0
+CUST00564,2021-10-15,32,30,Ontario,Standard,9.99,3,642.44,stable,16,9,8,2,1,Organic,0
+CUST00565,2021-09-15,33,35,Ontario,Free,0.0,1,913.77,declining,8,8,23,0,1,Friend Referral,1
+CUST00566,2023-01-08,17,23,Ontario,Free,0.0,2,529.2,stable,15,7,35,2,0,Social Media,1
+CUST00567,2021-12-14,30,36,Ontario,Standard,9.99,1,459.51,stable,20,12,1,1,1,App Store,1
+CUST00568,2023-06-07,12,38,British Columbia,Free,0.0,1,639.15,stable,6,8,28,0,1,Organic,0
+CUST00569,2023-11-04,7,42,Other,Standard,9.99,3,849.64,stable,11,11,35,2,1,Social Media,1
+CUST00570,2022-12-09,18,18,Ontario,Standard,9.99,2,2746.57,growing,18,20,38,2,1,Organic,0
+CUST00571,2020-06-22,48,29,Ontario,Standard,9.99,3,3753.62,declining,20,13,21,0,1,Friend Referral,0
+CUST00572,2023-06-07,12,18,British Columbia,Premium,19.99,2,4502.25,stable,30,18,20,2,1,Organic,0
+CUST00573,2018-08-02,71,18,Quebec,Standard,9.99,1,703.72,stable,16,10,0,0,1,Organic,0
+CUST00574,2023-09-05,9,32,Quebec,Standard,9.99,1,4404.52,declining,16,10,37,1,1,Friend Referral,0
+CUST00575,2022-06-12,24,28,British Columbia,Standard,9.99,1,14723.56,declining,24,5,6,2,0,Organic,0
+CUST00576,2023-01-08,17,33,Quebec,Premium,19.99,2,5792.98,growing,35,18,0,2,0,Friend Referral,0
+CUST00577,2020-03-24,51,34,Alberta,Premium,19.99,2,2899.15,growing,34,21,7,2,0,Organic,0
+CUST00578,2021-09-15,33,39,Other,Premium,19.99,2,2384.53,declining,35,33,19,0,1,Friend Referral,0
+CUST00579,2020-11-19,43,31,British Columbia,Standard,9.99,3,2644.46,declining,20,12,8,3,1,Paid Ad,0
+CUST00580,2020-10-20,44,51,Other,Free,0.0,1,32.48,stable,6,7,21,0,1,Organic,0
+CUST00581,2024-05-02,1,33,Quebec,Free,0.0,1,580.12,stable,11,11,10,1,1,Social Media,1
+CUST00582,2018-12-30,66,43,Quebec,Free,0.0,2,228.21,stable,9,2,5,0,1,App Store,0
+CUST00583,2023-10-05,8,18,Quebec,Premium,19.99,3,12378.19,growing,39,24,3,0,1,Friend Referral,0
+CUST00584,2021-12-14,30,40,Alberta,Standard,9.99,2,5349.01,declining,14,13,8,1,0,Social Media,0
+CUST00585,2023-11-04,7,29,Other,Standard,9.99,2,1953.35,stable,24,6,0,1,1,Friend Referral,0
+CUST00586,2023-06-07,12,18,Ontario,Free,0.0,1,188.72,declining,7,2,8,3,1,Social Media,1
+CUST00587,2019-12-25,54,33,British Columbia,Premium,19.99,2,6958.98,stable,28,23,1,3,1,App Store,0
+CUST00588,2023-08-06,10,28,Other,Free,0.0,2,154.73,declining,6,9,31,0,1,Friend Referral,1
+CUST00589,2022-10-10,20,35,Ontario,Free,0.0,2,121.11,stable,7,7,12,1,1,Friend Referral,1
+CUST00590,2020-12-19,42,38,Ontario,Standard,9.99,2,1901.39,declining,17,14,15,1,0,Paid Ad,0
+CUST00591,2021-09-15,33,20,Ontario,Standard,9.99,2,5802.21,declining,11,16,5,2,0,Friend Referral,1
+CUST00592,2022-07-12,23,38,British Columbia,Standard,9.99,3,98.95,stable,8,14,3,0,1,Friend Referral,0
+CUST00593,2022-04-13,26,31,Quebec,Premium,19.99,2,850.23,stable,31,25,18,1,0,Paid Ad,0
+CUST00594,2021-08-16,34,40,Ontario,Free,0.0,1,254.22,growing,11,5,16,0,0,Social Media,1
+CUST00595,2022-06-12,24,29,Quebec,Standard,9.99,1,668.32,stable,18,16,1,3,0,Organic,0
+CUST00596,2023-08-06,10,27,Alberta,Standard,9.99,1,4249.69,declining,12,13,4,1,0,Organic,1
+CUST00597,2023-07-07,11,31,Ontario,Free,0.0,2,742.45,growing,9,1,43,0,1,Paid Ad,0
+CUST00598,2022-03-14,27,31,Ontario,Premium,19.99,4,9318.88,declining,30,13,5,0,1,Friend Referral,0
+CUST00599,2021-10-15,32,26,Alberta,Standard,9.99,2,628.08,stable,18,15,0,0,1,Social Media,0
+CUST00600,2024-02-02,4,27,Alberta,Standard,9.99,2,312.96,growing,15,10,0,4,1,Social Media,0
+CUST00601,2024-04-02,2,22,Ontario,Premium,19.99,3,6103.4,growing,46,25,22,1,0,Organic,1
+CUST00602,2021-10-15,32,27,Quebec,Standard,9.99,2,368.36,stable,19,13,21,2,0,Organic,0
+CUST00603,2020-07-22,47,35,British Columbia,Free,0.0,2,768.46,growing,5,5,7,2,1,Paid Ad,1
+CUST00604,2023-09-05,9,30,Ontario,Standard,9.99,3,1235.98,declining,15,6,2,1,1,Friend Referral,0
+CUST00605,2021-09-15,33,38,Alberta,Free,0.0,2,508.53,stable,6,7,10,2,0,Paid Ad,0
+CUST00606,2022-02-12,28,29,British Columbia,Free,0.0,1,531.48,stable,6,7,6,0,1,Social Media,0
+CUST00607,2022-11-09,19,20,Quebec,Free,0.0,2,1540.58,growing,8,4,7,5,0,Friend Referral,0
+CUST00608,2022-03-14,27,35,Ontario,Standard,9.99,1,2381.68,stable,25,11,4,1,0,Social Media,0
+CUST00609,2022-06-12,24,26,Alberta,Standard,9.99,2,5699.54,stable,13,10,0,1,0,App Store,0
+CUST00610,2023-02-07,16,29,Ontario,Free,0.0,1,379.22,growing,5,3,23,0,1,Paid Ad,1
+CUST00611,2023-03-09,15,39,Ontario,Standard,9.99,1,217.98,stable,21,12,14,1,1,Paid Ad,0
+CUST00612,2023-04-08,14,22,Ontario,Premium,19.99,2,2933.25,declining,26,21,26,2,0,Friend Referral,0
+CUST00613,2021-12-14,30,32,Ontario,Free,0.0,1,398.69,growing,8,5,10,2,1,Organic,0
+CUST00614,2024-03-03,3,30,Alberta,Free,0.0,1,567.25,stable,8,2,62,1,1,Friend Referral,1
+CUST00615,2023-02-07,16,35,Ontario,Standard,9.99,2,3672.09,declining,28,13,49,0,1,Organic,0
+CUST00616,2021-06-17,36,36,British Columbia,Free,0.0,2,250.42,growing,7,6,4,0,0,Organic,0
+CUST00617,2022-02-12,28,32,Alberta,Standard,9.99,1,467.3,declining,12,9,7,1,0,Organic,1
+CUST00618,2021-07-17,35,28,British Columbia,Free,0.0,2,92.1,stable,10,5,20,1,0,Social Media,0
+CUST00619,2022-04-13,26,34,Ontario,Standard,9.99,2,4823.6,growing,22,13,22,3,1,Friend Referral,0
+CUST00620,2022-10-10,20,40,Alberta,Standard,9.99,1,791.25,growing,23,12,36,0,1,Social Media,0
+CUST00621,2022-05-13,25,30,British Columbia,Standard,9.99,1,1381.22,growing,20,11,15,1,0,Social Media,1
+CUST00622,2023-03-09,15,29,Ontario,Premium,19.99,3,8238.36,growing,31,17,9,0,1,Organic,0
+CUST00623,2024-05-02,1,33,Ontario,Premium,19.99,4,5446.63,growing,27,25,7,2,1,Friend Referral,0
+CUST00624,2024-04-02,2,31,British Columbia,Standard,9.99,3,2754.59,stable,20,13,8,0,1,Friend Referral,1
+CUST00625,2024-03-03,3,21,Quebec,Standard,9.99,1,581.6,growing,22,13,28,3,1,Organic,0
+CUST00626,2022-06-12,24,32,British Columbia,Free,0.0,2,304.05,stable,6,3,58,2,1,App Store,1
+CUST00627,2022-05-13,25,21,Ontario,Standard,9.99,3,171.86,declining,15,12,0,1,1,Friend Referral,0
+CUST00628,2024-03-03,3,33,British Columbia,Free,0.0,2,233.82,declining,9,3,13,0,0,Social Media,1
+CUST00629,2019-08-27,58,25,Ontario,Premium,19.99,2,17178.98,stable,25,23,11,0,0,Friend Referral,0
+CUST00630,2022-05-13,25,31,Ontario,Free,0.0,2,903.1,declining,5,3,7,1,1,Friend Referral,0
+CUST00631,2019-06-28,60,33,Other,Standard,9.99,1,3369.98,growing,22,13,28,1,1,Organic,1
+CUST00632,2023-01-08,17,48,Ontario,Free,0.0,1,359.32,growing,4,3,12,1,1,Friend Referral,0
+CUST00633,2020-09-20,45,36,Ontario,Standard,9.99,1,304.36,growing,22,16,5,1,1,Friend Referral,0
+CUST00634,2019-01-29,65,40,Alberta,Premium,19.99,4,5772.8,declining,31,21,8,3,1,Organic,0
+CUST00635,2023-12-04,6,44,Ontario,Standard,9.99,3,3186.23,declining,15,9,6,0,1,Friend Referral,1
+CUST00636,2024-03-03,3,34,British Columbia,Premium,19.99,3,6149.92,stable,29,22,8,3,1,Friend Referral,0
+CUST00637,2019-11-25,55,32,Alberta,Free,0.0,2,490.34,stable,9,2,1,1,0,Social Media,1
+CUST00638,2020-09-20,45,23,Ontario,Standard,9.99,1,724.26,stable,13,21,1,1,1,App Store,0
+CUST00639,2023-11-04,7,30,Alberta,Premium,19.99,2,17117.46,growing,25,20,14,2,1,Social Media,0
+CUST00640,2023-04-08,14,25,Quebec,Free,0.0,1,782.17,stable,12,11,17,1,1,Organic,0
+CUST00641,2021-02-17,40,28,British Columbia,Premium,19.99,4,3985.48,stable,33,21,15,0,1,Friend Referral,0
+CUST00642,2023-04-08,14,44,Ontario,Free,0.0,2,413.7,growing,9,5,21,0,1,Friend Referral,1
+CUST00643,2022-05-13,25,31,Other,Free,0.0,2,24.24,growing,9,11,43,1,0,Organic,0
+CUST00644,2022-04-13,26,24,Quebec,Premium,19.99,2,11143.81,declining,41,22,29,1,0,App Store,0
+CUST00645,2020-11-19,43,40,British Columbia,Free,0.0,2,144.37,stable,10,4,8,1,1,App Store,1
+CUST00646,2021-05-18,37,37,Alberta,Premium,19.99,4,6364.64,stable,35,31,3,3,1,App Store,0
+CUST00647,2023-07-07,11,38,British Columbia,Premium,19.99,4,443.99,stable,25,26,5,1,1,Social Media,0
+CUST00648,2023-01-08,17,18,British Columbia,Free,0.0,1,409.57,declining,5,4,13,2,1,App Store,0
+CUST00649,2022-12-09,18,44,Alberta,Standard,9.99,1,2540.31,stable,13,11,29,0,0,App Store,0
+CUST00650,2022-03-14,27,27,Ontario,Free,0.0,2,257.34,growing,7,5,18,2,0,Paid Ad,1
+CUST00651,2022-02-12,28,36,Quebec,Standard,9.99,2,2040.87,stable,17,11,11,0,1,Paid Ad,0
+CUST00652,2022-09-10,21,48,Ontario,Free,0.0,1,62.98,stable,4,2,13,1,1,Social Media,0
+CUST00653,2022-11-09,19,46,Quebec,Free,0.0,2,714.98,growing,9,2,11,2,1,Organic,0
+CUST00654,2021-10-15,32,24,British Columbia,Standard,9.99,3,3299.81,stable,19,9,53,2,1,Social Media,0
+CUST00655,2019-01-29,65,20,Ontario,Standard,9.99,1,365.76,stable,15,16,25,1,1,Social Media,1
+CUST00656,2018-10-31,68,41,Ontario,Premium,19.99,2,1272.94,stable,31,25,22,1,1,App Store,0
+CUST00657,2022-08-11,22,31,British Columbia,Premium,19.99,4,10364.6,stable,35,19,10,3,0,Friend Referral,1
+CUST00658,2023-03-09,15,27,Quebec,Standard,9.99,1,801.29,stable,12,8,6,1,0,App Store,0
+CUST00659,2023-05-08,13,35,Quebec,Standard,9.99,2,778.09,declining,23,11,0,1,0,Social Media,1
+CUST00660,2022-02-12,28,29,Alberta,Premium,19.99,3,1534.28,declining,33,23,0,2,0,Social Media,0
+CUST00661,2018-09-01,70,35,Ontario,Free,0.0,1,456.44,stable,8,6,0,1,0,Organic,0
+CUST00662,2021-10-15,32,31,Alberta,Standard,9.99,3,506.96,stable,14,11,59,1,1,Friend Referral,0
+CUST00663,2023-06-07,12,36,Ontario,Premium,19.99,2,1994.9,declining,33,19,1,0,0,App Store,0
+CUST00664,2023-01-08,17,24,Ontario,Free,0.0,2,791.88,declining,5,5,2,0,0,App Store,0
+CUST00665,2023-12-04,6,40,Ontario,Standard,9.99,3,9688.5,declining,21,7,9,1,1,Social Media,0
+CUST00666,2024-01-03,5,35,Alberta,Premium,19.99,3,8214.01,growing,33,19,9,0,0,Paid Ad,0
+CUST00667,2023-08-06,10,35,British Columbia,Premium,19.99,3,1758.5,growing,31,18,37,0,0,Social Media,0
+CUST00668,2022-07-12,23,23,Ontario,Standard,9.99,3,3504.79,declining,28,8,1,0,1,Friend Referral,0
+CUST00669,2022-04-13,26,42,British Columbia,Free,0.0,1,354.27,declining,14,4,47,0,0,Social Media,1
+CUST00670,2023-03-09,15,30,British Columbia,Free,0.0,1,825.04,stable,11,11,3,2,0,Organic,0
+CUST00671,2023-02-07,16,36,Alberta,Free,0.0,1,229.5,declining,5,8,52,0,0,Paid Ad,1
+CUST00672,2020-07-22,47,28,British Columbia,Standard,9.99,2,4043.21,declining,20,15,11,1,1,App Store,0
+CUST00673,2024-04-02,2,32,British Columbia,Free,0.0,2,21.19,stable,9,4,15,1,1,Organic,0
+CUST00674,2022-02-12,28,33,Other,Premium,19.99,4,15815.33,stable,43,18,5,0,0,Social Media,0
+CUST00675,2023-03-09,15,18,Other,Free,0.0,1,140.01,stable,15,5,14,0,1,Social Media,1
+CUST00676,2019-11-25,55,35,Ontario,Free,0.0,2,410.89,stable,9,3,18,0,0,Organic,0
+CUST00677,2024-02-02,4,44,Quebec,Standard,9.99,2,720.17,declining,21,10,0,1,1,Friend Referral,0
+CUST00678,2023-05-08,13,34,Ontario,Standard,9.99,1,3176.4,stable,24,12,0,2,1,Friend Referral,0
+CUST00679,2022-04-13,26,24,Quebec,Free,0.0,2,248.6,declining,10,2,64,0,0,Social Media,1
+CUST00680,2022-09-10,21,35,Quebec,Standard,9.99,2,6.36,declining,18,9,9,0,1,Organic,1
+CUST00681,2021-06-17,36,38,Ontario,Standard,9.99,1,6416.49,growing,27,6,41,1,1,Social Media,0
+CUST00682,2021-08-16,34,34,Other,Free,0.0,2,502.69,growing,8,8,19,2,1,Social Media,0
+CUST00683,2022-03-14,27,30,Ontario,Free,0.0,1,2088.14,stable,9,5,7,0,1,App Store,0
+CUST00684,2023-09-05,9,29,Quebec,Premium,19.99,2,5144.22,growing,30,30,2,2,1,Paid Ad,0
+CUST00685,2021-07-17,35,29,Alberta,Standard,9.99,2,137.44,stable,21,13,57,0,1,Organic,1
+CUST00686,2022-08-11,22,35,Ontario,Free,0.0,1,276.55,growing,6,6,13,4,1,Social Media,0
+CUST00687,2022-03-14,27,21,Ontario,Premium,19.99,4,122.14,stable,41,26,3,0,1,Social Media,0
+CUST00688,2022-01-13,29,28,Ontario,Premium,19.99,3,4713.33,growing,28,21,17,2,1,Organic,1
+CUST00689,2019-03-30,63,42,Alberta,Standard,9.99,3,2150.49,growing,16,12,1,2,1,Social Media,0
+CUST00690,2023-12-04,6,42,Alberta,Standard,9.99,2,1951.73,growing,17,13,30,0,1,Paid Ad,0
+CUST00691,2022-02-12,28,20,Ontario,Premium,19.99,4,5678.17,declining,30,27,1,3,1,App Store,0
+CUST00692,2018-11-30,67,23,Ontario,Premium,19.99,4,1318.82,stable,27,30,4,0,0,Organic,0
+CUST00693,2020-10-20,44,29,British Columbia,Standard,9.99,1,962.48,declining,25,7,1,2,0,Social Media,0
+CUST00694,2024-01-03,5,37,Quebec,Standard,9.99,3,1568.74,declining,17,12,1,2,1,Social Media,0
+CUST00695,2018-11-30,67,18,Quebec,Standard,9.99,1,1262.17,declining,17,9,11,0,1,Organic,0
+CUST00696,2024-05-02,1,30,British Columbia,Standard,9.99,2,272.31,stable,18,16,17,0,1,Friend Referral,0
+CUST00697,2023-11-04,7,27,Ontario,Free,0.0,1,2933.78,declining,8,7,23,1,1,Friend Referral,1
+CUST00698,2023-07-07,11,40,British Columbia,Standard,9.99,2,151.72,growing,17,8,17,1,1,Social Media,0
+CUST00699,2023-05-08,13,19,Ontario,Premium,19.99,4,2584.13,growing,35,21,6,1,0,App Store,0
+CUST00700,2022-02-12,28,31,Ontario,Standard,9.99,2,2475.95,declining,16,18,12,2,0,Friend Referral,0
+CUST00701,2023-03-09,15,28,Ontario,Standard,9.99,2,40.45,growing,24,17,39,3,1,Social Media,0
+CUST00702,2023-11-04,7,41,Quebec,Standard,9.99,2,1687.86,declining,16,12,7,3,1,Social Media,0
+CUST00703,2023-06-07,12,35,Ontario,Free,0.0,2,435.0,stable,10,4,4,0,1,Organic,1
+CUST00704,2023-02-07,16,26,British Columbia,Standard,9.99,2,17.74,stable,18,21,10,1,1,Friend Referral,0
+CUST00705,2023-10-05,8,36,Quebec,Standard,9.99,3,422.39,growing,11,11,5,3,1,Friend Referral,1
+CUST00706,2023-01-08,17,28,Alberta,Free,0.0,1,677.07,stable,9,4,4,0,1,App Store,0
+CUST00707,2020-04-23,50,37,British Columbia,Free,0.0,1,667.79,stable,9,7,22,2,1,App Store,0
+CUST00708,2023-10-05,8,29,Ontario,Premium,19.99,4,161.53,stable,21,21,33,2,0,App Store,1
+CUST00709,2020-05-23,49,38,Other,Free,0.0,2,870.57,stable,10,8,10,1,0,Friend Referral,0
+CUST00710,2023-10-05,8,34,Ontario,Free,0.0,1,161.56,growing,9,3,22,0,1,Friend Referral,0
+CUST00711,2021-04-18,38,53,Ontario,Premium,19.99,4,4122.26,stable,38,17,3,2,0,App Store,0
+CUST00712,2023-07-07,11,30,Alberta,Standard,9.99,2,742.24,stable,17,7,11,1,1,Organic,1
+CUST00713,2023-09-05,9,33,Quebec,Standard,9.99,2,579.49,growing,22,5,15,1,0,Social Media,0
+CUST00714,2022-12-09,18,27,Quebec,Premium,19.99,3,353.54,growing,33,21,10,0,1,Organic,0
+CUST00715,2021-09-15,33,31,Ontario,Free,0.0,1,361.32,stable,5,8,1,2,1,Friend Referral,1
+CUST00716,2024-03-03,3,18,Ontario,Standard,9.99,1,426.37,stable,16,8,19,4,0,App Store,1
+CUST00717,2021-09-15,33,34,Ontario,Standard,9.99,3,509.46,stable,13,8,27,2,1,Social Media,0
+CUST00718,2021-11-14,31,40,British Columbia,Premium,19.99,2,12658.25,growing,27,24,15,2,1,Friend Referral,1
+CUST00719,2024-03-03,3,33,Ontario,Standard,9.99,3,1192.98,stable,15,10,2,1,1,Social Media,0
+CUST00720,2022-04-13,26,21,Ontario,Standard,9.99,1,2115.79,stable,28,15,1,0,0,Paid Ad,0
+CUST00721,2023-05-08,13,25,Ontario,Standard,9.99,2,3877.91,stable,20,11,5,2,1,Friend Referral,0
+CUST00722,2020-08-21,46,18,Quebec,Standard,9.99,3,676.92,stable,18,5,0,0,1,Paid Ad,0
+CUST00723,2022-01-13,29,37,Other,Standard,9.99,1,406.02,stable,18,16,27,1,1,Social Media,0
+CUST00724,2022-04-13,26,23,Quebec,Standard,9.99,3,952.36,growing,17,6,18,3,1,Paid Ad,0
+CUST00725,2021-03-19,39,30,Quebec,Standard,9.99,2,4495.87,stable,25,13,12,2,1,Social Media,0
+CUST00726,2021-10-15,32,29,Ontario,Standard,9.99,1,19.82,stable,25,11,33,0,0,Friend Referral,0
+CUST00727,2022-08-11,22,41,Ontario,Standard,9.99,3,2265.59,stable,10,13,1,2,0,Organic,0
+CUST00728,2021-09-15,33,31,Ontario,Standard,9.99,3,1296.96,declining,19,13,18,0,1,App Store,0
+CUST00729,2019-12-25,54,36,British Columbia,Premium,19.99,3,276.83,stable,31,26,2,1,1,Paid Ad,0
+CUST00730,2023-06-07,12,34,Quebec,Standard,9.99,2,774.33,stable,20,15,0,1,0,App Store,0
+CUST00731,2018-09-01,70,40,Other,Premium,19.99,4,2903.75,declining,33,22,2,3,1,Friend Referral,0
+CUST00732,2024-02-02,4,29,Alberta,Premium,19.99,2,1455.47,growing,31,23,45,0,1,Social Media,0
+CUST00733,2023-02-07,16,44,Ontario,Standard,9.99,3,1315.07,declining,15,9,8,1,0,Social Media,0
+CUST00734,2021-07-17,35,18,Alberta,Standard,9.99,2,1656.08,growing,29,5,0,2,0,Social Media,0
+CUST00735,2019-01-29,65,37,British Columbia,Premium,19.99,3,7403.79,declining,33,24,13,0,1,Social Media,0
+CUST00736,2023-04-08,14,24,Ontario,Standard,9.99,1,2041.18,growing,25,12,3,0,0,App Store,0
+CUST00737,2023-05-08,13,27,British Columbia,Premium,19.99,4,6745.36,stable,23,30,0,0,0,App Store,0
+CUST00738,2020-07-22,47,34,British Columbia,Standard,9.99,3,36.07,stable,19,16,21,0,0,Paid Ad,0
+CUST00739,2020-12-19,42,34,Quebec,Standard,9.99,1,815.1,declining,17,7,2,1,1,Social Media,1
+CUST00740,2023-07-07,11,35,Ontario,Free,0.0,1,1208.88,growing,10,8,42,0,1,Friend Referral,0
+CUST00741,2022-01-13,29,21,Ontario,Standard,9.99,2,2279.76,declining,12,12,13,0,0,Friend Referral,0
+CUST00742,2023-08-06,10,41,Ontario,Premium,19.99,3,255.36,stable,42,23,1,3,0,Friend Referral,0
+CUST00743,2022-04-13,26,24,Ontario,Standard,9.99,1,1659.32,growing,10,12,3,2,1,Organic,0
+CUST00744,2018-09-01,70,25,Other,Standard,9.99,1,473.04,stable,14,11,14,0,0,App Store,0
+CUST00745,2022-09-10,21,35,Other,Premium,19.99,2,147.04,stable,23,18,6,1,1,Social Media,0
+CUST00746,2023-12-04,6,28,Other,Standard,9.99,1,817.56,stable,17,10,11,0,1,Social Media,0
+CUST00747,2021-07-17,35,33,Ontario,Standard,9.99,1,786.74,declining,8,19,24,1,1,App Store,1
+CUST00748,2019-12-25,54,18,Ontario,Standard,9.99,3,5137.92,declining,28,15,23,1,0,Paid Ad,0
+CUST00749,2023-04-08,14,32,Other,Standard,9.99,1,1080.33,stable,14,10,17,3,1,App Store,0
+CUST00750,2024-05-02,1,32,Other,Free,0.0,2,803.92,declining,6,7,32,2,0,Organic,1
+CUST00751,2021-11-14,31,27,Ontario,Standard,9.99,2,48.93,growing,14,13,3,3,1,Social Media,0
+CUST00752,2022-12-09,18,18,Quebec,Standard,9.99,3,731.56,growing,11,9,2,3,1,Social Media,0
+CUST00753,2022-12-09,18,29,Ontario,Standard,9.99,1,2194.38,declining,17,10,24,4,0,Paid Ad,0
+CUST00754,2023-10-05,8,30,Alberta,Standard,9.99,2,4430.19,declining,20,8,5,1,0,Social Media,0
+CUST00755,2020-04-23,50,28,Ontario,Standard,9.99,2,592.52,growing,20,11,10,4,1,Paid Ad,0
+CUST00756,2023-11-04,7,18,Alberta,Free,0.0,1,136.5,stable,6,6,20,1,0,Paid Ad,0
+CUST00757,2023-10-05,8,42,Ontario,Standard,9.99,2,1803.4,declining,14,13,7,1,1,App Store,1
+CUST00758,2024-03-03,3,26,British Columbia,Free,0.0,1,488.94,growing,8,7,2,3,1,Organic,0
+CUST00759,2023-09-05,9,29,Ontario,Standard,9.99,1,1012.36,growing,19,15,17,3,0,Organic,1
+CUST00760,2024-02-02,4,18,British Columbia,Premium,19.99,2,6990.42,stable,29,25,25,0,1,App Store,0
+CUST00761,2023-02-07,16,42,British Columbia,Standard,9.99,1,4843.54,declining,19,12,0,1,1,App Store,1
+CUST00762,2024-02-02,4,27,Quebec,Standard,9.99,2,5410.19,declining,20,18,12,3,1,Paid Ad,0
+CUST00763,2021-06-17,36,31,Ontario,Free,0.0,2,144.23,declining,8,7,9,1,0,Social Media,0
+CUST00764,2021-12-14,30,38,Quebec,Free,0.0,1,253.52,stable,5,9,4,1,1,Friend Referral,1
+CUST00765,2018-12-30,66,26,Ontario,Standard,9.99,2,232.58,stable,22,15,2,2,0,Friend Referral,0
+CUST00766,2023-02-07,16,37,Ontario,Free,0.0,2,1061.17,growing,11,0,3,1,1,Social Media,0
+CUST00767,2019-07-28,59,18,Quebec,Standard,9.99,3,48.13,declining,19,9,19,4,0,Friend Referral,0
+CUST00768,2022-04-13,26,34,Ontario,Free,0.0,2,1117.47,stable,6,5,11,1,1,Friend Referral,0
+CUST00769,2022-01-13,29,42,Other,Premium,19.99,4,1283.78,stable,34,21,59,2,0,Social Media,1
+CUST00770,2018-09-01,70,26,Alberta,Standard,9.99,2,2505.96,declining,18,12,4,0,1,Social Media,1
+CUST00771,2020-01-24,53,38,Quebec,Free,0.0,2,584.4,growing,16,6,47,2,1,Social Media,1
+CUST00772,2020-09-20,45,43,Ontario,Premium,19.99,3,1159.05,declining,22,28,10,1,1,Social Media,0
+CUST00773,2022-04-13,26,29,Ontario,Free,0.0,2,143.84,stable,9,9,2,3,1,Social Media,0
+CUST00774,2024-05-02,1,28,Other,Free,0.0,2,382.99,stable,5,4,2,0,1,Social Media,0
+CUST00775,2022-09-10,21,24,Ontario,Standard,9.99,3,1038.92,growing,18,11,14,1,1,Paid Ad,0
+CUST00776,2022-02-12,28,27,Alberta,Standard,9.99,1,725.87,declining,14,7,26,1,1,App Store,0
+CUST00777,2019-06-28,60,25,Ontario,Standard,9.99,1,2294.51,declining,21,17,20,1,1,App Store,0
+CUST00778,2024-05-02,1,24,Ontario,Free,0.0,2,441.83,growing,10,3,15,2,0,Social Media,1
+CUST00779,2021-09-15,33,39,Quebec,Standard,9.99,1,2365.84,growing,20,13,2,0,1,Organic,1
+CUST00780,2022-12-09,18,25,Other,Free,0.0,1,322.25,declining,11,6,1,2,1,App Store,0
+CUST00781,2022-11-09,19,32,Ontario,Free,0.0,2,788.24,growing,7,7,0,0,1,Organic,0
+CUST00782,2023-09-05,9,31,Ontario,Premium,19.99,4,4779.17,stable,23,17,1,0,1,Friend Referral,0
+CUST00783,2019-08-27,58,41,Quebec,Standard,9.99,2,367.61,stable,23,12,21,2,1,Social Media,0
+CUST00784,2023-11-04,7,27,Ontario,Free,0.0,2,381.71,declining,5,3,33,0,1,Social Media,1
+CUST00785,2020-06-22,48,33,Ontario,Standard,9.99,2,1327.39,stable,21,10,4,2,0,App Store,0
+CUST00786,2018-12-30,66,36,Ontario,Free,0.0,2,15.93,stable,9,7,23,2,0,App Store,0
+CUST00787,2023-09-05,9,41,British Columbia,Premium,19.99,4,1172.82,declining,36,19,3,1,0,Paid Ad,1
+CUST00788,2023-08-06,10,27,Quebec,Free,0.0,2,501.11,growing,9,4,4,1,1,Paid Ad,1
+CUST00789,2024-05-02,1,26,Other,Free,0.0,2,272.25,growing,7,7,3,1,0,Friend Referral,0
+CUST00790,2022-05-13,25,23,Ontario,Standard,9.99,2,1270.85,growing,15,14,0,6,1,Social Media,0
+CUST00791,2023-01-08,17,46,Ontario,Standard,9.99,2,1227.96,declining,13,16,3,2,0,Organic,1
+CUST00792,2022-03-14,27,40,British Columbia,Standard,9.99,1,8226.14,stable,23,18,7,0,0,Friend Referral,0
+CUST00793,2022-10-10,20,30,Ontario,Free,0.0,2,767.41,growing,6,2,7,1,1,Social Media,1
+CUST00794,2023-09-05,9,44,Ontario,Free,0.0,2,102.5,stable,5,3,5,1,1,App Store,1
+CUST00795,2022-04-13,26,30,Quebec,Standard,9.99,3,767.22,stable,18,10,10,1,0,Friend Referral,0
+CUST00796,2023-05-08,13,36,Ontario,Free,0.0,2,852.74,declining,12,1,7,1,1,Friend Referral,0
+CUST00797,2023-12-04,6,31,Quebec,Premium,19.99,2,8129.34,growing,36,19,52,1,0,Friend Referral,0
+CUST00798,2023-04-08,14,33,Other,Free,0.0,1,185.82,stable,6,7,24,3,1,Social Media,1
+CUST00799,2022-11-09,19,33,Alberta,Standard,9.99,3,398.9,stable,22,14,40,2,0,App Store,0
+CUST00800,2022-09-10,21,28,Ontario,Standard,9.99,2,1557.16,growing,25,7,12,0,1,App Store,0
+CUST00801,2024-05-02,1,38,British Columbia,Free,0.0,2,191.55,declining,9,6,17,2,0,Friend Referral,1
+CUST00802,2022-02-12,28,36,British Columbia,Standard,9.99,1,2623.39,growing,25,9,2,2,1,App Store,0
+CUST00803,2019-07-28,59,38,Alberta,Premium,19.99,2,4382.13,stable,30,32,20,2,0,Social Media,0
+CUST00804,2021-08-16,34,33,Other,Free,0.0,2,57.27,declining,11,6,4,1,1,Paid Ad,0
+CUST00805,2023-08-06,10,24,Alberta,Premium,19.99,2,14640.59,stable,36,26,2,1,0,Social Media,0
+CUST00806,2021-11-14,31,42,British Columbia,Standard,9.99,2,1436.83,growing,11,13,0,2,1,App Store,0
+CUST00807,2018-10-31,68,29,Ontario,Free,0.0,1,123.57,declining,8,5,9,5,1,App Store,0
+CUST00808,2022-06-12,24,33,Other,Standard,9.99,1,1098.74,growing,15,13,5,1,1,Organic,1
+CUST00809,2018-08-02,71,35,Alberta,Free,0.0,2,162.17,stable,13,5,64,1,1,Paid Ad,0
+CUST00810,2021-10-15,32,33,Alberta,Standard,9.99,3,599.62,declining,20,8,4,1,1,Paid Ad,1
+CUST00811,2021-11-14,31,37,Ontario,Standard,9.99,3,144.62,declining,19,9,30,1,1,Friend Referral,0
+CUST00812,2022-02-12,28,38,British Columbia,Premium,19.99,4,1619.79,stable,34,27,5,3,1,App Store,0
+CUST00813,2021-12-14,30,29,Ontario,Premium,19.99,2,551.01,growing,39,23,20,1,1,Paid Ad,0
+CUST00814,2020-04-23,50,42,Other,Standard,9.99,2,592.52,declining,16,4,16,1,1,Organic,0
+CUST00815,2020-02-23,52,29,Other,Standard,9.99,3,2601.77,growing,15,12,12,1,0,Paid Ad,1
+CUST00816,2022-07-12,23,33,Ontario,Free,0.0,1,736.24,growing,6,7,8,2,0,Friend Referral,0
+CUST00817,2022-06-12,24,28,Quebec,Standard,9.99,2,503.98,declining,18,20,16,2,1,App Store,0
+CUST00818,2019-10-26,56,26,Ontario,Free,0.0,2,459.85,stable,12,6,7,0,1,Friend Referral,0
+CUST00819,2023-05-08,13,38,Ontario,Standard,9.99,2,1149.39,growing,13,12,11,0,1,Friend Referral,0
+CUST00820,2023-09-05,9,52,Ontario,Standard,9.99,3,2443.48,stable,13,10,13,0,0,App Store,0
+CUST00821,2022-09-10,21,28,Ontario,Free,0.0,1,1364.01,growing,9,6,4,0,1,Friend Referral,1
+CUST00822,2021-10-15,32,39,Ontario,Free,0.0,2,4.3,growing,15,6,6,1,1,Social Media,0
+CUST00823,2021-10-15,32,28,Ontario,Standard,9.99,1,1821.59,growing,11,11,0,3,0,Friend Referral,1
+CUST00824,2023-04-08,14,30,Alberta,Standard,9.99,1,29.96,declining,21,7,28,1,1,Friend Referral,1
+CUST00825,2023-02-07,16,43,Ontario,Standard,9.99,1,870.44,declining,17,16,21,1,1,Social Media,0
+CUST00826,2022-06-12,24,23,Alberta,Standard,9.99,1,308.78,stable,15,13,3,1,0,Organic,0
+CUST00827,2024-04-02,2,21,British Columbia,Standard,9.99,1,5170.79,growing,14,7,6,1,1,Social Media,0
+CUST00828,2023-05-08,13,30,Alberta,Standard,9.99,2,219.66,stable,9,9,8,1,1,Social Media,1
+CUST00829,2024-03-03,3,35,Alberta,Free,0.0,1,2400.52,stable,8,13,6,0,0,Social Media,0
+CUST00830,2021-08-16,34,34,Ontario,Free,0.0,2,128.66,stable,6,5,24,1,0,Friend Referral,1
+CUST00831,2023-08-06,10,33,Ontario,Standard,9.99,1,3751.0,declining,19,13,19,3,0,Friend Referral,1
+CUST00832,2019-05-29,61,31,Ontario,Standard,9.99,3,737.98,stable,24,6,21,1,0,Social Media,0
+CUST00833,2018-10-31,68,36,British Columbia,Free,0.0,1,891.18,stable,6,10,35,3,1,Organic,0
+CUST00834,2023-09-05,9,18,Ontario,Standard,9.99,3,78.76,declining,19,8,13,1,0,Friend Referral,0
+CUST00835,2022-06-12,24,25,British Columbia,Free,0.0,1,404.39,stable,3,7,14,0,1,Friend Referral,1
+CUST00836,2023-12-04,6,30,Alberta,Standard,9.99,1,508.85,stable,20,15,19,1,0,Social Media,0
+CUST00837,2024-02-02,4,35,British Columbia,Standard,9.99,1,3333.14,stable,23,10,17,2,1,Organic,0
+CUST00838,2024-05-02,1,41,Ontario,Standard,9.99,1,4215.97,growing,22,15,30,1,0,Social Media,0
+CUST00839,2021-08-16,34,24,Ontario,Premium,19.99,2,12219.86,stable,32,12,22,0,1,App Store,0
+CUST00840,2022-01-13,29,41,Ontario,Free,0.0,1,385.85,stable,9,7,1,2,0,Friend Referral,0
+CUST00841,2021-02-17,40,27,Quebec,Premium,19.99,4,3265.12,growing,34,21,39,2,0,Organic,0
+CUST00842,2021-11-14,31,30,Ontario,Standard,9.99,2,286.24,growing,19,15,17,1,0,Social Media,0
+CUST00843,2023-11-04,7,35,Alberta,Standard,9.99,2,285.43,declining,19,10,2,0,0,Paid Ad,0
+CUST00844,2022-04-13,26,29,British Columbia,Standard,9.99,2,45.24,stable,15,15,22,0,0,Friend Referral,0
+CUST00845,2022-05-13,25,38,Ontario,Standard,9.99,1,102.18,growing,22,13,6,0,1,Social Media,0
+CUST00846,2023-10-05,8,28,Ontario,Standard,9.99,2,612.17,growing,14,11,24,0,0,Paid Ad,0
+CUST00847,2020-08-21,46,28,British Columbia,Standard,9.99,1,134.43,stable,20,10,46,1,1,Social Media,0
+CUST00848,2023-01-08,17,38,Alberta,Free,0.0,1,259.06,growing,5,4,4,1,1,Friend Referral,0
+CUST00849,2022-05-13,25,25,Other,Free,0.0,2,88.35,growing,9,3,29,0,1,Organic,0
+CUST00850,2021-12-14,30,32,Ontario,Standard,9.99,1,790.0,declining,17,14,22,0,1,Organic,0
+CUST00851,2019-11-25,55,19,Quebec,Free,0.0,2,1307.33,stable,5,2,16,1,1,Friend Referral,0
+CUST00852,2019-05-29,61,43,Ontario,Standard,9.99,1,197.23,stable,16,10,7,3,1,Social Media,0
+CUST00853,2020-12-19,42,39,Ontario,Free,0.0,2,138.26,growing,9,8,1,0,0,Organic,0
+CUST00854,2019-09-26,57,50,British Columbia,Standard,9.99,2,761.78,stable,18,7,9,2,1,Paid Ad,0
+CUST00855,2022-03-14,27,40,Other,Premium,19.99,4,4855.58,growing,31,30,1,1,1,Organic,0
+CUST00856,2022-07-12,23,23,Ontario,Premium,19.99,2,3685.38,stable,32,25,10,4,0,Friend Referral,1
+CUST00857,2022-07-12,23,35,Ontario,Standard,9.99,2,4563.28,growing,18,9,25,0,1,Social Media,0
+CUST00858,2022-03-14,27,24,British Columbia,Standard,9.99,3,555.67,growing,18,14,90,5,0,Paid Ad,0
+CUST00859,2022-03-14,27,42,Alberta,Premium,19.99,2,683.35,stable,25,15,3,2,0,Paid Ad,0
+CUST00860,2018-10-01,69,23,Quebec,Standard,9.99,2,5998.71,declining,12,12,3,2,1,Social Media,1
+CUST00861,2022-11-09,19,22,Ontario,Free,0.0,2,141.82,growing,4,6,24,1,0,Friend Referral,0
+CUST00862,2024-03-03,3,19,Other,Premium,19.99,4,3991.52,stable,23,11,9,4,0,App Store,1
+CUST00863,2018-09-01,70,27,Other,Standard,9.99,3,5975.61,stable,16,12,37,0,0,Organic,0
+CUST00864,2023-02-07,16,26,Quebec,Standard,9.99,1,798.2,stable,21,14,21,2,0,Friend Referral,0
+CUST00865,2021-07-17,35,22,Alberta,Free,0.0,1,249.22,declining,2,6,20,0,0,Paid Ad,1
+CUST00866,2023-08-06,10,44,Quebec,Free,0.0,1,172.22,stable,8,6,1,3,0,Organic,1
+CUST00867,2023-02-07,16,34,Ontario,Premium,19.99,4,2048.18,declining,33,20,0,0,0,App Store,1
+CUST00868,2023-07-07,11,33,Ontario,Standard,9.99,1,3811.08,growing,16,13,5,3,0,Organic,0
+CUST00869,2022-06-12,24,42,British Columbia,Free,0.0,2,348.02,declining,6,6,3,1,0,Friend Referral,0
+CUST00870,2021-10-15,32,32,Other,Free,0.0,1,367.85,growing,8,5,18,1,1,Social Media,0
+CUST00871,2023-05-08,13,25,Alberta,Standard,9.99,3,1486.56,growing,19,12,8,0,0,Social Media,0
+CUST00872,2021-08-16,34,19,Ontario,Standard,9.99,1,7916.82,growing,16,9,11,2,1,Social Media,0
+CUST00873,2020-12-19,42,25,Ontario,Free,0.0,1,64.11,growing,5,2,25,0,1,Social Media,1
+CUST00874,2019-03-30,63,41,Alberta,Premium,19.99,2,1304.14,stable,31,21,9,2,1,Friend Referral,1
+CUST00875,2023-12-04,6,22,Quebec,Free,0.0,2,708.3,stable,10,4,11,1,1,Social Media,1
+CUST00876,2023-07-07,11,33,Ontario,Standard,9.99,2,314.05,stable,17,17,27,3,0,Social Media,0
+CUST00877,2024-02-02,4,38,British Columbia,Standard,9.99,3,3204.34,growing,22,10,8,1,1,Social Media,0
+CUST00878,2019-06-28,60,32,Ontario,Free,0.0,1,798.55,stable,6,5,1,2,0,Social Media,0
+CUST00879,2022-06-12,24,33,Other,Premium,19.99,3,4646.15,stable,43,20,11,2,0,Friend Referral,0
+CUST00880,2023-12-04,6,35,Alberta,Standard,9.99,3,3057.76,stable,14,15,12,1,0,Organic,0
+CUST00881,2021-12-14,30,33,Other,Standard,9.99,2,313.57,growing,16,14,10,1,1,App Store,0
+CUST00882,2022-01-13,29,42,Ontario,Free,0.0,2,67.61,growing,3,2,4,0,1,Friend Referral,1
+CUST00883,2023-08-06,10,23,Alberta,Free,0.0,1,267.63,stable,4,6,3,2,1,App Store,0
+CUST00884,2023-05-08,13,32,British Columbia,Free,0.0,1,7.46,declining,10,6,6,3,1,Social Media,0
+CUST00885,2024-01-03,5,18,Ontario,Standard,9.99,1,90.99,stable,16,11,2,0,1,Friend Referral,0
+CUST00886,2021-07-17,35,18,British Columbia,Standard,9.99,1,2789.64,growing,14,14,16,0,0,Social Media,1
+CUST00887,2022-02-12,28,30,Other,Premium,19.99,4,715.87,growing,39,16,14,4,1,Organic,0
+CUST00888,2021-02-17,40,34,Quebec,Standard,9.99,3,2136.97,growing,14,11,15,2,1,App Store,0
+CUST00889,2021-02-17,40,42,Ontario,Premium,19.99,3,3574.03,stable,27,22,3,0,1,App Store,0
+CUST00890,2022-07-12,23,47,Other,Standard,9.99,3,3566.25,stable,23,7,4,1,0,Social Media,1
+CUST00891,2022-12-09,18,40,Ontario,Free,0.0,1,156.4,growing,10,2,23,0,1,Paid Ad,0
+CUST00892,2021-12-14,30,36,Alberta,Free,0.0,2,382.2,stable,6,5,17,1,0,App Store,1
+CUST00893,2022-06-12,24,32,Alberta,Standard,9.99,2,606.25,stable,14,13,31,0,0,Social Media,0
+CUST00894,2021-07-17,35,20,Quebec,Free,0.0,2,256.95,stable,8,6,7,1,1,Social Media,0
+CUST00895,2023-06-07,12,29,Quebec,Free,0.0,2,631.11,growing,10,4,11,1,0,Social Media,0
+CUST00896,2024-04-02,2,40,Ontario,Standard,9.99,2,2579.13,stable,22,13,20,1,0,Social Media,0
+CUST00897,2022-09-10,21,37,Other,Premium,19.99,4,39.19,stable,21,20,54,2,1,Social Media,0
+CUST00898,2018-09-01,70,21,Ontario,Free,0.0,1,823.03,declining,8,3,68,1,1,Social Media,0
+CUST00899,2021-09-15,33,35,British Columbia,Standard,9.99,3,62.17,declining,21,16,106,0,0,Organic,0
+CUST00900,2023-10-05,8,34,Ontario,Premium,19.99,4,4238.36,growing,24,21,33,4,0,Social Media,1
+CUST00901,2019-01-29,65,33,Ontario,Standard,9.99,1,1380.84,growing,15,9,15,2,1,Social Media,0
+CUST00902,2020-09-20,45,30,British Columbia,Free,0.0,2,152.29,stable,9,3,0,2,0,Social Media,1
+CUST00903,2018-11-30,67,35,Alberta,Free,0.0,2,147.05,stable,5,7,18,4,1,Organic,0
+CUST00904,2021-12-14,30,35,Ontario,Standard,9.99,3,5452.54,declining,17,13,4,0,1,Friend Referral,0
+CUST00905,2019-04-29,62,26,Ontario,Standard,9.99,2,7530.16,stable,19,11,0,0,1,Social Media,1
+CUST00906,2022-10-10,20,34,Quebec,Premium,19.99,2,2870.41,declining,29,27,17,2,0,App Store,1
+CUST00907,2022-12-09,18,29,Quebec,Standard,9.99,1,581.24,stable,17,17,21,1,0,Paid Ad,1
+CUST00908,2022-10-10,20,20,Ontario,Free,0.0,2,724.79,declining,9,6,16,2,1,Organic,0
+CUST00909,2019-08-27,58,27,Quebec,Free,0.0,1,771.64,stable,10,4,6,2,1,Social Media,0
+CUST00910,2021-11-14,31,20,Ontario,Standard,9.99,1,250.22,stable,21,7,10,1,1,Friend Referral,0
+CUST00911,2021-11-14,31,37,Ontario,Free,0.0,1,1576.94,stable,4,7,40,0,0,Social Media,1
+CUST00912,2023-12-04,6,33,British Columbia,Free,0.0,2,191.48,declining,11,5,19,0,0,Organic,1
+CUST00913,2022-11-09,19,28,Alberta,Standard,9.99,3,15834.66,growing,18,11,10,0,0,Organic,1
+CUST00914,2021-12-14,30,40,Ontario,Free,0.0,2,565.77,declining,10,11,13,1,1,Social Media,0
+CUST00915,2023-07-07,11,31,British Columbia,Free,0.0,1,710.25,stable,3,2,39,0,1,Social Media,1
+CUST00916,2019-06-28,60,20,Quebec,Standard,9.99,1,4.37,stable,21,13,7,2,0,Paid Ad,0
+CUST00917,2024-03-03,3,27,Quebec,Free,0.0,2,39.85,declining,7,3,1,2,1,Social Media,0
+CUST00918,2022-08-11,22,42,British Columbia,Free,0.0,1,831.73,declining,5,3,5,2,1,Friend Referral,1
+CUST00919,2022-02-12,28,26,Ontario,Standard,9.99,1,2204.86,declining,21,21,8,4,1,Social Media,0
+CUST00920,2023-04-08,14,32,Quebec,Premium,19.99,4,8451.95,growing,37,22,4,2,1,Social Media,0
+CUST00921,2022-07-12,23,36,Alberta,Free,0.0,1,162.77,declining,6,5,11,0,1,Organic,0
+CUST00922,2024-05-02,1,35,Ontario,Standard,9.99,1,1168.62,stable,13,14,5,1,1,App Store,1
+CUST00923,2022-07-12,23,48,Ontario,Standard,9.99,2,1361.79,stable,12,5,1,1,1,Organic,0
+CUST00924,2021-10-15,32,22,Quebec,Standard,9.99,3,748.28,declining,17,10,3,6,1,Organic,0
+CUST00925,2022-10-10,20,23,Quebec,Premium,19.99,2,6521.59,growing,33,19,37,1,1,Social Media,0
+CUST00926,2022-11-09,19,22,Alberta,Standard,9.99,2,764.12,growing,10,7,14,0,0,Organic,0
+CUST00927,2021-07-17,35,28,Quebec,Premium,19.99,2,21253.13,stable,40,13,5,1,1,Organic,0
+CUST00928,2022-09-10,21,38,British Columbia,Free,0.0,2,919.19,growing,9,7,6,1,0,Friend Referral,0
+CUST00929,2024-02-02,4,23,Quebec,Free,0.0,1,515.96,stable,7,4,10,2,1,Social Media,0
+CUST00930,2022-04-13,26,38,Ontario,Premium,19.99,3,7574.45,growing,36,21,16,1,0,Social Media,0
+CUST00931,2023-02-07,16,31,Ontario,Standard,9.99,2,4555.45,growing,21,9,13,2,0,App Store,1
+CUST00932,2024-05-02,1,23,Alberta,Free,0.0,2,492.4,stable,15,6,40,0,0,App Store,0
+CUST00933,2022-07-12,23,18,Alberta,Standard,9.99,2,1422.96,stable,17,7,14,0,0,Social Media,1
+CUST00934,2022-09-10,21,20,Quebec,Premium,19.99,4,2589.21,growing,22,20,36,1,0,Friend Referral,0
+CUST00935,2024-01-03,5,26,Ontario,Premium,19.99,2,4900.59,growing,32,25,0,0,0,Organic,0
+CUST00936,2022-09-10,21,29,Quebec,Free,0.0,2,426.25,stable,10,6,33,0,0,App Store,1
+CUST00937,2022-08-11,22,40,Quebec,Premium,19.99,4,1177.51,declining,36,14,19,2,0,Friend Referral,0
+CUST00938,2022-09-10,21,36,British Columbia,Free,0.0,2,552.05,declining,8,6,2,1,1,Friend Referral,1
+CUST00939,2023-07-07,11,25,Quebec,Free,0.0,1,497.02,growing,10,6,4,1,0,Friend Referral,0
+CUST00940,2020-02-23,52,33,Ontario,Standard,9.99,3,581.86,stable,17,13,11,1,1,Friend Referral,1
+CUST00941,2023-02-07,16,42,Ontario,Free,0.0,1,389.53,growing,4,4,2,2,1,Friend Referral,0
+CUST00942,2021-11-14,31,44,Alberta,Free,0.0,2,46.32,stable,9,5,23,0,0,Social Media,0
+CUST00943,2020-11-19,43,28,Other,Standard,9.99,1,2070.11,declining,13,15,23,0,0,Social Media,1
+CUST00944,2022-06-12,24,37,Alberta,Free,0.0,1,783.18,stable,7,4,5,1,0,App Store,0
+CUST00945,2020-09-20,45,40,Quebec,Free,0.0,1,149.64,stable,5,8,1,1,1,Social Media,0
+CUST00946,2022-04-13,26,20,Ontario,Free,0.0,2,208.25,growing,8,5,67,1,1,Organic,0
+CUST00947,2022-10-10,20,27,Ontario,Standard,9.99,1,1808.73,declining,21,11,4,0,0,Friend Referral,0
+CUST00948,2018-10-01,69,46,Ontario,Standard,9.99,3,2145.21,stable,20,13,1,0,0,Paid Ad,0
+CUST00949,2024-02-02,4,28,Quebec,Standard,9.99,3,132.09,stable,17,14,6,1,1,Social Media,0
+CUST00950,2019-05-29,61,18,British Columbia,Standard,9.99,3,363.03,stable,15,9,52,2,0,App Store,0
+CUST00951,2022-07-12,23,30,British Columbia,Standard,9.99,1,716.07,growing,19,11,23,0,1,Social Media,0
+CUST00952,2021-11-14,31,38,Other,Premium,19.99,2,5535.45,declining,33,21,9,1,0,Friend Referral,0
+CUST00953,2020-08-21,46,31,British Columbia,Free,0.0,2,156.47,growing,7,5,5,0,0,App Store,1
+CUST00954,2023-02-07,16,36,Ontario,Free,0.0,2,213.55,stable,4,6,8,2,0,App Store,1
+CUST00955,2021-02-17,40,37,Ontario,Premium,19.99,3,10592.91,stable,38,15,0,1,1,App Store,1
+CUST00956,2021-08-16,34,28,Ontario,Standard,9.99,1,591.83,growing,18,13,19,3,0,Organic,0
+CUST00957,2021-07-17,35,27,British Columbia,Premium,19.99,3,2350.45,growing,33,23,1,2,0,Organic,0
+CUST00958,2022-11-09,19,32,Quebec,Standard,9.99,1,5946.53,stable,24,9,10,2,0,Social Media,0
+CUST00959,2024-04-02,2,32,British Columbia,Standard,9.99,3,2018.22,stable,22,9,12,2,0,App Store,0
+CUST00960,2022-03-14,27,31,Alberta,Standard,9.99,2,338.97,growing,9,6,0,1,1,App Store,0
+CUST00961,2024-04-02,2,31,Ontario,Standard,9.99,2,2562.06,growing,12,11,58,0,0,Organic,1
+CUST00962,2023-10-05,8,25,British Columbia,Standard,9.99,3,2560.42,declining,17,11,5,0,1,Organic,0
+CUST00963,2023-10-05,8,36,Quebec,Standard,9.99,3,2196.05,declining,19,11,1,1,0,App Store,0
+CUST00964,2022-02-12,28,35,Ontario,Standard,9.99,3,289.41,declining,21,14,28,1,1,Friend Referral,0
+CUST00965,2023-03-09,15,21,Ontario,Premium,19.99,3,10818.68,stable,39,19,2,0,1,Friend Referral,0
+CUST00966,2021-09-15,33,28,British Columbia,Free,0.0,2,2263.44,stable,11,2,0,0,1,App Store,0
+CUST00967,2023-08-06,10,31,Ontario,Free,0.0,1,310.28,growing,11,4,10,0,1,Social Media,0
+CUST00968,2022-05-13,25,27,Alberta,Standard,9.99,3,2129.42,growing,21,14,2,1,0,Organic,0
+CUST00969,2020-07-22,47,35,Ontario,Standard,9.99,3,1415.32,declining,23,17,60,1,1,App Store,0
+CUST00970,2023-03-09,15,30,Ontario,Premium,19.99,2,4317.4,declining,27,25,0,1,1,Organic,0
+CUST00971,2023-11-04,7,32,Ontario,Free,0.0,1,98.16,declining,10,4,0,1,0,Organic,0
+CUST00972,2023-09-05,9,28,British Columbia,Standard,9.99,1,225.1,stable,17,12,26,1,0,Social Media,1
+CUST00973,2023-06-07,12,18,Ontario,Standard,9.99,2,6963.12,declining,16,9,4,2,0,Social Media,0
+CUST00974,2020-11-19,43,18,British Columbia,Standard,9.99,3,445.41,declining,12,5,36,4,1,Social Media,1
+CUST00975,2020-06-22,48,35,Ontario,Premium,19.99,3,688.2,stable,23,22,5,0,0,Friend Referral,0
+CUST00976,2023-02-07,16,32,Ontario,Free,0.0,2,377.63,growing,6,8,1,1,1,Paid Ad,0
+CUST00977,2021-04-18,38,34,Ontario,Standard,9.99,1,1592.36,stable,22,11,0,2,0,Organic,0
+CUST00978,2023-06-07,12,31,Ontario,Premium,19.99,3,5831.58,growing,36,26,4,1,1,App Store,0
+CUST00979,2018-10-01,69,32,Quebec,Premium,19.99,2,8884.47,declining,27,29,9,0,1,Organic,0
+CUST00980,2023-07-07,11,37,British Columbia,Standard,9.99,3,1673.79,stable,17,14,0,1,1,Organic,0
+CUST00981,2021-04-18,38,34,Ontario,Standard,9.99,3,1015.69,stable,14,11,13,1,0,Friend Referral,0
+CUST00982,2020-11-19,43,38,Ontario,Free,0.0,1,594.17,stable,9,3,6,0,1,Paid Ad,0
+CUST00983,2023-08-06,10,32,Other,Standard,9.99,1,78.37,stable,22,14,7,0,1,Paid Ad,1
+CUST00984,2022-10-10,20,28,Quebec,Premium,19.99,3,2153.9,growing,40,19,4,1,1,Organic,0
+CUST00985,2023-07-07,11,32,Alberta,Standard,9.99,1,3209.63,declining,19,12,11,1,1,Social Media,1
+CUST00986,2018-10-01,69,25,Ontario,Free,0.0,1,319.44,growing,11,2,3,0,1,Paid Ad,0
+CUST00987,2023-12-04,6,28,Ontario,Free,0.0,1,241.37,declining,2,10,2,0,1,Organic,1
+CUST00988,2024-03-03,3,32,Quebec,Free,0.0,2,144.61,declining,12,6,33,2,1,Friend Referral,1
+CUST00989,2019-06-28,60,32,Ontario,Free,0.0,1,463.43,growing,8,4,7,4,1,Organic,1
+CUST00990,2019-02-28,64,30,British Columbia,Free,0.0,2,1059.52,declining,6,5,1,0,1,Friend Referral,1
+CUST00991,2023-02-07,16,21,Ontario,Standard,9.99,2,2248.15,stable,22,11,3,2,1,Social Media,0
+CUST00992,2020-03-24,51,35,Ontario,Free,0.0,1,252.29,stable,7,6,5,2,1,Social Media,1
+CUST00993,2022-12-09,18,36,Ontario,Free,0.0,1,260.96,stable,11,2,22,0,0,App Store,0
+CUST00994,2023-08-06,10,42,British Columbia,Standard,9.99,1,1359.45,stable,27,18,0,1,1,Organic,0
+CUST00995,2021-03-19,39,34,Quebec,Free,0.0,1,129.65,growing,11,4,9,0,0,Social Media,1
+CUST00996,2024-03-03,3,31,Ontario,Free,0.0,1,863.58,declining,12,5,7,0,0,Social Media,0
+CUST00997,2024-03-03,3,23,Ontario,Free,0.0,1,175.21,stable,11,6,51,3,0,Organic,1
+CUST00998,2023-12-04,6,41,Quebec,Free,0.0,1,611.01,growing,9,3,2,1,0,Organic,1
+CUST00999,2023-06-07,12,32,Ontario,Standard,9.99,3,221.05,stable,13,15,14,0,1,Organic,1
+CUST01000,2022-05-13,25,32,Quebec,Free,0.0,1,440.82,stable,8,10,3,1,0,Social Media,1
+CUST01001,2020-01-24,53,29,Quebec,Standard,9.99,2,1429.94,stable,19,12,11,2,1,Paid Ad,0
+CUST01002,2023-02-07,16,28,Ontario,Premium,19.99,2,3243.52,growing,25,15,12,1,0,Social Media,1
+CUST01003,2018-11-30,67,35,Ontario,Standard,9.99,2,1059.52,stable,17,10,1,3,1,Friend Referral,0
+CUST01004,2023-09-05,9,23,Quebec,Standard,9.99,3,1233.62,growing,20,9,9,2,1,Friend Referral,0
+CUST01005,2022-08-11,22,42,Ontario,Premium,19.99,4,1451.8,stable,28,28,9,1,0,Friend Referral,0
+CUST01006,2023-11-04,7,40,Ontario,Standard,9.99,3,2235.09,declining,20,10,5,2,0,Friend Referral,0
+CUST01007,2018-11-30,67,28,Ontario,Free,0.0,2,25.67,growing,9,2,4,0,1,Social Media,0
+CUST01008,2022-08-11,22,24,Alberta,Standard,9.99,2,3394.0,growing,25,12,3,2,1,Social Media,0
+CUST01009,2023-10-05,8,18,Other,Premium,19.99,4,801.49,declining,26,23,0,3,0,Organic,0
+CUST01010,2020-01-24,53,22,British Columbia,Free,0.0,2,827.83,growing,7,4,0,1,1,App Store,0
+CUST01011,2023-01-08,17,36,Ontario,Free,0.0,2,140.72,growing,9,4,13,0,1,App Store,0
+CUST01012,2021-08-16,34,33,British Columbia,Standard,9.99,3,3741.65,stable,18,8,5,3,0,Friend Referral,0
+CUST01013,2020-11-19,43,34,Ontario,Premium,19.99,2,15445.87,declining,32,23,2,0,1,Social Media,0
+CUST01014,2019-06-28,60,18,Ontario,Free,0.0,1,500.78,declining,13,6,17,1,0,Friend Referral,0
+CUST01015,2020-01-24,53,28,British Columbia,Standard,9.99,1,14616.23,declining,14,11,11,3,1,Social Media,0
+CUST01016,2020-04-23,50,40,Quebec,Free,0.0,2,41.61,stable,6,4,36,2,1,Social Media,0
+CUST01017,2024-04-02,2,30,Ontario,Standard,9.99,3,2727.79,declining,13,10,26,0,0,Social Media,0
+CUST01018,2023-07-07,11,22,Alberta,Free,0.0,1,339.65,growing,10,8,19,0,0,App Store,0
+CUST01019,2024-03-03,3,30,Ontario,Free,0.0,2,415.2,stable,11,5,2,3,0,Friend Referral,1
+CUST01020,2020-02-23,52,25,British Columbia,Premium,19.99,3,9990.71,stable,28,21,16,2,1,Organic,0
+CUST01021,2024-04-02,2,33,Quebec,Standard,9.99,2,1038.73,growing,20,15,17,4,1,Social Media,0
+CUST01022,2021-03-19,39,31,Ontario,Standard,9.99,2,6540.02,stable,18,11,21,1,1,Social Media,0
+CUST01023,2020-01-24,53,34,Ontario,Standard,9.99,1,169.87,stable,12,9,4,3,1,Friend Referral,1
+CUST01024,2022-06-12,24,22,Ontario,Free,0.0,1,98.17,stable,8,6,15,1,1,Friend Referral,0
+CUST01025,2020-04-23,50,27,Other,Standard,9.99,2,1623.14,stable,22,10,14,0,0,Social Media,0
+CUST01026,2018-10-01,69,38,British Columbia,Free,0.0,1,627.77,stable,5,8,7,1,1,Paid Ad,0
+CUST01027,2022-07-12,23,21,Ontario,Standard,9.99,1,472.91,stable,21,12,16,0,1,App Store,0
+CUST01028,2018-10-01,69,23,Alberta,Free,0.0,1,24.09,growing,11,6,1,0,0,App Store,1
+CUST01029,2022-04-13,26,32,British Columbia,Standard,9.99,2,2820.5,stable,20,10,15,1,0,Social Media,1
+CUST01030,2023-03-09,15,33,Ontario,Premium,19.99,4,8685.93,growing,35,33,13,2,1,Social Media,0
+CUST01031,2023-02-07,16,27,British Columbia,Premium,19.99,2,10551.61,growing,42,28,3,1,0,Social Media,0
+CUST01032,2024-02-02,4,29,British Columbia,Standard,9.99,2,2630.61,declining,16,16,25,1,1,Social Media,0
+CUST01033,2021-01-18,41,34,Ontario,Free,0.0,2,36.56,growing,5,6,31,0,0,App Store,1
+CUST01034,2022-11-09,19,36,British Columbia,Standard,9.99,2,385.23,growing,12,14,3,0,1,Social Media,0
+CUST01035,2021-12-14,30,23,Ontario,Premium,19.99,4,638.92,growing,17,20,1,1,0,App Store,0
+CUST01036,2023-06-07,12,33,Quebec,Free,0.0,1,49.49,declining,7,3,13,0,1,Friend Referral,0
+CUST01037,2024-02-02,4,41,Ontario,Premium,19.99,2,686.9,growing,22,27,9,0,1,Social Media,0
+CUST01038,2021-11-14,31,30,Ontario,Free,0.0,1,168.69,stable,4,6,8,0,0,Friend Referral,0
+CUST01039,2024-01-03,5,23,Alberta,Premium,19.99,3,4403.22,growing,29,26,21,2,0,Organic,0
+CUST01040,2024-01-03,5,23,British Columbia,Premium,19.99,2,6679.67,declining,30,19,52,0,0,Organic,1
+CUST01041,2022-08-11,22,29,Ontario,Premium,19.99,4,18.62,declining,30,14,9,1,1,App Store,0
+CUST01042,2019-06-28,60,38,Alberta,Free,0.0,1,373.82,stable,8,5,0,1,1,Friend Referral,0
+CUST01043,2024-01-03,5,30,Alberta,Free,0.0,1,251.87,declining,10,5,13,0,1,Social Media,0
+CUST01044,2020-10-20,44,32,Ontario,Standard,9.99,3,2205.08,stable,15,10,15,4,0,Paid Ad,0
+CUST01045,2020-08-21,46,24,Quebec,Free,0.0,2,921.05,declining,13,6,26,2,1,Organic,1
+CUST01046,2022-07-12,23,37,Quebec,Free,0.0,2,5.54,declining,11,4,3,0,1,Social Media,0
+CUST01047,2021-08-16,34,22,Quebec,Standard,9.99,3,1365.43,growing,25,10,11,0,1,Organic,0
+CUST01048,2020-11-19,43,27,Alberta,Standard,9.99,2,713.28,stable,18,11,8,0,0,Organic,0
+CUST01049,2018-08-02,71,35,Quebec,Standard,9.99,3,349.6,declining,9,16,16,2,1,Organic,0
+CUST01050,2021-05-18,37,18,Other,Standard,9.99,1,2085.89,stable,19,8,0,1,1,App Store,0
+CUST01051,2019-11-25,55,32,Alberta,Free,0.0,2,27.9,declining,8,7,32,2,1,Paid Ad,0
+CUST01052,2023-08-06,10,23,Ontario,Premium,19.99,3,641.44,stable,35,21,10,0,0,App Store,0
+CUST01053,2022-07-12,23,31,Alberta,Free,0.0,1,45.43,stable,11,2,31,2,0,Friend Referral,1
+CUST01054,2023-08-06,10,28,Ontario,Standard,9.99,3,1136.93,stable,17,9,6,0,1,Friend Referral,0
+CUST01055,2021-12-14,30,45,Quebec,Standard,9.99,1,3289.09,declining,16,16,15,0,0,Friend Referral,0
+CUST01056,2023-11-04,7,28,Alberta,Premium,19.99,4,2491.19,stable,30,21,47,1,0,Social Media,0
+CUST01057,2022-01-13,29,43,British Columbia,Free,0.0,1,182.16,growing,12,4,43,2,1,Friend Referral,1
+CUST01058,2021-11-14,31,35,Ontario,Standard,9.99,1,1934.99,stable,24,12,43,1,1,Paid Ad,1
+CUST01059,2023-12-04,6,25,Other,Standard,9.99,3,1534.08,declining,16,9,0,0,1,Organic,1
+CUST01060,2023-10-05,8,33,Ontario,Free,0.0,2,735.12,stable,7,3,7,1,0,Social Media,0
+CUST01061,2021-09-15,33,28,Ontario,Standard,9.99,3,170.0,growing,22,18,0,4,1,Social Media,0
+CUST01062,2021-11-14,31,32,British Columbia,Premium,19.99,4,5864.61,growing,22,20,5,0,0,Social Media,0
+CUST01063,2022-03-14,27,26,Ontario,Premium,19.99,4,3953.86,declining,34,20,2,1,0,Friend Referral,0
+CUST01064,2020-10-20,44,42,Alberta,Free,0.0,1,119.8,growing,11,3,14,1,0,Friend Referral,0
+CUST01065,2024-01-03,5,37,Ontario,Free,0.0,1,478.68,stable,4,5,22,3,1,Organic,1
+CUST01066,2023-09-05,9,31,Other,Free,0.0,2,235.2,growing,8,5,10,2,1,Social Media,0
+CUST01067,2022-11-09,19,43,Alberta,Standard,9.99,3,1311.78,growing,25,15,23,3,1,Friend Referral,0
+CUST01068,2021-08-16,34,31,Quebec,Free,0.0,2,15.4,stable,6,5,0,1,0,Friend Referral,1
+CUST01069,2022-04-13,26,38,Quebec,Free,0.0,2,3284.99,growing,9,6,25,1,1,App Store,1
+CUST01070,2023-06-07,12,31,British Columbia,Premium,19.99,3,4064.38,declining,21,18,2,1,0,Social Media,0
+CUST01071,2020-12-19,42,33,Ontario,Premium,19.99,2,3645.02,stable,35,17,9,0,0,Organic,1
+CUST01072,2023-02-07,16,30,Ontario,Free,0.0,1,30.68,stable,8,6,8,1,1,Social Media,1
+CUST01073,2021-03-19,39,31,Alberta,Free,0.0,1,159.64,stable,8,6,30,1,0,Organic,1
+CUST01074,2020-08-21,46,32,British Columbia,Standard,9.99,1,65.08,declining,18,12,50,1,1,Social Media,0
+CUST01075,2024-05-02,1,26,Alberta,Free,0.0,1,218.67,stable,6,5,4,0,1,Social Media,0
+CUST01076,2023-02-07,16,28,British Columbia,Standard,9.99,3,1757.13,growing,16,9,1,2,0,Friend Referral,0
+CUST01077,2019-06-28,60,29,Ontario,Standard,9.99,2,1092.36,growing,22,14,15,1,1,Social Media,0
+CUST01078,2021-12-14,30,32,Ontario,Premium,19.99,3,1915.81,stable,26,27,10,0,1,App Store,0
+CUST01079,2023-03-09,15,30,Ontario,Standard,9.99,1,115.43,declining,14,17,12,2,0,Social Media,0
+CUST01080,2022-07-12,23,39,Alberta,Standard,9.99,2,1790.18,stable,20,12,0,0,1,Organic,0
+CUST01081,2021-02-17,40,36,Quebec,Standard,9.99,1,3908.22,growing,14,12,22,0,1,Organic,0
+CUST01082,2023-06-07,12,29,Alberta,Free,0.0,2,80.48,stable,2,5,3,2,1,Paid Ad,0
+CUST01083,2021-10-15,32,40,Quebec,Standard,9.99,3,5.93,stable,16,12,6,1,1,Social Media,1
+CUST01084,2020-02-23,52,44,Ontario,Standard,9.99,2,556.26,stable,19,11,3,1,1,Social Media,1
+CUST01085,2022-08-11,22,18,Ontario,Free,0.0,1,626.26,growing,5,2,43,1,1,Organic,0
+CUST01086,2022-10-10,20,37,Ontario,Free,0.0,2,36.02,growing,6,6,2,0,1,Friend Referral,0
+CUST01087,2021-11-14,31,26,Ontario,Free,0.0,2,1790.76,growing,3,2,19,3,1,Friend Referral,0
+CUST01088,2018-12-30,66,36,Ontario,Premium,19.99,4,843.04,growing,26,28,4,3,0,Social Media,0
+CUST01089,2024-01-03,5,39,Ontario,Free,0.0,2,459.79,declining,10,5,8,0,1,Friend Referral,1
+CUST01090,2023-06-07,12,24,Alberta,Free,0.0,1,413.49,growing,11,4,83,3,0,Social Media,1
+CUST01091,2021-05-18,37,18,British Columbia,Standard,9.99,2,4726.29,stable,23,12,1,2,1,Organic,0
+CUST01092,2022-08-11,22,36,Ontario,Standard,9.99,2,8000.02,stable,13,14,31,1,0,Friend Referral,0
+CUST01093,2021-01-18,41,31,British Columbia,Free,0.0,2,786.74,stable,8,2,43,0,0,Paid Ad,0
+CUST01094,2022-08-11,22,19,Ontario,Premium,19.99,2,7828.83,declining,32,23,17,0,0,Friend Referral,0
+CUST01095,2019-02-28,64,48,British Columbia,Premium,19.99,4,3154.77,stable,27,18,0,2,0,Social Media,0
+CUST01096,2023-06-07,12,35,Ontario,Standard,9.99,2,414.42,declining,17,19,25,2,0,Social Media,1
+CUST01097,2022-12-09,18,35,Alberta,Standard,9.99,1,66.34,growing,19,8,32,2,0,Paid Ad,0
+CUST01098,2021-05-18,37,40,Ontario,Free,0.0,1,37.66,growing,6,6,59,0,1,Social Media,0
+CUST01099,2023-01-08,17,26,Alberta,Free,0.0,1,559.21,growing,7,10,27,0,1,App Store,0
+CUST01100,2023-11-04,7,31,Quebec,Standard,9.99,1,355.04,growing,11,16,8,1,1,Friend Referral,0
+CUST01101,2021-09-15,33,21,British Columbia,Free,0.0,2,181.83,stable,9,7,17,2,1,Friend Referral,0
+CUST01102,2023-06-07,12,26,Alberta,Free,0.0,1,2311.45,declining,9,7,9,2,1,Organic,0
+CUST01103,2020-12-19,42,33,Ontario,Standard,9.99,1,2163.51,growing,14,16,6,0,1,Organic,0
+CUST01104,2019-09-26,57,19,Ontario,Free,0.0,2,542.05,declining,10,2,14,0,0,Social Media,1
+CUST01105,2022-08-11,22,26,Ontario,Premium,19.99,3,7983.05,stable,36,23,22,1,0,Paid Ad,0
+CUST01106,2023-10-05,8,24,Alberta,Free,0.0,2,295.84,stable,5,4,15,2,0,Organic,0
+CUST01107,2023-04-08,14,31,Ontario,Standard,9.99,3,5211.66,growing,22,21,26,1,1,Friend Referral,0
+CUST01108,2019-10-26,56,35,Ontario,Standard,9.99,3,952.36,growing,17,17,2,0,0,Friend Referral,0
+CUST01109,2022-05-13,25,36,British Columbia,Standard,9.99,1,381.26,declining,9,17,7,2,1,Social Media,1
+CUST01110,2020-08-21,46,37,Quebec,Free,0.0,2,639.31,growing,11,10,5,2,0,Friend Referral,0
+CUST01111,2024-03-03,3,40,Ontario,Standard,9.99,3,194.25,declining,12,10,3,0,0,Friend Referral,0
+CUST01112,2020-02-23,52,35,British Columbia,Premium,19.99,4,7067.13,stable,36,27,8,2,1,App Store,0
+CUST01113,2023-10-05,8,44,Ontario,Standard,9.99,3,302.8,declining,20,18,44,0,0,Social Media,0
+CUST01114,2023-11-04,7,31,Ontario,Standard,9.99,2,986.58,stable,18,8,11,2,1,App Store,0
+CUST01115,2022-06-12,24,29,Quebec,Standard,9.99,1,1060.55,growing,26,11,5,0,1,Social Media,0
+CUST01116,2022-08-11,22,35,British Columbia,Standard,9.99,3,345.75,stable,21,10,6,7,0,Friend Referral,0
+CUST01117,2022-07-12,23,29,Alberta,Standard,9.99,3,5119.64,growing,11,13,14,3,1,Organic,0
+CUST01118,2023-09-05,9,43,Quebec,Premium,19.99,2,3948.8,stable,33,27,6,1,0,Social Media,0
+CUST01119,2023-02-07,16,38,Ontario,Free,0.0,2,518.54,growing,8,5,11,0,1,Organic,1
+CUST01120,2019-01-29,65,36,British Columbia,Standard,9.99,2,4305.39,stable,15,15,4,0,1,Social Media,0
+CUST01121,2023-02-07,16,31,Other,Standard,9.99,3,762.41,growing,19,14,6,2,0,Organic,0
+CUST01122,2022-05-13,25,28,Ontario,Standard,9.99,2,2436.71,declining,20,8,18,1,1,App Store,1
+CUST01123,2023-12-04,6,35,British Columbia,Premium,19.99,2,7934.83,stable,33,16,13,1,0,Friend Referral,0
+CUST01124,2023-08-06,10,23,Quebec,Premium,19.99,3,2455.0,declining,29,19,1,1,0,App Store,0
+CUST01125,2024-02-02,4,41,Ontario,Standard,9.99,1,1647.06,growing,11,15,54,2,1,Social Media,1
+CUST01126,2019-05-29,61,29,Quebec,Free,0.0,1,3.91,stable,5,1,0,1,1,App Store,0
+CUST01127,2022-04-13,26,33,Quebec,Free,0.0,2,699.15,stable,6,4,1,0,1,App Store,1
+CUST01128,2022-11-09,19,24,Ontario,Standard,9.99,1,2341.65,stable,15,11,18,0,1,Social Media,0
+CUST01129,2022-11-09,19,36,Ontario,Premium,19.99,3,4223.92,declining,41,29,18,0,1,Social Media,0
+CUST01130,2024-04-02,2,27,Alberta,Free,0.0,1,1.35,declining,7,5,0,2,1,Friend Referral,1
+CUST01131,2023-11-04,7,35,Ontario,Free,0.0,2,283.35,growing,7,5,15,0,1,Organic,0
+CUST01132,2018-12-30,66,36,British Columbia,Free,0.0,2,349.85,declining,7,3,0,1,1,Paid Ad,0
+CUST01133,2020-07-22,47,26,Quebec,Premium,19.99,3,1953.58,stable,34,20,48,1,0,Social Media,0
+CUST01134,2024-02-02,4,23,Ontario,Free,0.0,1,175.53,declining,11,5,17,1,1,Social Media,0
+CUST01135,2023-02-07,16,41,Other,Standard,9.99,2,2335.64,stable,15,16,3,2,1,App Store,1
+CUST01136,2021-02-17,40,29,British Columbia,Standard,9.99,2,384.61,declining,19,12,2,1,1,Social Media,0
+CUST01137,2022-06-12,24,32,British Columbia,Premium,19.99,4,4852.07,declining,37,19,12,0,0,Social Media,0
+CUST01138,2020-01-24,53,34,British Columbia,Standard,9.99,3,3612.03,growing,20,12,15,1,1,Organic,0
+CUST01139,2019-02-28,64,22,Alberta,Standard,9.99,3,2813.65,stable,18,13,26,2,1,Friend Referral,0
+CUST01140,2020-05-23,49,34,Other,Free,0.0,1,117.72,growing,7,3,35,0,1,Organic,0
+CUST01141,2023-04-08,14,31,Ontario,Standard,9.99,2,1458.98,stable,20,6,7,3,1,Friend Referral,0
+CUST01142,2024-01-03,5,26,British Columbia,Standard,9.99,3,4428.15,declining,14,9,27,1,1,Social Media,1
+CUST01143,2023-05-08,13,22,Ontario,Premium,19.99,2,6328.88,declining,21,17,11,3,1,Friend Referral,0
+CUST01144,2024-05-02,1,35,Ontario,Free,0.0,2,49.94,stable,11,4,9,3,1,Social Media,0
+CUST01145,2023-04-08,14,38,Ontario,Free,0.0,2,1503.24,stable,10,7,18,1,0,Organic,0
+CUST01146,2020-11-19,43,32,Alberta,Free,0.0,1,1966.48,growing,8,2,1,1,1,Friend Referral,0
+CUST01147,2024-03-03,3,20,Other,Standard,9.99,3,502.97,growing,13,10,4,0,0,Social Media,0
+CUST01148,2022-11-09,19,23,Quebec,Premium,19.99,4,13823.87,stable,43,22,25,3,0,App Store,0
+CUST01149,2021-12-14,30,27,British Columbia,Free,0.0,2,98.89,growing,12,6,10,2,1,Social Media,0
+CUST01150,2023-01-08,17,41,Alberta,Standard,9.99,2,4075.68,growing,12,8,35,1,0,Friend Referral,0
+CUST01151,2019-12-25,54,29,Alberta,Free,0.0,1,20.1,stable,8,5,1,1,1,Friend Referral,0
+CUST01152,2019-03-30,63,27,British Columbia,Free,0.0,2,442.77,growing,14,7,5,0,1,Friend Referral,0
+CUST01153,2021-09-15,33,19,Other,Standard,9.99,1,193.24,growing,15,9,6,0,1,Paid Ad,0
+CUST01154,2023-11-04,7,26,Ontario,Free,0.0,2,1591.58,growing,9,9,8,1,0,Social Media,0
+CUST01155,2023-11-04,7,22,Ontario,Standard,9.99,3,4193.72,declining,16,11,64,1,0,App Store,1
+CUST01156,2023-11-04,7,23,Ontario,Standard,9.99,2,1005.89,growing,9,10,5,1,0,Organic,0
+CUST01157,2020-03-24,51,31,Ontario,Standard,9.99,1,1255.85,declining,21,7,10,1,0,Social Media,1
+CUST01158,2021-03-19,39,28,British Columbia,Free,0.0,2,123.42,growing,5,4,11,1,1,Organic,0
+CUST01159,2018-08-02,71,42,Other,Premium,19.99,4,7638.32,declining,29,31,22,1,1,Friend Referral,1
+CUST01160,2018-11-30,67,38,Quebec,Standard,9.99,2,430.04,stable,21,7,10,1,1,Friend Referral,1
+CUST01161,2022-06-12,24,26,Quebec,Standard,9.99,2,4451.81,declining,18,14,13,1,1,Social Media,0
+CUST01162,2023-07-07,11,24,Ontario,Free,0.0,2,122.6,declining,6,11,20,0,1,Friend Referral,0
+CUST01163,2022-12-09,18,40,British Columbia,Free,0.0,2,146.63,stable,8,6,1,2,1,App Store,0
+CUST01164,2021-12-14,30,42,Ontario,Free,0.0,1,337.31,declining,7,6,49,0,0,App Store,1
+CUST01165,2018-09-01,70,18,British Columbia,Free,0.0,2,1692.17,stable,10,6,28,1,1,Social Media,0
+CUST01166,2018-10-01,69,31,Quebec,Standard,9.99,1,148.76,stable,10,12,7,1,0,Social Media,0
+CUST01167,2022-10-10,20,29,British Columbia,Premium,19.99,3,1591.21,stable,27,21,19,2,1,Social Media,0
+CUST01168,2020-09-20,45,35,British Columbia,Standard,9.99,1,69.12,declining,23,12,21,4,0,Social Media,0
+CUST01169,2024-05-02,1,44,Alberta,Free,0.0,2,312.29,declining,6,6,28,2,1,Social Media,1
+CUST01170,2022-11-09,19,27,Ontario,Standard,9.99,2,1254.51,growing,13,18,3,0,0,Social Media,0
+CUST01171,2023-04-08,14,18,British Columbia,Free,0.0,2,94.61,stable,4,6,18,0,0,Paid Ad,1
+CUST01172,2023-12-04,6,35,Other,Standard,9.99,2,2453.93,declining,16,11,0,0,1,App Store,0
+CUST01173,2022-09-10,21,40,Other,Standard,9.99,3,1343.91,declining,13,7,1,1,0,App Store,0
+CUST01174,2024-05-02,1,28,Ontario,Standard,9.99,3,423.79,declining,15,9,22,0,0,Paid Ad,0
+CUST01175,2021-03-19,39,26,British Columbia,Premium,19.99,3,2025.38,growing,28,19,25,1,0,Friend Referral,0
+CUST01176,2023-09-05,9,27,Ontario,Free,0.0,1,128.98,stable,11,3,13,2,0,Organic,1
+CUST01177,2024-02-02,4,36,Ontario,Standard,9.99,2,179.04,stable,15,15,13,1,1,App Store,1
+CUST01178,2023-09-05,9,27,British Columbia,Premium,19.99,3,2522.73,growing,42,23,20,1,1,Organic,0
+CUST01179,2021-08-16,34,33,British Columbia,Standard,9.99,1,622.12,stable,23,9,35,1,1,Organic,1
+CUST01180,2019-07-28,59,31,Quebec,Standard,9.99,2,1990.98,stable,16,7,8,1,0,Organic,0
+CUST01181,2022-09-10,21,30,Ontario,Premium,19.99,3,9465.78,growing,33,17,1,0,0,Organic,0
+CUST01182,2023-08-06,10,35,Alberta,Free,0.0,2,37.0,growing,11,5,27,1,1,App Store,0
+CUST01183,2019-07-28,59,27,British Columbia,Premium,19.99,3,11001.34,growing,20,23,6,3,0,App Store,0
+CUST01184,2024-03-03,3,27,Quebec,Free,0.0,2,118.11,stable,11,6,2,3,0,Social Media,1
+CUST01185,2022-01-13,29,36,Quebec,Standard,9.99,3,600.12,stable,14,8,14,0,1,Organic,0
+CUST01186,2020-10-20,44,24,Other,Premium,19.99,3,4916.16,growing,36,23,12,0,1,Social Media,0
+CUST01187,2019-02-28,64,24,Other,Free,0.0,1,86.81,stable,5,6,9,3,0,Friend Referral,1
+CUST01188,2020-01-24,53,22,Quebec,Standard,9.99,3,1236.61,growing,28,14,29,1,0,Social Media,0
+CUST01189,2020-05-23,49,36,Quebec,Free,0.0,1,250.43,declining,12,5,4,3,1,Paid Ad,1
+CUST01190,2022-02-12,28,30,Quebec,Premium,19.99,4,1829.16,growing,34,15,0,1,0,Organic,1
+CUST01191,2022-01-13,29,21,Ontario,Premium,19.99,4,3174.58,declining,39,22,5,0,1,Paid Ad,0
+CUST01192,2024-05-02,1,36,Ontario,Standard,9.99,2,368.77,stable,22,10,0,1,1,Organic,0
+CUST01193,2023-10-05,8,27,British Columbia,Standard,9.99,2,2917.69,declining,25,10,11,1,1,Social Media,0
+CUST01194,2019-04-29,62,24,Quebec,Premium,19.99,4,2703.87,growing,36,22,7,2,0,Social Media,0
+CUST01195,2024-02-02,4,29,Ontario,Standard,9.99,1,1550.23,growing,16,14,25,3,0,Friend Referral,1
+CUST01196,2021-07-17,35,41,British Columbia,Standard,9.99,3,4017.48,declining,27,14,23,0,1,Organic,1
+CUST01197,2021-08-16,34,28,British Columbia,Standard,9.99,3,283.46,growing,21,15,8,2,0,App Store,0
+CUST01198,2021-08-16,34,35,British Columbia,Standard,9.99,3,1810.1,stable,14,8,3,0,0,Organic,0
+CUST01199,2023-06-07,12,36,Alberta,Free,0.0,2,514.35,stable,10,3,8,0,0,Friend Referral,1
+CUST01200,2024-01-03,5,34,Ontario,Free,0.0,2,160.88,stable,6,4,15,1,0,Organic,1
+CUST01201,2021-08-16,34,39,Quebec,Free,0.0,1,353.77,declining,5,8,3,0,1,Social Media,1
+CUST01202,2021-07-17,35,26,Quebec,Premium,19.99,3,1739.55,declining,31,24,22,1,1,Organic,0
+CUST01203,2021-09-15,33,23,Ontario,Standard,9.99,2,228.92,stable,11,15,6,3,1,Paid Ad,0
+CUST01204,2020-12-19,42,23,Quebec,Standard,9.99,1,579.63,stable,15,18,40,0,1,Organic,0
+CUST01205,2022-03-14,27,29,British Columbia,Standard,9.99,2,634.81,declining,20,4,10,1,0,Social Media,1
+CUST01206,2021-07-17,35,24,British Columbia,Free,0.0,2,143.05,declining,7,4,28,3,1,Social Media,1
+CUST01207,2024-03-03,3,32,British Columbia,Free,0.0,2,541.22,growing,9,7,14,0,0,Friend Referral,1
+CUST01208,2021-03-19,39,31,Other,Standard,9.99,1,2106.47,stable,30,11,12,1,0,Organic,0
+CUST01209,2021-04-18,38,38,Other,Standard,9.99,1,500.54,growing,17,12,17,2,0,App Store,0
+CUST01210,2021-10-15,32,33,Alberta,Premium,19.99,2,1678.48,declining,35,22,25,4,1,Social Media,1
+CUST01211,2020-01-24,53,28,Alberta,Standard,9.99,1,715.65,growing,16,14,15,0,0,Social Media,1
+CUST01212,2022-09-10,21,33,Ontario,Standard,9.99,3,508.42,stable,10,15,23,1,1,Social Media,0
+CUST01213,2020-12-19,42,23,British Columbia,Standard,9.99,1,1606.07,stable,15,13,3,1,1,Social Media,0
+CUST01214,2019-08-27,58,30,Alberta,Premium,19.99,2,3966.28,declining,36,23,4,0,0,Social Media,1
+CUST01215,2021-10-15,32,33,Quebec,Standard,9.99,1,6762.42,declining,20,13,3,0,1,Social Media,0
+CUST01216,2022-06-12,24,31,British Columbia,Free,0.0,1,115.62,growing,5,3,24,0,1,Organic,0
+CUST01217,2019-07-28,59,33,Quebec,Standard,9.99,3,1172.95,stable,14,16,1,2,1,Friend Referral,0
+CUST01218,2023-07-07,11,26,Ontario,Standard,9.99,3,3170.34,declining,19,6,23,1,1,Organic,0
+CUST01219,2020-10-20,44,39,British Columbia,Standard,9.99,2,26.71,stable,21,8,7,1,0,Organic,0
+CUST01220,2022-01-13,29,43,British Columbia,Free,0.0,2,85.81,stable,8,10,1,0,0,Friend Referral,0
+CUST01221,2023-01-08,17,19,British Columbia,Premium,19.99,4,4241.37,declining,36,23,8,0,0,Social Media,0
+CUST01222,2018-09-01,70,22,Quebec,Premium,19.99,3,503.35,stable,33,28,5,1,1,Social Media,1
+CUST01223,2021-11-14,31,31,Other,Free,0.0,1,1527.85,stable,4,2,13,4,0,Friend Referral,0
+CUST01224,2021-11-14,31,29,Ontario,Premium,19.99,2,446.71,growing,37,16,9,1,1,Social Media,0
+CUST01225,2024-01-03,5,44,Quebec,Free,0.0,1,205.66,stable,9,3,5,1,0,Social Media,0
+CUST01226,2022-02-12,28,32,Quebec,Free,0.0,2,7.15,declining,6,5,29,2,1,Social Media,1
+CUST01227,2023-09-05,9,40,Quebec,Free,0.0,1,83.27,growing,12,5,7,1,0,Social Media,0
+CUST01228,2022-02-12,28,18,British Columbia,Free,0.0,2,273.34,stable,7,5,9,1,0,Paid Ad,0
+CUST01229,2022-09-10,21,36,Other,Premium,19.99,4,5033.13,growing,36,15,28,1,1,Social Media,0
+CUST01230,2019-06-28,60,25,British Columbia,Free,0.0,2,357.43,growing,7,3,1,2,0,Friend Referral,0
+CUST01231,2019-07-28,59,25,Ontario,Free,0.0,1,303.5,declining,8,6,7,2,1,Friend Referral,0
+CUST01232,2024-03-03,3,29,Quebec,Free,0.0,2,728.72,stable,11,8,7,2,1,App Store,0
+CUST01233,2021-09-15,33,21,Ontario,Free,0.0,1,539.11,growing,8,3,10,1,1,Friend Referral,0
+CUST01234,2024-02-02,4,34,Ontario,Free,0.0,2,295.25,stable,7,6,1,3,1,Organic,0
+CUST01235,2023-05-08,13,32,Ontario,Standard,9.99,1,2652.04,stable,23,9,1,3,1,Social Media,1
+CUST01236,2023-05-08,13,32,British Columbia,Free,0.0,2,648.89,growing,6,10,8,0,1,App Store,0
+CUST01237,2023-02-07,16,37,Ontario,Premium,19.99,4,4911.57,declining,22,18,0,1,1,Friend Referral,0
+CUST01238,2023-05-08,13,41,Ontario,Premium,19.99,2,3418.12,stable,28,23,4,1,0,Organic,1
+CUST01239,2023-07-07,11,28,Alberta,Free,0.0,1,1231.09,declining,8,4,3,2,1,Social Media,1
+CUST01240,2021-09-15,33,34,British Columbia,Premium,19.99,4,3209.28,growing,30,24,10,0,1,Social Media,1
+CUST01241,2023-06-07,12,33,British Columbia,Free,0.0,1,28.31,stable,5,4,0,2,0,App Store,1
+CUST01242,2022-11-09,19,33,Alberta,Free,0.0,2,103.73,growing,13,8,16,1,1,Friend Referral,1
+CUST01243,2023-12-04,6,33,British Columbia,Free,0.0,1,1200.99,growing,7,4,29,2,1,Friend Referral,0
+CUST01244,2024-03-03,3,42,Quebec,Free,0.0,2,366.98,declining,8,2,18,3,1,Social Media,1
+CUST01245,2023-04-08,14,27,Ontario,Standard,9.99,2,94.28,growing,18,14,25,3,0,Organic,0
+CUST01246,2024-03-03,3,20,British Columbia,Standard,9.99,2,870.89,growing,17,13,15,1,0,Organic,0
+CUST01247,2021-09-15,33,26,Quebec,Free,0.0,2,336.89,declining,9,2,10,2,0,Social Media,1
+CUST01248,2022-06-12,24,36,Ontario,Standard,9.99,1,767.43,stable,23,12,3,0,1,Organic,0
+CUST01249,2020-04-23,50,31,Quebec,Free,0.0,1,879.63,growing,9,4,4,1,0,Organic,1
+CUST01250,2021-01-18,41,27,British Columbia,Standard,9.99,3,2010.67,declining,19,15,5,0,0,Social Media,0
+CUST01251,2023-03-09,15,23,British Columbia,Free,0.0,2,139.75,growing,3,2,0,3,0,Friend Referral,1
+CUST01252,2023-09-05,9,32,Quebec,Free,0.0,1,82.78,declining,8,2,36,1,0,Organic,1
+CUST01253,2023-02-07,16,35,Ontario,Free,0.0,1,980.17,growing,10,7,34,4,1,Social Media,1
+CUST01254,2020-02-23,52,33,Quebec,Free,0.0,1,315.13,stable,9,5,1,3,1,App Store,1
+CUST01255,2022-04-13,26,29,British Columbia,Standard,9.99,3,3942.63,stable,24,12,12,1,1,Social Media,1
+CUST01256,2023-03-09,15,32,Ontario,Premium,19.99,3,6700.52,growing,29,30,9,1,0,Social Media,0
+CUST01257,2024-02-02,4,31,Quebec,Free,0.0,2,1786.43,stable,12,7,17,2,1,App Store,0
+CUST01258,2022-06-12,24,32,Alberta,Standard,9.99,2,378.55,stable,21,6,13,1,1,Friend Referral,0
+CUST01259,2023-01-08,17,22,Ontario,Standard,9.99,3,3382.48,declining,23,11,1,2,0,App Store,1
+CUST01260,2020-10-20,44,32,Alberta,Premium,19.99,3,8755.44,declining,29,19,16,2,1,Social Media,0
+CUST01261,2021-10-15,32,27,Ontario,Free,0.0,2,90.27,stable,9,9,14,2,0,Paid Ad,1
+CUST01262,2022-02-12,28,38,Alberta,Standard,9.99,3,5987.43,stable,13,13,11,2,1,Organic,0
+CUST01263,2022-03-14,27,31,Ontario,Premium,19.99,2,6383.09,stable,31,21,7,0,1,Paid Ad,0
+CUST01264,2020-01-24,53,36,Ontario,Standard,9.99,2,6272.47,stable,17,12,46,2,1,Paid Ad,1
+CUST01265,2022-06-12,24,28,Ontario,Standard,9.99,2,918.59,stable,18,6,28,2,0,Friend Referral,0
+CUST01266,2019-08-27,58,29,Alberta,Free,0.0,1,1249.59,stable,7,7,13,3,1,Friend Referral,1
+CUST01267,2020-02-23,52,41,British Columbia,Free,0.0,2,244.75,stable,13,3,0,1,1,App Store,0
+CUST01268,2018-12-30,66,34,British Columbia,Standard,9.99,3,4394.37,declining,10,15,8,0,1,Social Media,0
+CUST01269,2020-06-22,48,25,Alberta,Standard,9.99,1,2052.2,stable,14,14,18,2,1,Friend Referral,0
+CUST01270,2023-09-05,9,37,Ontario,Free,0.0,2,278.55,growing,8,2,1,4,1,Paid Ad,0
+CUST01271,2023-08-06,10,27,Ontario,Standard,9.99,1,4649.17,stable,21,11,7,0,0,Organic,0
+CUST01272,2023-11-04,7,32,Quebec,Standard,9.99,3,1419.96,declining,17,14,3,4,0,Paid Ad,0
+CUST01273,2019-09-26,57,43,British Columbia,Standard,9.99,3,1057.02,declining,17,13,6,1,1,Friend Referral,0
+CUST01274,2020-01-24,53,20,Ontario,Standard,9.99,3,4021.75,declining,18,9,0,1,1,App Store,1
+CUST01275,2023-03-09,15,29,Quebec,Premium,19.99,3,4136.77,declining,30,20,2,1,0,Organic,0
+CUST01276,2023-07-07,11,33,Ontario,Free,0.0,1,174.68,stable,10,3,9,3,0,Organic,0
+CUST01277,2023-03-09,15,36,Ontario,Premium,19.99,3,502.69,stable,33,24,34,1,0,Paid Ad,0
+CUST01278,2021-10-15,32,22,Ontario,Free,0.0,2,161.18,declining,9,2,10,2,1,Organic,0
+CUST01279,2023-11-04,7,20,Ontario,Free,0.0,2,806.75,growing,8,7,9,0,1,Friend Referral,0
+CUST01280,2022-06-12,24,38,British Columbia,Free,0.0,1,1252.09,stable,6,10,23,1,1,App Store,0
+CUST01281,2024-05-02,1,25,Ontario,Free,0.0,1,461.91,declining,11,5,4,1,0,Social Media,0
+CUST01282,2023-05-08,13,25,Ontario,Free,0.0,2,812.42,declining,11,2,1,2,1,Friend Referral,0
+CUST01283,2019-08-27,58,41,Quebec,Free,0.0,1,784.38,declining,9,5,3,3,1,Organic,1
+CUST01284,2023-09-05,9,31,Alberta,Premium,19.99,4,18869.74,declining,29,23,23,1,0,Social Media,0
+CUST01285,2021-06-17,36,31,Alberta,Free,0.0,2,551.2,growing,8,5,16,2,0,Social Media,0
+CUST01286,2023-07-07,11,29,Quebec,Standard,9.99,1,457.46,declining,11,10,1,1,1,Friend Referral,0
+CUST01287,2024-03-03,3,22,British Columbia,Free,0.0,2,354.49,growing,9,5,16,0,1,App Store,1
+CUST01288,2023-10-05,8,35,British Columbia,Premium,19.99,2,1378.5,stable,28,24,40,1,0,Organic,0
+CUST01289,2022-05-13,25,33,Other,Standard,9.99,3,318.82,growing,13,12,0,1,1,Social Media,0
+CUST01290,2019-01-29,65,32,Alberta,Free,0.0,1,894.83,stable,11,6,14,0,0,Social Media,0
+CUST01291,2024-04-02,2,30,Quebec,Standard,9.99,1,28.66,declining,11,7,7,0,0,Social Media,0
+CUST01292,2019-06-28,60,28,British Columbia,Standard,9.99,3,3047.35,growing,23,12,10,0,1,Social Media,0
+CUST01293,2019-02-28,64,37,Quebec,Standard,9.99,2,3345.78,stable,20,10,11,1,1,App Store,0
+CUST01294,2023-12-04,6,30,Ontario,Standard,9.99,1,353.53,growing,17,7,22,0,0,Paid Ad,0
+CUST01295,2021-01-18,41,30,Other,Standard,9.99,3,2690.49,growing,20,14,12,1,1,Organic,0
+CUST01296,2019-02-28,64,34,British Columbia,Standard,9.99,3,1136.72,stable,26,12,13,0,0,Friend Referral,0
+CUST01297,2024-03-03,3,32,British Columbia,Standard,9.99,1,547.81,stable,22,11,6,3,1,Friend Referral,0
+CUST01298,2024-02-02,4,42,Ontario,Free,0.0,2,1274.17,growing,3,6,2,1,0,Paid Ad,0
+CUST01299,2024-05-02,1,18,Ontario,Premium,19.99,3,9319.72,stable,39,26,17,2,1,Organic,0
+CUST01300,2022-03-14,27,33,Ontario,Standard,9.99,3,2828.43,stable,12,12,0,2,1,App Store,0
+CUST01301,2022-02-12,28,26,Ontario,Standard,9.99,2,97.57,growing,11,6,5,4,1,Paid Ad,0
+CUST01302,2022-11-09,19,24,British Columbia,Free,0.0,1,1334.38,stable,8,3,3,0,1,Paid Ad,0
+CUST01303,2018-10-01,69,27,Ontario,Standard,9.99,1,149.18,declining,18,11,7,1,1,Friend Referral,0
+CUST01304,2018-12-30,66,31,Other,Premium,19.99,4,6344.59,stable,30,23,5,0,1,Social Media,0
+CUST01305,2022-02-12,28,31,British Columbia,Free,0.0,2,1021.64,stable,6,4,18,2,1,Friend Referral,0
+CUST01306,2018-10-01,69,20,Ontario,Standard,9.99,2,23.95,stable,13,12,4,1,1,Social Media,0
+CUST01307,2021-12-14,30,27,British Columbia,Standard,9.99,3,1380.36,declining,15,5,12,1,1,Social Media,0
+CUST01308,2022-07-12,23,32,Ontario,Premium,19.99,2,13425.31,declining,33,17,9,2,1,Social Media,1
+CUST01309,2018-09-01,70,24,Alberta,Standard,9.99,3,1736.58,declining,23,11,24,2,1,Social Media,0
+CUST01310,2018-08-02,71,23,British Columbia,Free,0.0,1,265.51,growing,7,4,8,2,0,Social Media,0
+CUST01311,2023-10-05,8,18,Ontario,Premium,19.99,4,867.65,declining,33,24,29,1,1,Organic,1
+CUST01312,2022-12-09,18,26,Ontario,Standard,9.99,2,1966.64,declining,12,10,0,1,0,Social Media,0
+CUST01313,2023-11-04,7,22,Ontario,Free,0.0,2,431.06,declining,5,4,13,1,0,Social Media,1
+CUST01314,2021-07-17,35,24,British Columbia,Free,0.0,1,361.89,stable,7,3,0,2,1,Organic,0
+CUST01315,2022-02-12,28,29,British Columbia,Standard,9.99,3,472.81,declining,22,11,18,2,0,App Store,0
+CUST01316,2023-07-07,11,26,British Columbia,Free,0.0,2,524.24,growing,3,9,4,1,1,Friend Referral,0
+CUST01317,2023-12-04,6,22,Quebec,Free,0.0,1,276.04,declining,11,6,7,2,1,App Store,1
+CUST01318,2022-03-14,27,18,Quebec,Premium,19.99,4,5391.3,growing,34,24,7,3,1,Organic,0
+CUST01319,2024-03-03,3,33,British Columbia,Free,0.0,1,75.86,declining,9,2,28,0,0,App Store,1
+CUST01320,2024-05-02,1,36,Quebec,Standard,9.99,1,657.16,stable,15,13,1,4,1,Paid Ad,0
+CUST01321,2024-02-02,4,28,Ontario,Free,0.0,2,442.37,growing,2,4,16,2,1,Social Media,0
+CUST01322,2023-05-08,13,29,British Columbia,Standard,9.99,3,384.02,declining,11,16,59,2,0,Social Media,0
+CUST01323,2023-05-08,13,31,Ontario,Standard,9.99,2,787.29,stable,29,11,0,3,1,Friend Referral,0
+CUST01324,2024-01-03,5,42,Ontario,Free,0.0,1,639.44,stable,9,1,50,2,0,Friend Referral,1
+CUST01325,2022-08-11,22,20,British Columbia,Standard,9.99,2,2009.24,growing,19,10,0,4,1,Organic,0
+CUST01326,2023-08-06,10,28,Quebec,Free,0.0,2,1229.27,declining,8,6,27,2,1,Paid Ad,0
+CUST01327,2023-07-07,11,18,Ontario,Premium,19.99,3,1454.75,stable,30,16,48,4,1,Social Media,0
+CUST01328,2022-05-13,25,33,Ontario,Premium,19.99,3,2340.06,stable,27,18,74,1,1,App Store,0
+CUST01329,2023-02-07,16,29,Other,Standard,9.99,2,542.61,stable,24,9,9,3,1,Social Media,1
+CUST01330,2022-03-14,27,32,Ontario,Standard,9.99,1,1533.41,stable,16,12,30,1,1,Social Media,0
+CUST01331,2021-09-15,33,32,Ontario,Free,0.0,2,148.16,stable,7,0,1,0,1,Organic,1
+CUST01332,2022-05-13,25,37,Ontario,Standard,9.99,2,2314.83,stable,21,12,8,0,1,Social Media,0
+CUST01333,2021-10-15,32,34,Quebec,Standard,9.99,1,2728.4,stable,20,16,5,2,1,Paid Ad,0
+CUST01334,2019-11-25,55,36,British Columbia,Free,0.0,2,57.93,stable,9,4,7,1,1,Friend Referral,0
+CUST01335,2019-10-26,56,23,Ontario,Standard,9.99,1,866.6,declining,17,11,18,1,0,App Store,0
+CUST01336,2022-03-14,27,39,Quebec,Free,0.0,2,192.15,stable,10,6,1,3,0,Paid Ad,0
+CUST01337,2023-11-04,7,25,British Columbia,Standard,9.99,3,1948.68,stable,19,10,94,2,1,Organic,0
+CUST01338,2021-10-15,32,26,British Columbia,Free,0.0,1,115.91,stable,10,6,15,2,0,Organic,0
+CUST01339,2020-02-23,52,32,Other,Standard,9.99,1,1683.5,stable,16,10,31,0,1,Paid Ad,0
+CUST01340,2023-04-08,14,33,Ontario,Free,0.0,2,370.1,declining,9,2,26,3,1,Friend Referral,0
+CUST01341,2021-06-17,36,23,Alberta,Free,0.0,1,60.8,growing,4,5,21,1,1,Friend Referral,1
+CUST01342,2022-02-12,28,29,Alberta,Standard,9.99,1,718.61,stable,27,10,0,0,0,Social Media,0
+CUST01343,2024-04-02,2,41,British Columbia,Premium,19.99,2,6601.08,growing,35,16,10,1,1,App Store,0
+CUST01344,2022-06-12,24,20,Alberta,Standard,9.99,3,1940.25,growing,18,8,5,0,1,Friend Referral,1
+CUST01345,2021-12-14,30,41,Quebec,Free,0.0,2,352.98,growing,7,5,1,3,1,App Store,0
+CUST01346,2019-05-29,61,29,Alberta,Free,0.0,2,557.21,declining,4,4,6,1,0,Paid Ad,1
+CUST01347,2023-08-06,10,18,British Columbia,Premium,19.99,4,1128.35,declining,33,19,15,0,1,Friend Referral,0
+CUST01348,2024-05-02,1,21,Ontario,Standard,9.99,3,16.24,growing,12,10,3,2,1,Friend Referral,1
+CUST01349,2023-06-07,12,24,British Columbia,Free,0.0,1,1688.33,stable,5,6,8,2,1,Social Media,1
+CUST01350,2022-07-12,23,26,Ontario,Premium,19.99,3,3234.43,growing,35,25,7,0,1,Organic,0
+CUST01351,2023-03-09,15,30,Ontario,Premium,19.99,2,256.38,declining,31,18,0,0,0,Friend Referral,0
+CUST01352,2021-05-18,37,18,Quebec,Premium,19.99,3,4706.68,stable,30,26,14,1,0,Organic,0
+CUST01353,2022-06-12,24,32,Other,Premium,19.99,2,2610.48,growing,40,26,14,1,0,Paid Ad,0
+CUST01354,2022-03-14,27,23,British Columbia,Premium,19.99,4,1902.85,growing,32,34,50,2,0,Friend Referral,0
+CUST01355,2021-08-16,34,40,Alberta,Free,0.0,1,521.59,declining,10,3,5,2,1,Paid Ad,1
+CUST01356,2023-11-04,7,29,Ontario,Free,0.0,2,273.88,stable,4,6,8,0,1,Social Media,1
+CUST01357,2023-04-08,14,37,Quebec,Standard,9.99,2,3601.95,growing,11,15,7,2,1,Paid Ad,0
+CUST01358,2019-02-28,64,38,Quebec,Standard,9.99,2,695.97,stable,24,11,37,0,0,Friend Referral,0
+CUST01359,2021-07-17,35,38,Ontario,Standard,9.99,2,117.17,declining,14,12,7,4,1,App Store,0
+CUST01360,2022-04-13,26,27,Ontario,Standard,9.99,1,107.84,stable,16,14,8,1,1,Organic,1
+CUST01361,2021-07-17,35,26,Alberta,Standard,9.99,2,1115.22,stable,21,8,4,3,1,Friend Referral,1
+CUST01362,2019-08-27,58,29,British Columbia,Standard,9.99,1,5371.38,stable,24,13,0,0,0,Friend Referral,0
+CUST01363,2019-01-29,65,35,British Columbia,Free,0.0,2,787.54,stable,10,5,1,0,0,Social Media,0
+CUST01364,2023-01-08,17,27,Alberta,Free,0.0,2,71.15,stable,7,1,18,1,1,Social Media,0
+CUST01365,2020-05-23,49,30,Other,Standard,9.99,1,215.02,declining,27,12,17,1,1,Paid Ad,0
+CUST01366,2021-03-19,39,32,Quebec,Standard,9.99,3,1360.75,growing,15,17,5,1,1,Organic,0
+CUST01367,2024-05-02,1,24,Alberta,Free,0.0,1,150.98,stable,9,9,9,2,1,Organic,1
+CUST01368,2022-05-13,25,24,Ontario,Standard,9.99,2,632.58,growing,14,8,5,0,1,Social Media,0
+CUST01369,2024-03-03,3,29,Ontario,Standard,9.99,1,703.98,growing,19,12,19,1,1,Paid Ad,1
+CUST01370,2023-10-05,8,30,Other,Standard,9.99,2,3690.0,stable,17,6,27,0,0,Friend Referral,0
+CUST01371,2020-05-23,49,34,Quebec,Free,0.0,1,428.16,declining,7,11,34,2,1,Social Media,0
+CUST01372,2021-12-14,30,35,Quebec,Standard,9.99,3,2023.79,growing,24,11,2,3,0,Social Media,0
+CUST01373,2022-05-13,25,23,Ontario,Free,0.0,2,305.85,declining,12,4,17,1,0,App Store,1
+CUST01374,2022-12-09,18,25,Alberta,Premium,19.99,2,2482.45,stable,36,20,49,1,1,Organic,0
+CUST01375,2021-05-18,37,24,Ontario,Free,0.0,1,922.66,stable,9,3,15,1,0,Organic,1
+CUST01376,2023-06-07,12,40,Ontario,Standard,9.99,1,3599.61,growing,15,11,6,1,0,Organic,0
+CUST01377,2018-09-01,70,30,Ontario,Free,0.0,2,912.26,stable,4,3,15,2,0,Social Media,0
+CUST01378,2022-04-13,26,31,Quebec,Standard,9.99,1,63.18,stable,8,12,17,0,1,Friend Referral,0
+CUST01379,2021-07-17,35,31,Quebec,Standard,9.99,1,1237.57,stable,14,6,7,2,0,Friend Referral,0
+CUST01380,2024-05-02,1,25,British Columbia,Free,0.0,1,356.74,stable,7,12,1,3,0,Friend Referral,1
+CUST01381,2022-02-12,28,41,Ontario,Standard,9.99,3,1569.64,stable,27,10,13,1,1,Organic,0
+CUST01382,2023-01-08,17,33,Alberta,Free,0.0,1,251.56,stable,7,7,24,1,1,Social Media,1
+CUST01383,2019-08-27,58,31,Other,Free,0.0,2,730.95,stable,11,6,90,1,0,Social Media,1
+CUST01384,2024-03-03,3,23,Ontario,Standard,9.99,2,1394.36,declining,21,5,3,1,1,Organic,0
+CUST01385,2023-10-05,8,22,Alberta,Free,0.0,1,305.75,stable,10,6,18,1,1,Social Media,0
+CUST01386,2020-07-22,47,28,Other,Premium,19.99,2,7194.96,growing,27,26,0,1,0,Friend Referral,1
+CUST01387,2022-01-13,29,26,Ontario,Standard,9.99,1,2207.44,stable,22,12,52,1,0,Social Media,1
+CUST01388,2019-03-30,63,23,Ontario,Standard,9.99,1,518.0,declining,13,8,0,0,1,App Store,0
+CUST01389,2023-02-07,16,28,Other,Free,0.0,1,214.75,growing,8,6,6,0,1,Friend Referral,0
+CUST01390,2021-10-15,32,29,Ontario,Standard,9.99,2,6580.49,declining,18,13,1,0,0,Social Media,0
+CUST01391,2023-06-07,12,31,Ontario,Standard,9.99,3,855.64,stable,12,14,14,1,0,Social Media,1
+CUST01392,2023-03-09,15,27,Quebec,Free,0.0,1,1336.96,stable,6,7,6,0,0,Friend Referral,0
+CUST01393,2024-01-03,5,23,Quebec,Premium,19.99,4,586.64,growing,33,18,19,1,1,App Store,0
+CUST01394,2023-04-08,14,24,Quebec,Free,0.0,2,521.28,declining,8,8,9,1,1,App Store,0
+CUST01395,2022-04-13,26,39,Quebec,Premium,19.99,2,8842.56,declining,31,18,8,2,1,Social Media,0
+CUST01396,2022-01-13,29,22,Quebec,Free,0.0,1,756.1,declining,7,3,6,4,1,Friend Referral,1
+CUST01397,2024-05-02,1,33,Ontario,Premium,19.99,3,6488.1,growing,39,13,1,0,1,Social Media,0
+CUST01398,2022-10-10,20,34,Ontario,Standard,9.99,1,4618.34,declining,19,9,3,1,1,Friend Referral,1
+CUST01399,2023-02-07,16,30,British Columbia,Free,0.0,1,142.18,stable,12,5,15,1,1,Paid Ad,1
+CUST01400,2023-12-04,6,43,Alberta,Free,0.0,1,41.5,stable,8,5,10,1,1,Friend Referral,0
+CUST01401,2021-07-17,35,34,Other,Standard,9.99,1,3534.47,growing,18,12,1,0,0,Social Media,0
+CUST01402,2021-05-18,37,43,British Columbia,Premium,19.99,3,3608.17,stable,33,27,11,1,0,Friend Referral,0
+CUST01403,2022-07-12,23,26,Ontario,Free,0.0,2,1400.58,declining,6,3,0,1,1,Paid Ad,0
+CUST01404,2021-10-15,32,26,Other,Free,0.0,1,0.97,growing,7,6,10,3,1,Organic,1
+CUST01405,2024-04-02,2,34,Ontario,Standard,9.99,3,1578.7,growing,18,14,50,1,0,Social Media,0
+CUST01406,2022-10-10,20,29,Ontario,Standard,9.99,3,825.41,growing,20,14,5,0,1,Social Media,0
+CUST01407,2022-01-13,29,42,Alberta,Standard,9.99,1,577.75,growing,14,12,19,2,1,Social Media,1
+CUST01408,2020-07-22,47,33,British Columbia,Standard,9.99,2,1801.81,stable,27,15,20,0,1,Social Media,0
+CUST01409,2023-12-04,6,23,Ontario,Free,0.0,2,858.78,declining,8,3,7,0,1,Social Media,0
+CUST01410,2023-10-05,8,18,Other,Premium,19.99,3,1497.1,growing,27,21,13,1,0,Social Media,0
+CUST01411,2019-05-29,61,30,Other,Standard,9.99,1,2024.12,stable,17,13,9,0,0,Social Media,1
+CUST01412,2023-03-09,15,30,Ontario,Free,0.0,2,155.35,stable,5,5,4,0,0,Friend Referral,0
+CUST01413,2023-12-04,6,33,Alberta,Standard,9.99,2,1522.38,growing,13,12,21,1,1,Organic,0
+CUST01414,2022-06-12,24,39,Quebec,Standard,9.99,3,2846.8,stable,19,8,18,2,0,Paid Ad,1
+CUST01415,2022-01-13,29,38,Ontario,Free,0.0,1,158.29,growing,9,8,34,0,0,Social Media,0
+CUST01416,2023-03-09,15,26,Other,Standard,9.99,3,2183.4,stable,23,15,14,1,1,Friend Referral,0
+CUST01417,2021-12-14,30,21,Ontario,Free,0.0,2,571.77,growing,5,5,7,0,1,Social Media,0
+CUST01418,2023-02-07,16,22,Ontario,Standard,9.99,2,4031.64,stable,21,16,18,2,1,Social Media,0
+CUST01419,2022-06-12,24,25,Ontario,Premium,19.99,3,1105.76,growing,23,23,14,1,1,Friend Referral,0
+CUST01420,2023-07-07,11,28,Quebec,Free,0.0,1,148.37,declining,8,3,14,2,0,Friend Referral,1
+CUST01421,2023-02-07,16,33,Ontario,Standard,9.99,2,561.05,declining,13,12,28,0,1,App Store,1
+CUST01422,2020-07-22,47,25,Alberta,Premium,19.99,2,1155.49,stable,32,31,36,1,1,App Store,0
+CUST01423,2019-09-26,57,32,Quebec,Premium,19.99,3,783.65,stable,34,27,2,2,0,Friend Referral,0
+CUST01424,2022-01-13,29,33,Ontario,Standard,9.99,1,318.85,growing,13,14,5,2,1,Organic,0
+CUST01425,2022-02-12,28,32,Quebec,Standard,9.99,2,2369.82,declining,17,12,15,3,1,Friend Referral,0
+CUST01426,2021-04-18,38,23,British Columbia,Standard,9.99,1,4462.4,stable,14,8,12,0,1,Social Media,0
+CUST01427,2023-10-05,8,34,Ontario,Premium,19.99,4,92.45,declining,23,11,15,2,0,Social Media,0
+CUST01428,2023-01-08,17,45,Ontario,Premium,19.99,4,2467.82,growing,23,26,8,0,1,Organic,0
+CUST01429,2024-03-03,3,32,British Columbia,Free,0.0,1,537.74,growing,6,11,7,0,1,Social Media,0
+CUST01430,2019-12-25,54,18,Ontario,Standard,9.99,3,1909.68,stable,17,10,1,1,0,Social Media,0
+CUST01431,2024-01-03,5,39,Alberta,Standard,9.99,2,97.12,growing,24,13,14,3,1,Social Media,0
+CUST01432,2021-10-15,32,26,Ontario,Standard,9.99,3,1897.23,stable,12,10,2,0,1,App Store,0
+CUST01433,2021-08-16,34,46,British Columbia,Standard,9.99,3,511.28,growing,20,9,16,1,0,Social Media,0
+CUST01434,2019-05-29,61,31,British Columbia,Standard,9.99,2,4700.53,declining,18,8,51,1,1,Paid Ad,0
+CUST01435,2019-02-28,64,19,British Columbia,Premium,19.99,2,886.43,declining,29,28,4,2,0,Social Media,0
+CUST01436,2022-01-13,29,18,Ontario,Free,0.0,1,19.43,growing,6,4,2,3,1,Social Media,1
+CUST01437,2021-12-14,30,41,Ontario,Free,0.0,2,334.81,stable,10,5,0,0,1,Friend Referral,0
+CUST01438,2021-11-14,31,38,Ontario,Standard,9.99,3,586.15,stable,8,8,7,3,1,App Store,0
+CUST01439,2019-07-28,59,46,British Columbia,Free,0.0,1,1016.09,stable,9,5,3,0,0,Friend Referral,0
+CUST01440,2022-04-13,26,31,Ontario,Free,0.0,2,1359.33,stable,8,3,10,1,0,Friend Referral,0
+CUST01441,2022-07-12,23,30,Ontario,Free,0.0,1,198.33,growing,10,4,11,1,1,App Store,0
+CUST01442,2024-03-03,3,28,Ontario,Standard,9.99,1,1055.82,growing,14,19,6,1,1,Friend Referral,1
+CUST01443,2022-08-11,22,26,Alberta,Premium,19.99,2,1399.92,stable,32,16,20,3,1,App Store,1
+CUST01444,2022-04-13,26,28,Other,Standard,9.99,1,247.5,declining,20,12,35,0,1,App Store,0
+CUST01445,2019-06-28,60,32,Quebec,Standard,9.99,3,79.34,declining,21,11,3,1,1,Organic,0
+CUST01446,2022-04-13,26,25,British Columbia,Free,0.0,2,314.05,growing,7,6,27,2,0,App Store,0
+CUST01447,2019-12-25,54,19,Ontario,Standard,9.99,1,2072.05,stable,23,12,2,4,1,Social Media,0
+CUST01448,2023-12-04,6,32,British Columbia,Standard,9.99,2,663.59,declining,12,15,3,1,1,Paid Ad,0
+CUST01449,2024-03-03,3,24,British Columbia,Standard,9.99,1,700.82,growing,14,15,12,0,0,Social Media,0
+CUST01450,2021-04-18,38,18,British Columbia,Free,0.0,2,148.18,stable,9,9,5,0,0,Social Media,1
+CUST01451,2019-02-28,64,34,Ontario,Free,0.0,1,450.39,stable,8,2,0,0,1,Paid Ad,0
+CUST01452,2022-12-09,18,23,British Columbia,Free,0.0,1,7.93,stable,14,5,5,0,1,Organic,0
+CUST01453,2018-08-02,71,35,Ontario,Standard,9.99,3,3243.54,stable,27,11,35,2,1,Friend Referral,0
+CUST01454,2024-02-02,4,35,Ontario,Premium,19.99,3,4727.2,declining,36,28,2,1,0,Social Media,0
+CUST01455,2022-10-10,20,32,Ontario,Premium,19.99,2,530.06,growing,24,20,21,0,1,Organic,0
+CUST01456,2019-05-29,61,48,Ontario,Standard,9.99,3,120.7,declining,10,17,19,0,1,Paid Ad,0
+CUST01457,2020-05-23,49,30,Ontario,Standard,9.99,2,307.6,growing,20,16,1,3,1,Organic,0
+CUST01458,2023-09-05,9,29,Ontario,Premium,19.99,2,27417.94,stable,26,23,5,0,1,App Store,0
+CUST01459,2019-03-30,63,35,Ontario,Free,0.0,1,723.84,declining,8,5,3,1,1,Social Media,0
+CUST01460,2022-03-14,27,30,Ontario,Standard,9.99,3,2183.28,declining,15,11,0,1,1,App Store,0
+CUST01461,2019-02-28,64,39,Ontario,Premium,19.99,3,2359.22,stable,33,14,2,1,1,App Store,0
+CUST01462,2023-06-07,12,22,Ontario,Free,0.0,1,160.58,stable,5,3,3,2,1,Friend Referral,0
+CUST01463,2021-07-17,35,22,Ontario,Premium,19.99,3,2673.11,growing,34,19,2,1,0,Paid Ad,0
+CUST01464,2022-02-12,28,36,Quebec,Premium,19.99,2,4759.53,growing,34,17,1,1,0,Organic,0
+CUST01465,2023-04-08,14,22,Other,Standard,9.99,3,26.64,stable,19,7,11,0,0,App Store,0
+CUST01466,2023-03-09,15,35,Alberta,Premium,19.99,2,1722.6,stable,24,22,5,0,0,Friend Referral,0
+CUST01467,2021-04-18,38,33,British Columbia,Standard,9.99,2,38.56,stable,17,16,35,1,1,Social Media,1
+CUST01468,2023-11-04,7,26,British Columbia,Standard,9.99,2,2454.3,stable,18,16,3,0,1,Friend Referral,0
+CUST01469,2023-08-06,10,33,Ontario,Free,0.0,2,1069.24,stable,12,1,13,4,1,Friend Referral,0
+CUST01470,2022-04-13,26,22,Other,Free,0.0,1,427.68,growing,13,6,34,1,1,Friend Referral,0
+CUST01471,2022-10-10,20,24,Quebec,Free,0.0,1,253.75,stable,8,3,0,0,1,Organic,0
+CUST01472,2024-05-02,1,29,Alberta,Standard,9.99,3,141.59,declining,21,12,10,0,0,Organic,0
+CUST01473,2023-10-05,8,31,Ontario,Free,0.0,2,6.1,declining,11,3,8,1,0,Organic,1
+CUST01474,2020-03-24,51,28,British Columbia,Free,0.0,1,143.29,stable,5,5,39,2,1,Social Media,0
+CUST01475,2020-03-24,51,34,Ontario,Free,0.0,1,634.36,growing,10,5,16,2,0,Organic,0
+CUST01476,2022-07-12,23,33,Other,Standard,9.99,3,5145.89,stable,18,12,6,1,0,Friend Referral,0
+CUST01477,2023-11-04,7,41,Ontario,Premium,19.99,3,2757.69,stable,32,33,18,1,0,Social Media,0
+CUST01478,2023-05-08,13,30,British Columbia,Premium,19.99,4,4066.68,growing,30,23,13,3,0,App Store,0
+CUST01479,2022-08-11,22,39,Ontario,Standard,9.99,1,1243.95,stable,22,16,6,0,0,Friend Referral,0
+CUST01480,2023-03-09,15,37,Alberta,Premium,19.99,4,5825.53,declining,32,17,23,1,1,Social Media,0
+CUST01481,2024-04-02,2,47,Ontario,Standard,9.99,2,1784.72,stable,24,13,16,0,0,Organic,0
+CUST01482,2023-07-07,11,30,Alberta,Standard,9.99,1,2717.37,stable,18,15,0,1,0,Friend Referral,0
+CUST01483,2019-02-28,64,28,British Columbia,Standard,9.99,1,4974.82,stable,18,10,30,0,1,App Store,1
+CUST01484,2023-11-04,7,39,British Columbia,Free,0.0,2,773.82,growing,6,3,7,1,0,Friend Referral,0
+CUST01485,2019-02-28,64,33,Ontario,Premium,19.99,4,11122.01,growing,33,27,15,0,1,Friend Referral,0
+CUST01486,2024-02-02,4,39,Alberta,Standard,9.99,3,2538.92,declining,12,8,7,0,0,Social Media,1
+CUST01487,2020-08-21,46,36,Quebec,Standard,9.99,2,3226.73,growing,25,9,31,2,1,Social Media,0
+CUST01488,2019-05-29,61,18,Ontario,Standard,9.99,3,1360.42,stable,24,11,15,2,1,Friend Referral,0
+CUST01489,2023-11-04,7,33,British Columbia,Free,0.0,1,844.26,stable,9,5,12,1,0,Organic,1
+CUST01490,2019-03-30,63,33,Ontario,Free,0.0,1,44.27,declining,9,5,58,0,0,Social Media,1
+CUST01491,2020-09-20,45,31,Ontario,Standard,9.99,1,3696.38,declining,15,14,4,1,0,Organic,1
+CUST01492,2021-12-14,30,30,British Columbia,Free,0.0,1,3.4,growing,3,2,1,1,1,Friend Referral,1
+CUST01493,2023-10-05,8,19,Quebec,Standard,9.99,1,2578.03,stable,14,10,10,1,1,Friend Referral,0
+CUST01494,2023-11-04,7,37,British Columbia,Standard,9.99,2,409.79,stable,23,11,8,1,0,Friend Referral,1
+CUST01495,2024-01-03,5,33,British Columbia,Standard,9.99,1,6667.33,stable,15,20,9,1,1,Social Media,0
+CUST01496,2023-12-04,6,38,Quebec,Standard,9.99,1,1035.3,stable,18,8,14,2,0,Friend Referral,0
+CUST01497,2018-08-02,71,20,Alberta,Standard,9.99,1,2120.53,growing,19,9,14,0,1,Paid Ad,0
+CUST01498,2021-12-14,30,34,Ontario,Standard,9.99,1,38.11,declining,19,10,7,1,1,Friend Referral,0
+CUST01499,2020-05-23,49,29,British Columbia,Standard,9.99,3,272.37,stable,18,9,29,3,1,App Store,1
+CUST01500,2023-01-08,17,32,Alberta,Standard,9.99,1,3046.83,stable,14,8,15,0,1,Organic,0
