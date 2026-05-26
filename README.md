@@ -127,7 +127,7 @@ project-02-churn-analysis/
 **Tool:** Looker Studio  
 **Pages:** 3 — Executive Summary · Engagement & Behaviour · At-Risk Customer Table
 
-**[→ View Live Dashboard](#)** *(replace # with your published Looker Studio link)*
+**[→ View Live Dashboard](https://datastudio.google.com/s/iN6a2toK1ME)**
 
 ### Page 1 — Executive Summary
 ![Executive Summary](dashboard-screenshots/page1-executive-summary.png)
